@@ -1,0 +1,67 @@
+# ========================
+# Python Ignore Patterns
+# ========================
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+venv/
+
+# ========================
+# VSCode & System Files
+# ========================
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ========================
+# Logs and Databases
+# ========================
+*.log
+*.sqlite3
+database.db
+*.db
+
+# ========================
+# Environment Secrets
+# ========================
+.env
+token.env
+*.env
+
+# ========================
+# PyInstaller and Pip Artifacts
+# ========================
+*.manifest
+*.spec
+pip-wheel-metadata/
+
+# ========================
+# Jupyter/IPython
+# ========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ========================
+# Backup & Temp Files
+# ========================
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# ========================
+# Compiled Files & Cache
+# ========================
+.cache/
+.mypy_cache/
+pytest_cache/
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+*.cover
