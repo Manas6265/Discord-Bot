@@ -1,3 +1,5 @@
+{ I am not good in this, so i used AI :)  }
+
 Here’s a **backup summary of your Discord bot’s data flow and function mapping**, saved in a format you can keep, share, or restore in a future session:
 
 ## **Discord Bot Data Flow & Function Mapping (Backup)**
