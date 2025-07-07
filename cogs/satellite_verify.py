@@ -1,90 +1,133 @@
-from utils.satellite_helpers import query_all_satellite_sources
-import discord
-from discord.ext import commands
-from discord import app_commands
-import re
-import datetime
+import asyncio
+from datetime import datetime
+from utils.error_logging_helper import log_error
+from utils.tracker import log_conversation, log_provider_decision
+from utils.satellite_helpers import (
+    satellite_image_verify,
+    satellite_metadata_lookup,
+    satellite_reverse_search,
+)
+from typing import Optional
+from utils.request_recovery_manager import log_failed_request
 
-class SatelliteVerify(commands.Cog):
-    def __init__(self, bot):
-        self.bot = bot
 
-    @commands.command(name="satellite_verify")
-    async def satellite_verify_prefix(self, ctx, *, query: str = ""):
-        await self._satellite_verify_core(ctx, query, is_slash=False)
+async def analyze(query: str, options: dict | None = None) -> dict:
+    """
+    Standardized analyze interface for satellite verification.
+    options: can include {"mode": "image"|"metadata"|"reverse"}
+    """
+    result = {
+        "text": "",
+        "images": [],
+        "audio": [],
+        "video": [],
+        "links": [],
+        "maps": [],
+        "files": [],
+        "error": None
+    }
+    confidence = 0.0
+    details = {}
+    session_id = str(options.get("session_id") or "") if options else ""
+    user_id = str(options.get("user_id") or "") if options else ""
 
-    @app_commands.command(name="satellite_verify", description="Verify satellite activity via coordinates.")
-    @app_commands.describe(query="Coordinates in 'lat, lon' format (e.g., '28.7041, 77.1025')")
-    async def satellite_verify_slash(self, interaction: discord.Interaction, query: str = ""):
-        await self._satellite_verify_core(interaction, query, is_slash=True)
+    mode = options.get("mode") if options and "mode" in options else "image"
+    prompt = ""
 
-    async def _satellite_verify_core(self, ctx_or_inter, query, is_slash):
-        coords = None
-        match = re.search(r"(-?\d{1,3}\.\d+)[,\s]+(-?\d{1,3}\.\d+)", query)
-        if match:
+    try:
+        if mode == "image":
+            prompt = f"Satellite image verification for: {query}"
             try:
-                lat = float(match.group(1))
-                lon = float(match.group(2))
-                coords = (lat, lon)
-            except Exception:
-                coords = None
+                verify_result = await satellite_image_verify(query)
+                img_url = verify_result.get("image_url", "")
+                summary = verify_result.get("summary", "No summary.")
+                if img_url:
+                    result["images"].append(img_url)
+                result["text"] = summary
+                confidence = verify_result.get("confidence", 0.0)
+                details["raw"] = verify_result
+            except Exception as e:
+                await log_failed_request(user_id, f"satellite image {query}", str(e))
+                log_error("satellite_verify.analyze.image", e)
+                result["text"] = f"Error: {e}"
+                result["error"] = str(e)
 
-        if not coords:
-            await self._send(ctx_or_inter, is_slash, content="❌ Please provide coordinates in the format: `latitude, longitude` (e.g. `28.7041, 77.1025`).")
-            return
+        elif mode == "metadata":
+            prompt = f"Satellite metadata lookup for: {query}"
+            try:
+                meta_result = await satellite_metadata_lookup(query)
+                meta = meta_result.get("metadata", "No metadata found.")
+                result["text"] = meta
+                confidence = meta_result.get("confidence", 0.0)
+                details["raw"] = meta_result
+            except Exception as e:
+                await log_failed_request(user_id, f"satellite metadata {query}", str(e))
+                log_error("satellite_verify.analyze.metadata", e)
+                result["text"] = f"Error: {e}"
+                result["error"] = str(e)
 
-        radius_km = 50
-        today = datetime.datetime.utcnow().date().isoformat()
-        await self._defer(ctx_or_inter, is_slash)
-        await self._send(
-            ctx_or_inter, is_slash,
-            content=(
-                f"🛰️ Scanning satellite sources near "
-                f"[{coords[0]}, {coords[1]}](https://maps.google.com/?q={coords[0]},{coords[1]}) "
-                f"within `{radius_km} km`, date `{today}`..."
-            )
+        elif mode == "reverse":
+            prompt = f"Satellite reverse search for: {query}"
+            try:
+                reverse_result = await satellite_reverse_search(query)
+                links = reverse_result.get("links", [])
+                summary = reverse_result.get("summary", "No summary.")
+                if links:
+                    result["links"].extend(links)
+                result["text"] = summary
+                confidence = reverse_result.get("confidence", 0.0)
+                details["raw"] = reverse_result
+            except Exception as e:
+                await log_failed_request(user_id, f"satellite reverse {query}", str(e))
+                log_error("satellite_verify.analyze.reverse", e)
+                result["text"] = f"Error: {e}"
+                result["error"] = str(e)
+
+        else:
+            result["text"] = f"Unknown mode: {mode}"
+            result["error"] = f"Unknown mode: {mode}"
+            details["error"] = f"Unknown mode: {mode}"
+
+        log_provider_decision(
+            session_id=session_id,
+            query=query,
+            providers_tried=[f"satellite_verify:{mode}"],
+            provider_results=[details.get("raw", {})],
+            final_provider="satellite_verify",
+            final_result="success" if not result["error"] else "error"
+        )
+        log_conversation(
+            session_id=session_id,
+            user_query=query,
+            processed_query=prompt,
+            bot_response=result["text"],
+            provider="satellite_verify",
+            provider_version="v1",
+            context=options if options else {},
+            user_info={"user_id": user_id}
         )
 
-        try:
-            events = await query_all_satellite_sources(coords[0], coords[1], radius_km, date=today)
-            if not events:
-                await self._send(ctx_or_inter, is_slash, content="No satellite data found near these coordinates.")
-                return
+    except Exception as e:
+        await log_failed_request(user_id, f"satellite verify {query}", str(e))
+        log_error("satellite_verify.analyze", e)
+        details["error"] = str(e)
+        result["error"] = str(e)
+        result["text"] = f"[ERROR] {e}"
+        log_conversation(
+            session_id=session_id,
+            user_query=query,
+            processed_query=prompt,
+            bot_response=result["text"],
+            provider="satellite_verify",
+            provider_version="v1",
+            context=options if options else {},
+            user_info={"user_id": user_id}
+        )
 
-            # Pagination: 10 events per embed
-            chunks = [events[i:i+10] for i in range(0, len(events), 10)]
-            for idx, chunk in enumerate(chunks):
-                embed = discord.Embed(
-                    title="📡 Satellite Event Results",
-                    description=f"Page {idx+1} of {len(chunks)}",
-                    color=discord.Color.teal()
-                )
-                for e in chunk:
-                    title = f"{e.get('source', 'Unknown')} - {e.get('date', e.get('acq_time', 'N/A'))} | {e.get('type', 'Unknown')}"
-                    info = f"{e.get('note', '')}\n"
-                    if 'confidence' in e or 'brightness' in e:
-                        info += f"Confidence: {e.get('confidence', 'N/A')}, Brightness: {e.get('brightness', 'N/A')}\n"
-                    if e.get("preview_url"):
-                        info += f"[Preview]({e['preview_url']})"
-                    embed.add_field(name=title, value=info.strip(), inline=False)
-                await self._send(ctx_or_inter, is_slash, embed=embed)
-
-        except Exception as e:
-            await self._send(ctx_or_inter, is_slash, content=f"❌ Error: {e}")
-
-    async def _send(self, ctx_or_inter, is_slash, content=None, embed=None):
-        if is_slash:
-            # For slash, always use followup.send for consistency
-            await ctx_or_inter.followup.send(content=content, embed=embed)
-        else:
-            await ctx_or_inter.send(content=content, embed=embed)
-
-    async def _defer(self, ctx_or_inter, is_slash):
-        if is_slash:
-            await ctx_or_inter.response.defer(thinking=True)
-        else:
-            async with ctx_or_inter.typing():
-                pass
-
-async def setup(bot):
-    await bot.add_cog(SatelliteVerify(bot))
+    return {
+        "result": result,
+        "confidence": confidence,
+        "details": details,
+        "source": "satellite_verify",
+        "timestamp": datetime.utcnow().isoformat()
+    }

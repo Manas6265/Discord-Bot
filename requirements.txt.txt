@@ -1,3 +1,28 @@
 discord.py==2.5.2
 aiohttp
 python-dotenv
+requests
+# For AI integrations
+openai
+cohere
+google-generativeai
+huggingface_hub
+# For image and vision helpers
+opencv-python
+Pillow
+# For web scraping/search
+beautifulsoup4
+lxml
+# For OSINT tools
+python-whois
+# For async subprocess (if needed for theHarvester, etc.)
+asyncio
+# For data handling
+pandas
+# For rate limiting and retry logic (optional, but recommended)
+tenacity
+# For YAML/JSON config parsing (optional)
+pyyaml
+# For logging enhancements (optional)
+loguru
+jaxa-earth==0.1.4

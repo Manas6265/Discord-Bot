@@ -1,0 +1,6193 @@
+{
+  "Europe": {
+    "Albania": [
+      {
+        "country": "Albania",
+        "source_name": "Official Gazette of the Republic of Albania",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Albanian",
+        "notes": "The government's official publisher of legislative texts and other official documents."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Albania's Prime Minister Office",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, Albanian",
+        "notes": "Official communications and updates from the Prime Minister's office."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Ministry of Interior Affairs",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Albanian",
+        "notes": "Information on public safety, border control, and internal affairs."
+      },
+      {
+        "country": "Albania",
+        "source_name": "National News Agency (ATA)",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Albanian, English",
+        "notes": "State-run news agency, providing local and regional news."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Top Channel",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Albanian",
+        "notes": "One of the major private TV stations, offering news and current affairs."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Radio Televizioni Shqiptar (RTSH)",
+        "bucket": "National Media",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Albanian",
+        "notes": "Public broadcaster providing TV and radio services."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Balkan Transition Report",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Quarterly report on political, economic, and social developments by the International Crisis Group."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Open Albania",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A civil society organization promoting transparency and accountability."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Albanian Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Albanian, English",
+        "notes": "A government initiative providing access to public sector data."
+      },
+      {
+        "country": "Albania",
+        "source_name": "Shqiperia Online",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Albanian",
+        "notes": "News portal covering local and regional news, with a focus on community issues."
+      }
+    ],
+    "Andorra": [
+      {
+        "country": "Andorra",
+        "source_name": "Andorra Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Catalan, Spanish",
+        "notes": "Official government website, provides latest news and information about Andorra"
+      },
+      {
+        "country": "Andorra Press Agency",
+        "source_name": "APA Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Catalan, Spanish, English",
+        "notes": "State-owned news agency, offers objective news and reports"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "El Peridic d'Andorra",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Catalan",
+        "notes": "Daily online newspaper covering local news and events"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Radio Valira",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "Catalan",
+        "notes": "Local radio station, live stream available online"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Amnesty International Andorra",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Catalan, Spanish",
+        "notes": "Local chapter of the global human rights organization"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Open Street Map",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "User-generated map data, provides detailed geographical information"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Internet Society Andorra",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Catalan, English",
+        "notes": "Non-profit organization promoting internet accessibility and growth"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Andorra Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Online forum for expats and tourists, offers local insights and community discussions"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Data.ad",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government data portal, provides statistical information and datasets"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "CIARAN - Center for Strategic and International Studies Andorra",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Think tank focused on international relations and strategic studies"
+      },
+      {
+        "country": "Andorra",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "App",
+        "language": "English",
+        "notes": "Mobile app providing tourist information, reviews, and location trackers"
+      }
+    ],
+    "Armenia": [
+      {
+        "country": "Armenia",
+        "source_name": "Armenia Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "President of Armenia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en, ru",
+        "notes": "Official website of the President, offers speeches, news, and events"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "National Assembly of Armenia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Website provides access to laws, regulations, and parliamentary activities"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Pan-Armenian Media Group",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Provides news on Armenia's current affairs, politics, and more"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Hetq Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Independent news website focusing on investigations and analysis"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Lurer.com",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "hy",
+        "notes": "News portal covering diverse topics including politics, economy, and culture"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Yerevan Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "English-language newspaper based in Yerevan, also available in print"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "ArmeniaToday",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Online news platform for daily news and developments in Armenia"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Asbarez Online",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Armenian news website focused on community news, culture, and opinions"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Hayastan TV",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "YouTube",
+        "language": "hy, en",
+        "notes": "TV channel operated by Hayastan All Armenian Fund, covers humanitarian projects"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Open Data Armenia",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data portal initiated by the government, provides various datasets"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "ArmStats",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Statistics portal for Armenia, offers data on demographics, economy, and more"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "TechArm.net",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "IT news website, covers latest technologies and startups from Armenia"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Cyber.am",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Initiative to coordinate cybersecurity efforts, provides news and resources"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Armenia's Ministry of Emergency Situations",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Official ministry website, offers updates and resources for emergencies"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "COVID-19 Armenia Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Real-time data and news on COVID-19 situation in Armenia"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "ArmInfo News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "ru",
+        "notes": "News portal providing political and economic news in Russian"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Epress.am",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "hy, en",
+        "notes": "Online news platform for current affairs, with a focus on human rights"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Radio Free Europe: Armenian Service",
+        "bucket": "Radio",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "hy, en",
+        "notes": "Radio station broadcasting news and analysis via radio and online platforms"
+      }
+    ],
+    "Austria": [
+      {
+        "country": "Austria",
+        "source_name": "Bundeskanzleramt",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "Official website of the Federal Chancellery"
+      },
+      {
+        "country": "Austria",
+        "source_name": "ORF",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Largest public broadcaster in Austria"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Der Standard",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "German",
+        "notes": "National daily newspaper"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Wiener Zeitung",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "German",
+        "notes": "Official state-owned newspaper, publishes public notices"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Salzburger Nachrichten",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Regional daily newspaper, Salzburg-focused"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Kleine Zeitung",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "German",
+        "notes": "Daily newspaper, covers southern Austria"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Austria Presse Agentur",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "German",
+        "notes": "National news agency, provides news to media outlets"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Netzpolitik.at",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Austrian tech and politics blog"
+      },
+      {
+        "country": "Austria",
+        "source_name": "CyberHelp",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "Government-backed cyber security portal"
+      },
+      {
+        "country": "Austria",
+        "source_name": "Community of Open Source Intelligence",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Online community for OSINT enthusiasts"
+      }
+    ],
+    "Azerbaijan": [
+      {
+        "country": "Azerbaijan",
+        "source_name": "President of Azerbaijan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN, AZ",
+        "notes": "Official presidential website with English translations"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "State Statistical Committee",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "AZ",
+        "notes": "Official government statistics portal"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Trend News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN, AZ",
+        "notes": "Leading news agency in Azerbaijan"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Azerbaijan Public Television",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "AZ",
+        "notes": "Official public broadcaster"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Regional Voices",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Regional news and analysis platform"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Baku News Agency",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN, AZ",
+        "notes": "Focus on socio-political and economic issues"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Amnesty International - Azerbaijan",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Human rights organization reporting"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Transparency International - Azerbaijan",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN, AZ",
+        "notes": "Anti-corruption initiatives and reports"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "AZdata",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Open data platform for Azerbaijan"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Cyber Security Center",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "AZ",
+        "notes": "Official government cyber security portal"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Reddit: Azerbaijan",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Subreddit for local community, news, and discussions"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Azerbaijan Election Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "AZ",
+        "notes": "Official government elections information"
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "COVID-19 Azerbaijan",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official COVID-19 statistics and information"
+      }
+    ],
+    "Belgium": [
+      {
+        "country": "Belgium",
+        "source_name": "Federal Public Service Interior",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Dutch, French",
+        "notes": "Official government source for law enforcement and interior matters."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "The Belgian Ministry of Defence",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English, French, Dutch",
+        "notes": "Official defence and military communications."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "National Institute for Criminalistics and Criminology (NICC)",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French, Dutch",
+        "notes": "Official crime stats and research institute."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "RTBF News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "French-language public broadcaster."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "VRT NWS",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "Dutch-language public news outlet."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Le Soir",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "French daily newspaper."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "De Standaard",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Dutch",
+        "notes": "Dutch-language online newspaper."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Brussels Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "English-language news focused on Brussels region."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Bruzz",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French, Dutch",
+        "notes": "Bi-lingual regional news and culture outlet."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Amnesty International Belgium",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French, Dutch",
+        "notes": "Human rights reports and advocacy."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Tech Belgium",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Tech industry news and events."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Cyber Security Belgium",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French, Dutch, English",
+        "notes": "Official government cyber security agency."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "COVID-19 BE",
+        "bucket": "Health",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French, Dutch, English",
+        "notes": "Official coronavirus information and statistics."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Red Cross Belgium",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French, Dutch",
+        "notes": "Humanitarian aid and community support."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government open data platform."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Statbel",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French, Dutch, English",
+        "notes": "National statistics institute."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "IPM Group",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Media group audience measurement and surveys."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "Belgian Centre for Cybersecurity",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French, Dutch, English",
+        "notes": "Official cybersecurity advice and warnings."
+      },
+      {
+        "country": "Belgium",
+        "source_name": "EU Intelligence Analysis Centre",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "EU-focused intelligence analysis."
+      }
+    ],
+    "Bosnia and Herzegovina": [
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Official Gazette of BiH",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Bosnian",
+        "notes": "Official government publications and laws"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "President of BiH",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Office of the President, includes speeches and official statements"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Central Election Commission",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Bosnian",
+        "notes": "Official election results and data"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Klix.ba",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Bosnian",
+        "notes": "Online news portal covering national issues"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Dnevni Avaz",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Bosnian",
+        "notes": "Daily newspaper, provides comprehensive coverage"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "RTV BH",
+        "bucket": "Broadcast Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Bosnian",
+        "notes": "Public broadcaster, offers TV and radio content"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "N1 TV",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Croatian",
+        "notes": "Regional TV channel covering Croatia and BiH"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Zurnal",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Bosnian",
+        "notes": "Investigative journalism platform, publishes reports on current affairs"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Transparency International BiH",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Corruption reports and advocacy"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "BH Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data platform, provides various datasets"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Cyber Crime Police",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Bosnian",
+        "notes": "Official police resource on cyber crime and incidents"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "TechLife BH",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Bosnian",
+        "notes": "Technology news and reviews"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "BHTelecom Directory",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Bosnian",
+        "notes": "Phone directory for fixed lines"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "BiH Business Directory",
+        "bucket": "Business",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Bosnian",
+        "notes": "Listings of businesses and companies"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "COVID-19 BiH Info",
+        "bucket": "Health",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Bosnian",
+        "notes": "Official COVID-19 information and statistics"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Geographic Information System",
+        "bucket": "Mapping",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official GIS data and maps"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "OSCE Mission",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Security and election monitoring reports"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "source_name": "Europol Reports",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Europol's public reports, includes crime and threat assessments"
+      }
+    ],
+    "Belarus": [
+      {
+        "country": "BY",
+        "source_name": "President of the Republic of Belarus",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Belarusian, Russian",
+        "notes": "Official statements and speeches"
+      },
+      {
+        "country": "BY",
+        "source_name": "National State Television and Radio Company of the Republic of Belarus",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Belarusian, Russian",
+        "notes": "State-run media outlet"
+      },
+      {
+        "country": "BY",
+        "source_name": "BelTA",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Multilingual",
+        "notes": "State news agency"
+      },
+      {
+        "country": "BY",
+        "source_name": "Regionalny portal",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Belarusian",
+        "notes": "Regional news portal"
+      },
+      {
+        "country": "BY",
+        "source_name": "Belorussky Partisan",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Russian",
+        "notes": "Oppositional NGO platform"
+      },
+      {
+        "country": "BY",
+        "source_name": "TechMap.by",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English, Belarusian, Russian",
+        "notes": "IT sector news"
+      },
+      {
+        "country": "BY",
+        "source_name": "Cyber-Security Belorus",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Official government portal on cyber security"
+      },
+      {
+        "country": "BY",
+        "source_name": "Minsk Live",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Belarusian, Russian",
+        "notes": "Local community platform"
+      },
+      {
+        "country": "BY",
+        "source_name": "Statistical Office of the Republic of Belarus",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Belarusian, Russian",
+        "notes": "Official government statistics"
+      },
+      {
+        "country": "BY",
+        "source_name": "Foreign Affairs Ministry of Belarus",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Belarusian, Russian, English",
+        "notes": null
+      },
+      {
+        "country": "BY",
+        "source_name": "FlightRadar24",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time flight tracking"
+      }
+    ],
+    "Bulgaria": [
+      {
+        "country": "Bulgaria",
+        "source_name": "Government Press Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "Official government press releases."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "National Statistical Institute",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Bulgarian, English",
+        "notes": "Official statistics portal."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Nova TV",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Bulgarian",
+        "notes": "Private TV station with national reach."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Dnevnik",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "Online newspaper."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Mediapool.bg",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Bulgarian",
+        "notes": "News agency and online platform."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Balkan Insight",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Regional news outlet covering Southeast Europe."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Radio Free Europe Bulgaria",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "Local branch of the international broadcaster."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Bulgarian Center for Not-for-Profit Law",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Bulgarian, English",
+        "notes": "Promoting transparency and civil society."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Open Society Foundations Bulgaria",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Bulgarian, English",
+        "notes": "Local initiatives for democratic reforms."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "TechForum.bg",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "IT and tech news platform."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Cyber.bg",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "Bulgarian cybersecurity news and analysis."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Sofia City Guide",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community platform for the capital."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Open Data Bulgaria",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Bulgarian, English",
+        "notes": "Government open data portal."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "COVID-19 BG Info",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Bulgarian, English",
+        "notes": "Official COVID-19 tracker."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Election Results",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Bulgarian",
+        "notes": "Official election commission results portal."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Who.is",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Domain and company intelligence."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Vazrazhdane",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Bulgarian",
+        "notes": "Regional online newspaper."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "EU Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "European Union's open data platform, with Bulgaria-specific datasets."
+      },
+      {
+        "country": "Bulgaria",
+        "source_name": "Business Monitor International",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Business intelligence and reports."
+      }
+    ],
+    "Croatia": [
+      {
+        "country": "Croatia",
+        "source_name": "Government of Croatia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Croatian, English",
+        "notes": "Official government website, provides reliable information on policies and initiatives."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "HRT - Croatian Radio Television",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Croatian, English",
+        "notes": "Public broadcaster offering news and multimedia content covering local and regional events."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "Jutarnji List",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Croatian",
+        "notes": "One of the leading daily newspapers in Croatia, offering comprehensive news coverage."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "Regionalni",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Croatian",
+        "notes": "Online platform for regional news, focusing on various counties of Croatia."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "NGO.hr",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Croatian",
+        "notes": "A portal for Croatian NGOs, providing news, events, and resources related to civil society initiatives."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "TechIT",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Croatian",
+        "notes": "Croatian tech news and reviews website, covering gadgets, gaming, and local tech startups."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "Cyber.hr",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "Croatian",
+        "notes": "Online community and forum focusing on cybersecurity and tech discussions."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "Croatia Week",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community portal sharing news, stories, and events related to Croatian culture and tourism."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "Dnevnik",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Croatian",
+        "notes": "Popular daily newspaper offering comprehensive coverage of national and international news."
+      },
+      {
+        "country": "Croatia",
+        "source_name": "e-Obavijesti",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Croatian",
+        "notes": "Official government portal for public notices and official announcements."
+      }
+    ],
+    "Czechia": [
+      {
+        "country": "Czechia",
+        "source_name": "Government of Czechia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Czech, English",
+        "notes": "Official government website, provides reliable information and APIs for various government services."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Czech News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Czech, English",
+        "notes": "Largest news agency in Czechia, covers a variety of topics."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Regionln Noviny",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Czech",
+        "notes": "Local news outlet focusing on regional stories and community events."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Czech NGO Directory",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Czech, English",
+        "notes": "A comprehensive directory of NGOs operating in Czechia, with contact and activity details."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Czech Tech Insights",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "News platform covering Czech tech startups, innovations, and tech events."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "CyberSec CZ",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Official government portal focusing on cybersecurity threats, alerts, and mitigation strategies."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Prague Community News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Community platform for expats and locals in Prague, covering events, culture, and local stories."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Open Data Czech Republic",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Czech, English",
+        "notes": "Official open data portal with various datasets from government departments."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Czech Intelligence Service",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "N/A",
+        "language": "Czech",
+        "notes": "Official website of the Czech Intelligence Service, provides public reports and annual reviews."
+      },
+      {
+        "country": "Czechia",
+        "source_name": "Czech COVID Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Czech, English",
+        "notes": "Real-time data and analytics on COVID-19 cases, provided by the Health Ministry."
+      }
+    ],
+    "Cyprus": [
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Cyprus Mail",
+        "source_name": "The Island",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "oldest English daily newspaper in Cyprus"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Observer",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online news platform for politics, culture, and society"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "LTV Cyprus",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "el",
+        "notes": "Local TV, news in Greek"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Radio Active Cyprus",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "en",
+        "notes": "Community radio, variety of shows and music"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Police",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official police website, news and safety information"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Chamber of Commerce and Industry",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News on business, events, and economic updates"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Open Data Cyprus",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data portal"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Aviation Information Service",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Real-time flight tracking"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Maritime Portal",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Shipping and maritime data, news"
+      }
+    ],
+    "Denmark": [
+      {
+        "country": "Denmark",
+        "source_name": "Danmarks Statistik",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "da,en",
+        "notes": "Official government statistics agency"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Folketingset",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "da",
+        "notes": "Danish Parliament's website, provides official records, laws, and proceedings"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "TV 2 News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "da",
+        "notes": "One of the major TV news outlets in Denmark"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Jyllands-Posten",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "da",
+        "notes": "National daily newspaper"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "The Copenhagen Post",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "English-language news outlet focusing on Copenhagen"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Radio Denmark",
+        "bucket": "Radio",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "da",
+        "notes": "National public radio station"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Netivigilo",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Internet surveillance and analysis for open web, deep web, and dark web"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "COVID-19 Denmark",
+        "bucket": "Health",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "da,en",
+        "notes": "Official Danish health authority's COVID-19 dashboard"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Danmark.dk",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "da,en",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Denmark",
+        "source_name": "Copenhagen Business News",
+        "bucket": "Business",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business and finance news"
+      }
+    ],
+    "Estonia": [
+      {
+        "country": "Estonia",
+        "source_name": "Government of Estonia - Official Website",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English, Estonian",
+        "notes": "Direct access point for official government information."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Riigikogu",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Estonian",
+        "notes": "Official website of the Estonian Parliament, provides RSS feeds for updates."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Ministry of Foreign Affairs - Estonia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English, Estonian",
+        "notes": "Official diplomatic communications."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Postimees",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Estonian",
+        "notes": "One of Estonia's largest daily newspapers, covering general news."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Delfi",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Estonian",
+        "notes": "Popular online news portal, provides comprehensive coverage of local news."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "ERR - Estonian Public Broadcasting",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English, Estonian",
+        "notes": "National broadcaster providing TV, radio, and digital media content."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Tallinn Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "English-language newspaper focusing on Tallinn and northern Estonia."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Narva News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Local news portal covering Narva and Ida-Viru County, in Russian."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Eesti Pevaleht",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Estonian",
+        "notes": "One of the oldest daily newspapers, published continuously since 1905."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Tech Estonia",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit organization promoting Estonia's tech sector, provides API access to news and events."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Cybernetica",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Leading Estonian cybersecurity company, offers RSS feeds for cybersecurity news and insights."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "e-Resident Community Blog",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Official blog platform for Estonia's e-Resident community, sharing stories and updates."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English, Estonian",
+        "notes": "Government-backed open data initiative, providing access to various datasets."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Estonia's Statistics Portal",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English, Estonian",
+        "notes": "Official statistical data from the Estonian government, covering a wide range of topics."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "FlightRadar24",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time flight tracking data, offering comprehensive coverage of air traffic."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "ShipsMap",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Provides real-time ship tracking data, focusing on maritime traffic."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Estonian Weather Data",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English, Estonian",
+        "notes": "Official weather data and forecasts from the Estonian Weather Service."
+      },
+      {
+        "country": "Estonia",
+        "source_name": "Solar Wind Data Portal",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time solar wind and space weather data from Estonian research stations."
+      }
+    ],
+    "France": [
+      {
+        "country": "France",
+        "source_name": "Legifrance",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French",
+        "notes": "Official government portal for French law and legislation"
+      },
+      {
+        "country": "France",
+        "source_name": "Elysee.fr",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Official website of the French Presidency"
+      },
+      {
+        "country": "France",
+        "source_name": "France.fr",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Official France tourism and culture portal"
+      },
+      {
+        "country": "France",
+        "source_name": "Le Monde",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Leading French daily newspaper"
+      },
+      {
+        "country": "France",
+        "source_name": "Le Figaro",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Conservative newspaper, offers wide coverage of national and international news"
+      },
+      {
+        "country": "France",
+        "source_name": "Libration",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Left-wing daily newspaper"
+      },
+      {
+        "country": "France",
+        "source_name": "France 24",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "French state-owned international news TV channel and website"
+      },
+      {
+        "country": "France",
+        "source_name": "Mediapart",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "French",
+        "notes": "Online investigative news site, focuses on in-depth articles"
+      },
+      {
+        "country": "France",
+        "source_name": "La Voix Du Nord",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Northern France's leading regional newspaper"
+      },
+      {
+        "country": "France",
+        "source_name": "Le Journal Du Dimanche",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "French weekly newspaper, published on Sundays"
+      },
+      {
+        "country": "France",
+        "source_name": "France Info",
+        "bucket": "Radio",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "French national radio news channel"
+      }
+    ],
+    "Georgia": [
+      {
+        "country": "Georgia",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Georgian, English",
+        "notes": "Host of government info, official communications"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "President of Georgia Website",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Georgian, English",
+        "notes": "Official statements and activities of the President"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website, RSS",
+        "language": "Georgian, English",
+        "notes": "Official foreign policy communications"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "The Civil Registry Agency",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API, Scrape",
+        "language": "Georgian, English",
+        "notes": "Official records, registration data"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "National Media Council",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Georgian",
+        "notes": "Regulator for media, maintains lists of licensed media outlets"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Georgian Public Broadcaster",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website, RSS, API",
+        "language": "Georgian, English",
+        "notes": "Public service broadcasting"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Rustavi 2",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "Georgian",
+        "notes": "Private TV channel, critical of government"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "TV Pirveli",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "Georgian",
+        "notes": "Private news channel"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Rezonansi",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website, RSS",
+        "language": "Georgian",
+        "notes": "Non-profit investigative journalism outlet"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Transparency International Georgia",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website, RSS",
+        "language": "Georgian, English",
+        "notes": "Anti-corruption, advocacy, and research"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Institute for Development of Freedom of Information",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website, API",
+        "language": "Georgian, English",
+        "notes": "FOI advocacy, media freedom"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Geocollaboratory",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website, API",
+        "language": "English",
+        "notes": "Geospatial data, mapping"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Open Data Georgia",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Georgian, English",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "COVID-19 Georgia Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website, API",
+        "language": "Georgian, English",
+        "notes": "Independent COVID-19 data"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Georgia Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "Georgian",
+        "notes": "General news and community portal"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Cyber.Ge",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Georgian",
+        "notes": "Cyber security news, citizen reports"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Intel Georgia",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Open source intelligence analysis"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Caucasus Business Week",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "Business and economics focus"
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Georgia Today",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "News portal, expat focused"
+      }
+    ],
+    "Finland": [
+      {
+        "country": "Finland",
+        "source_name": "Vesttietoaineisto",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "fi",
+        "notes": "Population Statistics Database"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Kansallinen Sisministeri",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "fi, en",
+        "notes": "Ministry of the Interior"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Yle Uutiset",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "fi",
+        "notes": "Public Broadcasting News"
+      },
+      {
+        "country": "Finland",
+        "source_name": " Helsingin Sanomat",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "fi",
+        "notes": "National Newspaper"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Ilta-Sanomat",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "fi",
+        "notes": "Evening News Portal"
+      },
+      {
+        "country": "Finland",
+        "source_name": "MTV Uutiset",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "fi",
+        "notes": "TV News Channel"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Lnsivyl",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "fi",
+        "notes": "Regional Newspaper"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Kymen Sanomat",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "fi",
+        "notes": "Regional Newspaper, South Karelia"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Yleisradio Oy",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "fi",
+        "notes": "Public Broadcasting Company"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Suomi24",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "fi",
+        "notes": "Online Community Portal"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Reddit/r/suomi",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "fi, en",
+        "notes": "Finland-centric Subreddit"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Tiedonnet",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "fi, en",
+        "notes": "Data Science & Tech News"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Digitalization and Population",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official Data Portal"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Statistics Finland",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en, fi",
+        "notes": "Official Statistics"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Finfact",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business Intelligence"
+      },
+      {
+        "country": "Finland",
+        "source_name": "SOTA - Sitoumusosialinen Arviointikeskus",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "fi",
+        "notes": "Social Commitment Index"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Traficom",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "fi, en",
+        "notes": "Transport and Communications Agency"
+      },
+      {
+        "country": "Finland",
+        "source_name": "FMI - Ilmatieteen laitos",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "fi, en",
+        "notes": "Finnish Meteorological Institute"
+      },
+      {
+        "country": "Finland",
+        "source_name": "VR Track",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "National Rail Transportation"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Reittiopas",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "fi",
+        "notes": "Public Transport Journey Planner"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Kansallinen Sisnrakennusvirasto",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "fi",
+        "notes": "National Agency for Building and Housing"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Turun Sanomat",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "fi",
+        "notes": "Regional Daily Newspaper"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Suomalainen Liikunta",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "fi",
+        "notes": "Finnish Sports Data"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Vyln tietoverkko",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "fi",
+        "notes": "Transport and Road Info Portal"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Finfish",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Fishing Industry Portal"
+      },
+      {
+        "country": "Finland",
+        "source_name": "StatFin",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Statistics Finland"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Fintax",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "fi",
+        "notes": "Taxation Intelligence"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Valvira",
+        "bucket": "Health",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "fi",
+        "notes": "National Supervisory Authority for Welfare and Health"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Lataa.fi",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "fi",
+        "notes": "Open Data Tracker"
+      },
+      {
+        "country": "Finland",
+        "source_name": "FMI",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Finnish Meteorological Institute"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Opetushallitus",
+        "bucket": "Education",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "fi",
+        "notes": "National Agency for Education"
+      },
+      {
+        "country": "Finland",
+        "source_name": "Business Finland",
+        "bucket": "Business",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Governmental Business Developer"
+      }
+    ],
+    "Greece": [
+      {
+        "country": "Greece",
+        "source_name": "Government of Greece",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "el",
+        "notes": "Official government communications"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Hellenic Parliament",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Debates, laws, and proceedings"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official MFA communications"
+      },
+      {
+        "country": "Greece",
+        "source_name": "National Herald",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "English-language Greek newspaper"
+      },
+      {
+        "country": "Greece",
+        "source_name": "To Vima Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "el",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Skai TV",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "el",
+        "notes": "Television news channel"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Athens Live",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local news and events in Athens"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Hellenic Red Cross",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official HRc communications and updates"
+      },
+      {
+        "country": "Greece",
+        "source_name": "AI4Greece",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Greek AI and tech news"
+      },
+      {
+        "country": "Greece",
+        "source_name": "CyberCrime Institute",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Cyber crime news and resources"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Greece Digital Map",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Geospatial data"
+      },
+      {
+        "country": "Greece",
+        "source_name": "Athens Stock Exchange",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Stock market data"
+      }
+    ],
+    "Hungary": [
+      {
+        "country": "Hungary",
+        "source_name": "Orsz\u00e1gos K\u00f6zigazgat\u00e1si \u00c9s \u00d6nkorm\u00e1nyzat Port\u00e1l",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Hungarian",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Magyar K\u00f6z\u00e9p\u00edrinti \u00c9s Mediat\u00e1rs\u00e1gi Hat\u00f3s\u00e1g",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Hungarian",
+        "notes": "Media authority regulating national media"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Index.hu",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Hungarian",
+        "notes": "News portal, provides comprehensive coverage"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Budapesti T\u00e1virati K\u00f6zpont",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Hungarian",
+        "notes": "News agency focusing on Budapest region"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Transindex",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Hungarian",
+        "notes": "Transparency NGO, investigating political power"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Tech.hu",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Hungarian",
+        "notes": "Hungarian tech news portal"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "CyberNews.hu",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Hungarian",
+        "notes": "Cyber security news and insights"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Rep\u00fclika",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Hungarian",
+        "notes": "Community platform for citizen stories"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "Hungarian Central Statistical Office",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government data on Hungary"
+      },
+      {
+        "country": "Hungary",
+        "source_name": "V\u00e1s\u00e1rhelyi H\u00edrlapok",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Hungarian",
+        "notes": "Collection of local newspapers"
+      }
+    ],
+    "Iceland": [
+      {
+        "country": "Iceland",
+        "source_name": "Althingi",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Icelandic",
+        "notes": "Official website of Iceland's Parliament"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "RUV",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Icelandic",
+        "notes": "National broadcaster, provides news via RSS"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "Iceland Review",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Online news outlet covering Iceland"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "The Reykjavik Grapevine",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community news and events platform"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "IceNews",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Independent news site"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "Tech Iceland",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "News on tech startups and events"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "Cybercom",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Icelandic",
+        "notes": "Icelandic IT and cybersecurity firm"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "Statistics Iceland",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Icelandic",
+        "notes": "Official statistics portal"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "Icelandic Meteorological Office",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Weather and climate data"
+      },
+      {
+        "country": "Iceland",
+        "source_name": "SafeTravel",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Travel advice and safety information"
+      }
+    ],
+    "Ireland": [
+      {
+        "country": "ie",
+        "source_name": "Irish Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government resources"
+      },
+      {
+        "country": "ie",
+        "source_name": "Irish Parliament",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Debates, committees, and publications"
+      },
+      {
+        "country": "ie",
+        "source_name": "RT News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Ireland's national public service media"
+      },
+      {
+        "country": "ie",
+        "source_name": "The Journal",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Irish current affairs and news"
+      },
+      {
+        "country": "ie",
+        "source_name": "Dublin Live",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local news, sports, and community updates from Dublin"
+      },
+      {
+        "country": "ie",
+        "source_name": "Amnesty International Ireland",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Human rights reports and updates"
+      },
+      {
+        "country": "ie",
+        "source_name": "TechIreland",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Promoting Ireland's tech sector"
+      },
+      {
+        "country": "ie",
+        "source_name": "Irish Internet Association",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Advocacy and resources for the Irish online community"
+      },
+      {
+        "country": "ie",
+        "source_name": "Community Call",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community support and resources during national emergencies"
+      },
+      {
+        "country": "ie",
+        "source_name": "Open Data Ireland",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "A range of Irish open data sets"
+      },
+      {
+        "country": "ie",
+        "source_name": "Ireland's COVID-19 Data Hub",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official COVID-19 data and analytics"
+      }
+    ],
+    "Latvia": [
+      {
+        "country": "Latvia",
+        "source_name": "Latvijas Republikas Valsts Radio un Televzijas Centrs",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "lv",
+        "notes": "Public media outlet"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "LETA",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en, lv",
+        "notes": "National news agency"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Delfi",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "lv",
+        "notes": "News portal"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "TV Net",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "lv",
+        "notes": "Commercial TV"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Neatkarg Rta Avze",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "lv",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Latvijas Statistikas Amt",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en, lv",
+        "notes": "Official statistics"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Open Data LV",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data portal"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Latvijas Banka",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en, lv",
+        "notes": "Central Bank"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Latvijas Valsts mja",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "lv",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Latvia",
+        "source_name": "Safer.lv",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "lv",
+        "notes": "Safety awareness NGO"
+      }
+    ],
+    "Germany": [
+      {
+        "country": "Germany",
+        "source_name": "Bundesregierung",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Bundestag",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "German Parliament website"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Der Spiegel",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Newsweekly"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Sddeutsche Zeitung",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "German",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Tagesschau",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "German",
+        "notes": "TV News"
+      },
+      {
+        "country": "Germany",
+        "source_name": "MDR",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "German",
+        "notes": "Regional Public Broadcaster"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Die Zeit",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Weekly newspaper"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Amtsblatt der Europischen Union",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "Official Journal of the EU"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Netzpolitik",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "German",
+        "notes": "Tech and Politics Blog"
+      },
+      {
+        "country": "Germany",
+        "source_name": "Internetwache",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "German",
+        "notes": "Citizen Cyber Observatory"
+      }
+    ],
+    "Italy": [
+      {
+        "country": "Italy",
+        "source_name": "Governo.it",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Italy",
+        "source_name": "President of the Republic of Italy",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official website of the President"
+      },
+      {
+        "country": "Italy",
+        "source_name": "AGI - Agenzia Italia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Major news agency"
+      },
+      {
+        "country": "Italy",
+        "source_name": "La Repubblica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Corriere della Sera",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Another prominent national newspaper"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Ansa.it",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Italian",
+        "notes": "Leading online news portal"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Il Sole 24 Ore",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Financial and economic newspaper"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Regioni.it",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Portal of Regional Affairs"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Tiscali Notizie",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Online news outlet"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Fanpage.it",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Italian",
+        "notes": "Community-driven news and viral content"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Open Data Italia",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Italian",
+        "notes": "Official open data platform"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Italia.gov.it",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Another official government portal"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Camera dei Deputati",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Website of the Chamber of Deputies"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Senato della Repubblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Website of the Senate"
+      },
+      {
+        "country": "Italy",
+        "source_name": "INPS - Istituto Nazionale Previdenza Sociale",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "National Institute of Social Security"
+      },
+      {
+        "country": "Italy",
+        "source_name": "ISTAT - National Institute of Statistics",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Italian",
+        "notes": "Official statistics institute"
+      },
+      {
+        "country": "Italy",
+        "source_name": "CyberPol - Police Department",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official police cyber crime unit"
+      },
+      {
+        "country": "Italy",
+        "source_name": "TrackCOVID-19 Italia",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "COVID-19 tracker"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Prezzocarburanti. Staffetta Quotidiana",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Fuel price tracker"
+      },
+      {
+        "country": "Italy",
+        "source_name": "IHS Markit Italy Industry",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Industry and market insights"
+      },
+      {
+        "country": "Italy",
+        "source_name": "Governo Italiano",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official government website, provides latest news and updates."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Ansa",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "National news agency, providing up-to-the-minute news via RSS."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Regioni Italia",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Website aggregating news from regional media outlets across Italy."
+      },
+      {
+        "country": "Italy",
+        "source_name": "La Stampa",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Italian",
+        "notes": "Leading daily newspaper, can be scraped for latest news."
+      },
+      {
+        "country": "Italy",
+        "source_name": "ItaliaToday",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Online news portal delivering quick updates on current affairs."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Il Fatto Quotidiano",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Independent newspaper known for investigative journalism."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Sky TG24",
+        "bucket": "TV Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "24-hour news TV channel, with RSS feed for latest headlines."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Mediaset",
+        "bucket": "TV Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Major commercial broadcaster, offering news and entertainment."
+      },
+      {
+        "country": "Italy",
+        "source_name": "La Gazzetta dello Sport",
+        "bucket": "Sports Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Italian",
+        "notes": "Sports newspaper, focusing on soccer and other sports."
+      },
+      {
+        "country": "Italy",
+        "source_name": "LeggiOggi",
+        "bucket": "Legal",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Portal dedicated to legal news and legislation updates."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Key4biz",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "Tech news website covering telecoms, digital, and innovation."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Cyber Affairs Italia",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Blog focusing on cybersecurity threats and trends."
+      },
+      {
+        "country": "Italy",
+        "source_name": "Italia Post",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Italian",
+        "notes": "Community platform for expats, with scraped content."
+      }
+    ],
+    "Liechtenstein": [
+      {
+        "country": "Liechtenstein",
+        "source_name": "Liechtenstein Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "German",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Liechtenstein National News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English language news portal"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Vaterland",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "German",
+        "notes": "Largest daily newspaper in Liechtenstein"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Radio Liechtenstein",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "German",
+        "notes": "National radio station"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Liechtenstein Chamber of Commerce",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Business and economy-focused"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "University of Liechtenstein",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Education and research hub"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Open Data Liechtenstein",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "LITAU - Liechtenstein Transparency",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "German",
+        "notes": "Local news and investigations"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Tourism Liechtenstein",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Tourism stats and updates"
+      },
+      {
+        "country": "Liechtenstein",
+        "source_name": "Liechtenstein Blockchain Association",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Local blockchain community"
+      }
+    ],
+    "Luxembourg": [
+      {
+        "country": "Luxembourg",
+        "source_name": "Government of Luxembourg",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Luxembourgish, French, German, English",
+        "notes": "Official government website with key info and resources."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "LU Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language online newspaper focusing on Luxembourg news."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Journalistes.lu",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French",
+        "notes": "French-language platform for Luxembourg's journalism community."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Ltzebuerger Journal",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Luxembourgish, French",
+        "notes": "National daily newspaper published in Luxembourg."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "NGO Federation of Luxembourg",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, French",
+        "notes": "An umbrella organization for NGOs in Luxembourg, providing valuable insights."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Tech Community Luxembourg",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A hub for tech innovations and startups in Luxembourg."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Cyber Security Luxembourg",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government portal for cybersecurity initiatives and news."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Luxembourg City Guide",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A comprehensive guide to events, businesses, and community info."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "National Institute of Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Luxembourgish, French, English",
+        "notes": "Official government statistics agency, providing various data sets."
+      },
+      {
+        "country": "Luxembourg",
+        "source_name": "Intelligence Online",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Subscription",
+        "language": "French, English",
+        "notes": "Private intelligence publication, offering insights on global events."
+      }
+    ],
+    "Malta": [
+      {
+        "country": "Malta",
+        "source_name": "Government of Malta",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government website, provides access to various ministerial sites and services."
+      },
+      {
+        "country": "Malta",
+        "source_name": "The Malta Independent",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of the leading English language news portals in Malta."
+      },
+      {
+        "country": "Malta",
+        "source_name": "Times of Malta",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Another prominent English daily newspaper, also offers digital editions."
+      },
+      {
+        "country": "Malta",
+        "source_name": "TVM News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "mt",
+        "notes": "State-owned television's news portal, provides Maltese language content."
+      },
+      {
+        "country": "Malta",
+        "source_name": "Malta Digital Innovation Hub",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "An independent non-profit initiative, focuses on tech and innovation, good for digital transformation insights."
+      },
+      {
+        "country": "Malta",
+        "source_name": "Malta Cyber Crime Division",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official police division, provides updates on cyber crime activities and initiatives."
+      },
+      {
+        "country": "Malta",
+        "source_name": "Malta's Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government open data platform, offers various datasets and visualizations."
+      },
+      {
+        "country": "Malta",
+        "source_name": "COVID-19 Malta",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government tracker for COVID-19 cases, provides reliable and timely data."
+      },
+      {
+        "country": "Malta",
+        "source_name": "Malta Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Popular online news portal, covers a wide range of local and international topics."
+      },
+      {
+        "country": "Malta",
+        "source_name": "The Shift News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Independent online platform, focuses on investigative journalism and social issues."
+      }
+    ],
+    "Lithuania": [
+      {
+        "country": "Lithuania",
+        "source_name": "Government of Lithuania",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Lithuanian, English",
+        "notes": "Official government website with key info and resources."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "LRT.lt",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Lithuanian",
+        "notes": "One of the largest national news outlets in Lithuania."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "15min.lt",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Lithuanian",
+        "notes": "Popular news portal covering various topics."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Delfi.lt",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Lithuanian",
+        "notes": "Another major news website in Lithuania."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Regionini ini portalas",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Lithuanian",
+        "notes": "Portal for regional news, focusing on local content."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "NGOs in Lithuania",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Directory of Lithuanian NGOs, with contact details and descriptions."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Tech.lt",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Lithuanian",
+        "notes": "News and articles focused on technology and startups."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Cyber.lt",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Lithuanian",
+        "notes": "Platform for cybersecurity news, events, and resources."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Vilnius Tech Community",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Meetup",
+        "language": "English",
+        "notes": "Local tech community meetups and events."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Government open data initiative, providing various datasets."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Lithuania Intelligence Bulletin",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Monthly publication for strategic analysis and forecasts."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "App",
+        "language": "English",
+        "notes": "Mobile app for tourists with location tracking."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Real Estate Market Trends",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Lithuanian",
+        "notes": "Website tracking real estate market trends and prices."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Vasaros TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Livestream",
+        "language": "Lithuanian",
+        "notes": "Local TV channel with online livestream."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Statistica.lt",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Lithuanian, English",
+        "notes": "Official statistics portal with demographic, economic data."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Business Daily LT",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Lithuanian",
+        "notes": "Business-focused news outlet."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "EU Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "European level open data portal, with Lithuania-specific datasets."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Lithuania Cyber Incident Response Team",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government site for cyber incident response."
+      },
+      {
+        "country": "Lithuania",
+        "source_name": "Vilnius University Library",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Lithuanian, English",
+        "notes": "Library resources and digital collections."
+      }
+    ],
+    "Moldova": [
+      {
+        "country": "Moldova",
+        "source_name": "Presedintie.md",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ro",
+        "notes": "Official website of the President of Moldova"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Parlament.md",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ro",
+        "notes": "Official website of the Parliament of Moldova"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Moldovan National Statistical Bureau",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics portal"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "NewsMaker.md",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "ro",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "ProTV.md",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ro",
+        "notes": "Commercial TV channel"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Radio Moldova",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "ro",
+        "notes": "Public radio broadcaster"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Moldova Suverana",
+        "bucket": "Print Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ro",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Open Data Moldova",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "ro",
+        "notes": "Open data platform"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Transparency International Moldova",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Anti-corruption initiatives"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "IDIS Viitorul",
+        "bucket": "Think Tanks",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "ro",
+        "notes": "Policy analysis and research"
+      },
+      {
+        "country": "Moldova",
+        "source_name": "Center for Investigative Journalism",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "ro",
+        "notes": "Promoting transparency through investigations"
+      }
+    ],
+    "Monaco": [
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official government website, provides latest news and information"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Palace of Monaco",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Official royal palace news feed, covers royal family activities"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Channel",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "National television broadcaster, offers news and multimedia content"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Le Journal de Monaco",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Daily newspaper, covers local news and events"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Life",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online news portal for expats, focuses on local news and community"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monte Carlo Radio",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Radio station based in Monaco, provides news and entertainment"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "AMCHAM Monaco",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "American Chamber of Commerce in Monaco, connects US businesses"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Red Cross",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official Red Cross branch in Monaco, provides humanitarian aid"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Tech Monaco",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Portal for tech innovations and startups in Monaco"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Cyber Security Agency",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official agency for cybersecurity, provides resources and updates"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Statistics Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French",
+        "notes": "Official government portal for statistics and data"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Online publication for business intelligence"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Yacht Show",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Annual yacht show, displays superyachts and luxury brands"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Grand Prix Live",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Streaming",
+        "language": "English",
+        "notes": "Live streaming and updates during the Monaco Grand Prix"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Real Estate Monitor",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Website tracking real estate trends in Monaco"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Now",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Lifestyle and community portal, covers events and trends"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "University of Monaco",
+        "bucket": "Education",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official website for the University of Monaco, provides academic insights"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Digital",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Newsletter",
+        "language": "English",
+        "notes": "Newsletter for tech and startup news in Monaco"
+      },
+      {
+        "country": "Monaco",
+        "source_name": "Monaco Business Directory",
+        "bucket": "Business",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online directory of businesses and services in Monaco"
+      }
+    ],
+    "Montenegro": [
+      {
+        "country": "Montenegro",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Montenegrin, English",
+        "notes": "Direct access to government information and services."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "National Statistical Institute",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official statistics and data on various social, economic topics."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Parliament of Montenegro",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Montenegrin",
+        "notes": "Information on parliamentary proceedings and laws."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "President of Montenegro",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Montenegrin, English",
+        "notes": "Official communications and presidential initiatives."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Montenegrin, English",
+        "notes": "Diplomatic relations and foreign policy updates."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Pobjeda",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Montenegrin",
+        "notes": "One of the leading national newspapers, covering general news."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Vijesti",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Montenegrin",
+        "notes": "Another prominent national newspaper, offering comprehensive news coverage."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "TVCG",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Montenegrin",
+        "notes": "National public broadcaster's website, providing news and multimedia content."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Montenegro Live",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language online platform for Montenegro news."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "The Montenegro Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Independent online newspaper focusing on political, economic news."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "EcoMontenegro",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Montenegrin",
+        "notes": "Environmental NGO initiatives and awareness campaigns."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Atlantic Initiative Montenegro",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit promoting democratic values, civil society."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Open Data Montenegro",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data portal, offering various datasets."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Montenegro Cyber Crime Police",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Montenegrin, English",
+        "notes": "Official police cyber crime unit, informative website."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Tech Community Montenegro",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Montenegrin",
+        "notes": "Local tech community hub, connecting IT professionals."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Tourism Montenegro",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Montenegrin, English",
+        "notes": "Official tourism board website, comprehensive travel information."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Montenegro Investment Promotion Agency",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Investor intelligence and business support organization."
+      },
+      {
+        "country": "Montenegro",
+        "source_name": "Country Economic Factbooks",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "PDF",
+        "language": "English",
+        "notes": "Regular economic reports and fact sheets on Montenegro."
+      }
+    ],
+    "North Macedonia": [
+      {
+        "country": "North Macedonia",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "mk, en",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Diplomatic relations and international policies"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "National Statistical Office",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en, mk",
+        "notes": "Official statistics on various social and economic topics"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Makedonska Radio Televizija",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "mk",
+        "notes": "Public broadcaster radio and TV"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Nova Makedonija",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "mk",
+        "notes": "Daily newspaper covering general news"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Dnevnik",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "mk",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "TV21",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "mk",
+        "notes": "Local TV focusing on regional news"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Infomax",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "mk",
+        "notes": "Online news portal covering politics and society"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "NGO Registry North Macedonia",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Database of registered NGOs"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Open Data Macedonia",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "MKD Cyber Threat Center",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Cyber threat monitoring and analysis"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "Community Information Centers",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "mk",
+        "notes": "Local community news and services"
+      },
+      {
+        "country": "North Macedonia",
+        "source_name": "MACEDONIA PROFILE",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Social and economic development tracker"
+      }
+    ],
+    "Netherlands": [
+      {
+        "country": "Netherlands",
+        "source_name": "Rijksoverheid",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "NOS",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Dutch",
+        "notes": "Public broadcaster, news outlet"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "AD.nl",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Dutch",
+        "notes": "Largest Dutch newspaper"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "Pew Research Center",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Global opinion research, based in US"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "Twitter",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Dutch/English",
+        "notes": "Social media platform"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "NetPanel",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Dutch",
+        "notes": "Internet panel research"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "CBS StatLine",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official statistics portal"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "Dutch Review",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Expat-focused news site"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "IHS Jane's",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Commercial defense and security analysis"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "TrackCOVID-19",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "COVID-19 tracker"
+      },
+      {
+        "country": "Netherlands",
+        "source_name": "The Amsterdammer",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Local English-language news"
+      }
+    ],
+    "Norway": [
+      {
+        "country": "Norway",
+        "source_name": "Norges offisielle statistikk",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "no",
+        "notes": "Statistics Norway"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Regjeringen.no",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "no",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Norway",
+        "source_name": "NRK",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "no",
+        "notes": "Public broadcaster"
+      },
+      {
+        "country": "Norway",
+        "source_name": "TV 2",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "no",
+        "notes": "Commercial broadcaster"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Aftenposten",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "no",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Vrt Land",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "no",
+        "notes": "National Christian newspaper"
+      },
+      {
+        "country": "Norway",
+        "source_name": "The Local Norway",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language news"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Norwegen-Portal",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "de",
+        "notes": "German language community site"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Radio Norway",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Online radio station"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Norsk Hydro",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Energy & Technology company news"
+      },
+      {
+        "country": "Norway",
+        "source_name": "Equinor",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Energy company news"
+      }
+    ],
+    "Poland": [
+      {
+        "country": "Poland",
+        "source_name": "Government of Poland",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Polish",
+        "notes": "Official government portal, provides robust info"
+      },
+      {
+        "country": "Poland",
+        "source_name": "MSWiA",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Polish",
+        "notes": "Ministry of Internal Affairs and Administration, covers security and emergency services"
+      },
+      {
+        "country": "Poland",
+        "source_name": "Polish National News Agency (PAP)",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Polish",
+        "notes": "State-owned, primary news source for Poland"
+      },
+      {
+        "country": "Poland",
+        "source_name": "TVP Info",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Polish",
+        "notes": "Polish public television's 24/7 news channel"
+      },
+      {
+        "country": "Poland",
+        "source_name": "Regionalny Monitor",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Polish",
+        "notes": "News portal covering regional events from across Poland"
+      },
+      {
+        "country": "Poland",
+        "source_name": "NGO.pl",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Polish",
+        "notes": "Directory of Polish NGOs, with news and events"
+      },
+      {
+        "country": "Poland",
+        "source_name": "TechCrunch Poland",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Tech and startup news, Polish focus"
+      },
+      {
+        "country": "Poland",
+        "source_name": "CyberDefence24",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Polish",
+        "notes": "News portal on cybersecurity issues"
+      },
+      {
+        "country": "Poland",
+        "source_name": "Polish Community News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "News and events for the English-speaking community in Poland"
+      },
+      {
+        "country": "Poland",
+        "source_name": "Statista.pl",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Polish",
+        "notes": "Statistics and data on Poland, various topics"
+      }
+    ],
+    "Russia": [
+      {
+        "country": "Russia",
+        "source_name": "Kremlin.ru",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Official statements and speeches"
+      },
+      {
+        "country": "Russia",
+        "source_name": "TASS",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "State-owned news agency, English language section"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Sputnik News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "International news agency"
+      },
+      {
+        "country": "Russia",
+        "source_name": "RT",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "TV channel, provides video and text content"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Interfax",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Another major state-owned news outlet"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Rosstat",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Russian",
+        "notes": "State statistics service"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Fedorov Foundation",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit focused on tech and society issues"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Netology.ru",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Russian",
+        "notes": "IT news and reviews site"
+      },
+      {
+        "country": "Russia",
+        "source_name": "CyberBeretta",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Russian language cyber news site"
+      },
+      {
+        "country": "Russia",
+        "source_name": "LiveJournal",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Russian",
+        "notes": "Popular Russian blogging platform"
+      }
+    ],
+    "Romania": [
+      {
+        "country": "Romania",
+        "source_name": "Government Press Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Ro",
+        "notes": "Official government communications"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Ministry of Internal Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Ro/En",
+        "notes": "Official ministry website with valuable data"
+      },
+      {
+        "country": "Romania",
+        "source_name": "National Institute of Statistics",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Ro/En",
+        "notes": "Official statistics portal with access to census data"
+      },
+      {
+        "country": "Romania",
+        "source_name": "HotNews.ro",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Ro",
+        "notes": "One of the top Romanian news outlets"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Stiri pe Surse",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Ro",
+        "notes": "Popular Romanian news website"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Ziarul Financiar",
+        "bucket": "Business Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Ro",
+        "notes": "Leading Romanian financial news outlet"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Transylvania Regional News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "En",
+        "notes": "English language news source focusing on Transylvania"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Romania Journal",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "Non-profit news platform"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Open Data Romania",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Ro/En",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Romania",
+        "source_name": "RO-Cyber.ro",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Ro",
+        "notes": "Romanian cyber news and forums"
+      },
+      {
+        "country": "Romania",
+        "source_name": "RO Military",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "Ro",
+        "notes": "Online military community forum"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Intelligence Online",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "En",
+        "notes": "French-based private intelligence agency publications"
+      },
+      {
+        "country": "Romania",
+        "source_name": "IPTV Romania",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Ro",
+        "notes": "TV streaming and tech news"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Mobilissimo.ro",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Ro",
+        "notes": "Romanian tech and mobile news"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Track COVID-19 RO",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Ro/En",
+        "notes": "Official COVID-19 tracker"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Election Results Romania",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "En",
+        "notes": "Election results and analysis"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Air Quality Romania",
+        "bucket": "Environmental",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "En",
+        "notes": "Real-time air quality data"
+      },
+      {
+        "country": "Romania",
+        "source_name": "Visit Romania",
+        "bucket": "Tourism",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "Tourism and travel information"
+      },
+      {
+        "country": "Romania",
+        "source_name": "eRomania.ro",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Ro",
+        "notes": "Online community portal"
+      }
+    ],
+    "San Marino": [
+      {
+        "country": "San Marino",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "Segreteria di Stato per gli Affari Esteri",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Foreign Affairs Ministry"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino RTV",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Italian",
+        "notes": "National broadcaster"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "La Gazzetta Sammarinese",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino 24",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "News portal"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "RSMnews",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Italian",
+        "notes": null
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino Internet Community",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Online community forum"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "OpenStreetMap San Marino",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Geospatial",
+        "notes": "User-generated map data"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino Cyber Security Office",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Italian",
+        "notes": "Official cyber security resources"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino Statistics Office",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Italian",
+        "notes": "Official statistics platform"
+      },
+      {
+        "country": "San Marino",
+        "source_name": "San Marino Intelligence Agency",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Independent intelligence agency"
+      }
+    ],
+    "Serbia": [
+      {
+        "country": "Serbia",
+        "source_name": "Government of Serbia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "Official government communications"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "National Assembly of Serbia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "Parliamentary activities and proceedings"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Ministry of Foreign Affairs Serbia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official foreign policy communications"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "B92",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "One of the leading national news outlets"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Radio Television of Serbia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "Public broadcaster"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Nova.rs",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Danas",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Kurir Online",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "Online news and entertainment"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "N1 Info",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "sr",
+        "notes": "Regional TV news channel"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Radio Senta",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "sr",
+        "notes": "Local radio station"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Balkan Transitional Justice Center",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Non-profit focusing on transitional justice"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Belgrade Centre for Human Rights",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "Local HR advocacy group"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "TechHub Belgrade",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech community and startup hub"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "CyberTeam.rs",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "IT news and cyber security blog"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Serbia Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "sr",
+        "notes": "Official open data platform"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "COVID19.rs",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "sr",
+        "notes": "Official COVID-19 tracker"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "SerbMonitor",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Open source intelligence platform"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Community Blog Belgrade",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "Local community news and events"
+      },
+      {
+        "country": "Serbia",
+        "source_name": "Vreme Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "sr",
+        "notes": "Current affairs magazine"
+      }
+    ],
+    "Portugal": [
+      {
+        "country": "Portugal",
+        "source_name": "Presidncia da Repblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Official website of the President of Portugal"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Instituto Nacional de Estatstica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "pt",
+        "notes": "National Institute of Statistics, provides official demographic, economic and social data"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Assembleia da Repblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "Official website of the Portuguese Parliament"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Ministrio das Finanas",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Ministry of Finance's official portal"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Poder de Polcia",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "pt",
+        "notes": "Law enforcement powers and regulations database"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Jornal de Notcias",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "One of the leading national daily newspapers"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Dirio de Notcias",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Another major national newspaper, covers general news"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "TSF",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "pt",
+        "notes": "Portuguese radio station, provides news and current affairs"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Observador",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "Online newspaper focusing on politics, economy, and current affairs"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Notcias ao Minuto",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "pt",
+        "notes": "Online news portal delivering minute-by-minute updates"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Regionais Online",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Collection of regional news portals covering various areas of Portugal"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Algarve Daily News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language news portal focusing on the Algarve region"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Ambiente Portugal",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Non-profit environmental organization, provides data and initiatives"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "DECO Proteste",
+        "bucket": "Consumer Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "pt",
+        "notes": "Consumer rights organization, offers advice, tests and product reviews"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "NetEscapes",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "pt",
+        "notes": "Tech blog covering gadgets, gaming and cybersecurity"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "PT Security",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "Cybersecurity news and analysis platform"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "COVID Portugal Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official COVID-19 data and statistics for Portugal"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Preos de Combustveis",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "pt",
+        "notes": "Real-time fuel price tracker"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Portugal Global",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business and investment intelligence platform"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Comunidades Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "pt",
+        "notes": "Online community forums covering local news and events"
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Governo de Portugal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Official website of the Portuguese Government, providing news, policies, and initiatives."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Poder Judicial",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Portal for the Portuguese Judicial System, allowing searches for court cases."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "SAPO Notcias",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "News portal aggregating articles from various media outlets."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Rdio Renascena",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "Catholic-inspired Portuguese radio station, also covering news and current affairs."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Jornal do Centro",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Regional newspaper covering central Portugal, focusing on local news."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Amnistia Internacional Portugal",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Portuguese branch of Amnesty International, reporting on human rights issues."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Transparncia Internacional - Portugal",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Portuguese chapter of Transparency International, fighting corruption."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "DACTA",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Portuguese open data portal, providing various datasets for technological analysis."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "PT Inova",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Portuguese government's innovation hub, supporting tech startups, with news and events."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "Redes Seguras Online",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Government initiative for cyber safety, offering news, tips, and resources."
+      },
+      {
+        "country": "Portugal",
+        "source_name": "COVID Portugal",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Official COVID-19 tracker for Portugal, with statistics and vaccine info."
+      }
+    ],
+    "Slovakia": [
+      {
+        "country": "Slovakia",
+        "source_name": "Slovak Republic Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Slovak",
+        "notes": "Official government portal, provides access to various datasets and information"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "TA3",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Slovak",
+        "notes": "One of the major TV news channels in Slovakia, covering current affairs"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "Dennk N",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Slovak",
+        "notes": "Online news portal focusing on politics, economy, and society"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "RegioPress",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Slovak",
+        "notes": "Aggregate of regional news outlets, provides local perspectives"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "Global Voices Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Citizen media platform, features translations of Slovak blogs and citizen media"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "NGO Registry Slovakia",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovak",
+        "notes": "Official registry providing data on NGOs operating in the country"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "Slovak Statistical Office",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Slovak",
+        "notes": "Official statistics office, offers a wealth of data on demographics, economy, and society"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "NetMonitor",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovak",
+        "notes": "Internet audience measurement service, provides insights into online behavior"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "Slovak Cybersecurity Center",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Slovak",
+        "notes": "Official government platform for cybersecurity news and alerts"
+      },
+      {
+        "country": "Slovakia",
+        "source_name": "Slovakia 24",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Slovak",
+        "notes": "News aggregate and people directory, covers a wide range of topics"
+      }
+    ],
+    "Slovenia": [
+      {
+        "country": "Slovenia",
+        "source_name": "Official Gazette of the Republic of Slovenia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Slovenian",
+        "notes": "The official publication platform for Slovenian laws and regulations."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Government of Slovenia - Official Web Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Slovenian, English",
+        "notes": "The official website of the Slovenian government, offering news and information."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Statistical Office of the Republic of Slovenia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Slovenian, English",
+        "notes": "Official statistics and data from the Slovenian government."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Nova24TV",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Slovenian",
+        "notes": "A private television station in Slovenia, providing news and current affairs."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Dnevnik",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Slovenian",
+        "notes": "One of the oldest and most widely read newspapers in Slovenia."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "RTV SLO",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovenian",
+        "notes": "Public radio and television broadcaster in Slovenia, offering news and entertainment."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "24ur",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovenian",
+        "notes": "One of the most popular news websites in Slovenia, covering a range of topics."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Primorske Novice",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Slovenian",
+        "notes": "Regional news portal focusing on the coastal regions of Slovenia."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Eco Business Forum",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Slovenian",
+        "notes": "A platform for sustainable business initiatives, focusing on environmental and social responsibility."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Peace Institute - Slovenia",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "An independent, non-profit research organization focused on peace and conflict studies."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Twitter (Slovenian Tech Community)",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Slovenian",
+        "notes": "A collection of Twitter handles covering the Slovenian tech ecosystem."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Slovenian Startup Scene",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A website aggregating content about the startup ecosystem in Slovenia."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Luka Koper",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovenian, English",
+        "notes": "Official port authority website providing data on port operations and logistics."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "eSlo Energy Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Slovenian, English",
+        "notes": "A government-backed energy sector data portal."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Tourism Statistics Slovenia",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A comprehensive source for tourism-related data and analysis."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Slovenian Business Directory",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Slovenian",
+        "notes": "A comprehensive directory of businesses and organizations in Slovenia."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "COVID-19 Tracker Slovenia",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time data and analysis on COVID-19 cases in Slovenia."
+      },
+      {
+        "country": "Slovenia",
+        "source_name": "Election Results Slovenia",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A reliable source for past and present election results in Slovenia."
+      }
+    ],
+    "Spain": [
+      {
+        "country": "Spain",
+        "source_name": "Gobierno de Espaa",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government website, provides reliable info"
+      },
+      {
+        "country": "Spain",
+        "source_name": "El Pas",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading national newspapers in Spain"
+      },
+      {
+        "country": "Spain",
+        "source_name": "La Vanguardia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "ca",
+        "notes": "Catalan news outlet, covers wide range of topics"
+      },
+      {
+        "country": "Spain",
+        "source_name": "El Confidencial",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Online newspaper focusing on current affairs and politics"
+      },
+      {
+        "country": "Spain",
+        "source_name": "Red.es",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "State-owned entity for tech & comms infrastructure"
+      },
+      {
+        "country": "Spain",
+        "source_name": "Incibe",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "National Cybersecurity Institute, provides cyber news/alerts"
+      },
+      {
+        "country": "Spain",
+        "source_name": "AEGI",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Association of Geographers of Spain, academic insights"
+      },
+      {
+        "country": "Spain",
+        "source_name": "OpenStreetMap Spain",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "User-generated geographic data, useful for community insights"
+      },
+      {
+        "country": "Spain",
+        "source_name": "Spanish Statistics Institute",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistical data from national institute"
+      },
+      {
+        "country": "Spain",
+        "source_name": "EU Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Spanish public datasets published on EU platform"
+      }
+    ],
+    "Sweden": [
+      {
+        "country": "Sweden",
+        "source_name": "Statistiska Centralbyr\u00e5n",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Data Portal",
+        "language": "Swedish, English",
+        "notes": "Official statistics from Sweden"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Svenska Dagbladet",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Swedish",
+        "notes": "One of the largest daily newspapers in Sweden"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Expressen",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Swedish",
+        "notes": "Another major Swedish newspaper"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Radio Sweden",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Public radio broadcaster"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Internet Foundation Sweden",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Manager of .se domain, provides internet infrastructure data"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Netresec",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Blog on network security, cyber threats, and incident response"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Swedish Institute",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Promoting Sweden's international image"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Save the Children Sweden",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Humanitarian organization focusing on children's rights"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Scanditrak",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Provider of Scandinavian consumer and market insights"
+      },
+      {
+        "country": "Sweden",
+        "source_name": "Regionala Medier i Sverige",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Swedish",
+        "notes": "Directory of regional Swedish media outlets"
+      }
+    ],
+    "Switzerland": [
+      {
+        "country": "Switzerland",
+        "source_name": "Swiss Federal Administration",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government portal, provides robust info"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Swissinfo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Swiss Broadcasting Corporation's news portal"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Le Temps",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "One of the major French-language dailies"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Tages-Anzeiger",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "German",
+        "notes": "Zurich-based, most read German-language newspaper"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "20 Minuten",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "German",
+        "notes": "Popular German language online platform"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Amnesty International Switzerland",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Human rights reports and updates"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "ProPublica Switzerland",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit investigative journalism"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Swiss Tech Portal",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "News on Swiss tech scene, startups, and innovations"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "CyberSecurity Switzerland",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Official govt. platform for cybersecurity news"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Reddit Swiss Community",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Active subreddit, diverse topics and geolocated content"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Swiss Federal Statistical Office",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official govt. statistics, reliable data"
+      },
+      {
+        "country": "Switzerland",
+        "source_name": "Price of Travel Switzerland",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Cost of living, travel info, and more"
+      }
+    ],
+    "Turkey": [
+      {
+        "country": "Turkey",
+        "source_name": "Resmi Gazete",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Turkish",
+        "notes": "Official government publication, digital access via API"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Milli Gazete",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Turkish",
+        "notes": "State-owned daily newspaper, provides an RSS feed"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "HaberTurk",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Turkish",
+        "notes": "Online news platform with API access"
+      },
+      {
+        "country": "Turkey",
+        "source_name": " Bianet",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Web",
+        "language": "Turkish",
+        "notes": "Non-profit news platform focusing on human rights and minorities"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "TechCrunch Turkey",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Turkish",
+        "notes": "Local edition of TechCrunch, covering Turkish tech scene"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Turksan Sanal Alemi",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Web",
+        "language": "Turkish",
+        "notes": "Citizen-based platform tracking online communities"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Istanbul Post",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Web",
+        "language": "English",
+        "notes": "English-language local news outlet"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Anitkabir",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Turkish",
+        "notes": "Official app and website of Ataturk's Mausoleum, provides API access to events and updates"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Go Turkey",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government travel guide, accessible via API"
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Turkey Statistical Institute",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government statistics agency"
+      }
+    ],
+    "Ukraine": [
+      {
+        "country": "ua",
+        "source_name": "President of Ukraine",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "uk,ru,en",
+        "notes": "Official statements and speeches"
+      },
+      {
+        "country": "ua",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "uk,en",
+        "notes": "Official diplomatic communications"
+      },
+      {
+        "country": "ua",
+        "source_name": "Kyiv Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English-language Ukrainian news outlet"
+      },
+      {
+        "country": "ua",
+        "source_name": "Interfax Ukraine News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "News agency covering Ukraine"
+      },
+      {
+        "country": "ua",
+        "source_name": "StopFake.org",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en,uk",
+        "notes": "Fact-checking and media monitoring"
+      },
+      {
+        "country": "ua",
+        "source_name": "Atlantic Council's Ukraine in Focus",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Analysis and news on Ukraine"
+      },
+      {
+        "country": "ua",
+        "source_name": "TechUkraine",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News on Ukrainian tech sector"
+      },
+      {
+        "country": "ua",
+        "source_name": "Ukraine's Cyber Alliance",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "uk,en",
+        "notes": "Tracking cyber threats"
+      },
+      {
+        "country": "ua",
+        "source_name": "Myrotvorets",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "uk",
+        "notes": "Volunteer initiative for peace and security"
+      },
+      {
+        "country": "ua",
+        "source_name": "DataSputnik",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "uk,en",
+        "notes": "Open data platform"
+      }
+    ],
+    "United Kingdom": [
+      {
+        "country": "United Kingdom",
+        "source_name": "GOV.UK",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official UK government website"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "The National Archives",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "UK's official public record"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "BBC News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of the world's leading news organizations"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "The Guardian",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National daily newspaper"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "Sky News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "24-hour news television channel"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "The Telegraph",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Daily newspaper covering news, business, sports, etc."
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "Manchester Evening News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news from Manchester"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "The Scotsman",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Daily newspaper covering Scotland"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "London's Air Quality Network",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Non-profit monitoring air quality in London"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "UK Power Networks",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Electricity distribution across UK"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "National Cyber Security Centre (NCSC)",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official cybersecurity advice from UK government"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "Tech Nation",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Community for tech startups and scaleups"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "Office for National Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics on the UK's economy, society, etc."
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "Company House",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official register of UK companies"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "MI5 - Security Service",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Official website of the UK's domestic counter-intelligence agency"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "CHAVES - Vehicle Enquiry",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Vehicle registration checks"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "UK Flight Radar",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Real-time flight tracking"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "UK Rail Delays",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time train delays and disruptions"
+      },
+      {
+        "country": "United Kingdom",
+        "source_name": "London Crime Maps",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Crime rates and incidents in London"
+      }
+    ]
+  }
+}

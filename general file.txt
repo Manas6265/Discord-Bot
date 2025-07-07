@@ -1,0 +1,168 @@
+import json
+import os
+import re
+import sys
+import time
+import threading
+import cohere
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
+from config import COHERE_API_KEY
+
+# --- CONFIG ---
+OUTPUT_FILE = "osint_sources_global.json"
+BATCH_SIZE = 20
+MAX_BATCHES = 5
+MAX_WORKERS = 3
+COHERE_CALL_LIMIT = 10  # Per minute
+
+if not COHERE_API_KEY:
+    raise ValueError("COHERE_API_KEY is missing in config.py")
+
+# --- Global Rate Limiter ---
+rate_lock = threading.Lock()
+call_timestamps = []
+
+def wait_for_rate_limit():
+    global call_timestamps
+    with rate_lock:
+        now = time.time()
+        call_timestamps = [t for t in call_timestamps if now - t < 60]
+        if len(call_timestamps) >= COHERE_CALL_LIMIT:
+            wait_time = 60 - (now - call_timestamps[0]) + 0.2
+            print(f"[Rate Limit] Sleeping for {wait_time:.2f}s")
+            time.sleep(wait_time)
+            now = time.time()
+            call_timestamps = [t for t in call_timestamps if now - t < 60]
+        call_timestamps.append(time.time())
+
+# --- LLM Client ---
+class LLMClient:
+    def __init__(self, client):
+        self.client = client
+
+    def ask(self, prompt):
+        wait_for_rate_limit()
+        try:
+            response = self.client.chat(
+                message=prompt,
+                model="command-r",
+                temperature=0.3,
+                max_tokens=2048
+            )
+            return response.text.strip()
+        except Exception as e:
+            print(f"[LLM ERROR] {e}")
+            return None
+
+co = cohere.Client(COHERE_API_KEY)
+llm = LLMClient(co)
+
+# --- Helpers ---
+def extract_json_array(text):
+    if not text:
+        return None
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip(), flags=re.MULTILINE)
+    match = re.search(r'\[\s*[\s\S]*?\]', text)
+    return match.group(0) if match else None
+
+def sanitize_filename(name):
+    return re.sub(r'[^A-Za-z0-9_\-]', '_', name)
+
+def remove_emojis(text):
+    emoji_pattern = re.compile(r"["
+        u"\U0001F600-\U0001F64F" u"\U0001F300-\U0001F5FF"
+        u"\U0001F680-\U0001F6FF" u"\U0001F1E0-\U0001F1FF"
+        u"\U00002500-\U00002BEF" u"\U00002702-\U000027B0"
+        u"\U0001f926-\U0001f937" u"\U00010000-\U0010ffff"
+        u"\u2640-\u2642" u"\u2600-\u2B55" "]+", flags=re.UNICODE)
+    return emoji_pattern.sub('', text)
+
+def normalize_name(name):
+    return re.sub(r'\W+', '', name or '').lower()
+
+# --- Prompts ---
+CONTINENTS_PROMPT = "List all continents on Earth in a JSON array."
+COUNTRY_PROMPT = lambda continent: f"List all countries in {continent} as a JSON array."
+SOURCE_PROMPT = lambda country, batch: f"""
+You are an OSINT expert. Generate {BATCH_SIZE} OSINT sources for {country}, batch {batch}.
+Each must include:
+- country, source_name, bucket, trust_tier, access, language, notes
+Output only valid JSON array. No markdown or text.
+"""
+
+# --- File Init ---
+def init_file():
+    if not os.path.exists(OUTPUT_FILE):
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump({}, f)
+
+def save_sources(continent, country, sources):
+    lock = threading.Lock()
+    with lock, open(OUTPUT_FILE, "r+", encoding="utf-8") as f:
+        data = json.load(f)
+        if continent not in data:
+            data[continent] = {}
+        if country in data[continent]:
+            return
+        data[continent][country] = sources
+        f.seek(0)
+        json.dump(data, f, indent=2)
+        f.truncate()
+
+def collect_for_country(continent, country):
+    print(f"[INFO] Collecting for {country}...")
+    all_sources = []
+    for batch in range(1, MAX_BATCHES + 1):
+        prompt = SOURCE_PROMPT(country, batch)
+        response = llm.ask(prompt)
+        if not response:
+            print(f"[WARN] Empty LLM response for {country}, batch {batch}")
+            break
+        try:
+            json_block = extract_json_array(response)
+            if not json_block:
+                print(f"[WARN] No JSON found for {country}, batch {batch}")
+                break
+            cleaned = remove_emojis(json_block)
+            batch_sources = json.loads(cleaned)
+            # Deduplication
+            names_seen = {normalize_name(s['source_name']) for s in all_sources}
+            filtered = [s for s in batch_sources if normalize_name(s['source_name']) not in names_seen]
+            all_sources.extend(filtered)
+            if len(batch_sources) < BATCH_SIZE:
+                break
+        except Exception as e:
+            print(f"[ERROR] JSON parse failed for {country}, batch {batch}: {e}")
+            break
+    if all_sources:
+        save_sources(continent, country, all_sources)
+        return True
+    return False
+
+# --- Main ---
+def run_collection():
+    init_file()
+    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        existing = json.load(f)
+
+    continents = json.loads(extract_json_array(llm.ask(CONTINENTS_PROMPT)))
+    for continent in continents:
+        print(f"\n=== {continent} ===")
+        countries = json.loads(extract_json_array(llm.ask(COUNTRY_PROMPT(continent))))
+        countries_to_fetch = [c for c in countries if c not in existing.get(continent, {})]
+
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as exec:
+            futures = {exec.submit(collect_for_country, continent, c): c for c in countries_to_fetch}
+            for future in as_completed(futures):
+                country = futures[future]
+                if not future.result():
+                    print(f"[FAIL] {country} failed")
+
+if __name__ == "__main__":
+    print("[START] OSINT collection...")
+    try:
+        run_collection()
+    except Exception as e:
+        print(f"[FATAL ERROR] {e}")
+    print("[DONE] OSINT collection complete.")

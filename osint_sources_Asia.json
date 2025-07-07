@@ -1,0 +1,5477 @@
+{
+  "Asia": {
+    "Azerbaijan": [
+      {
+        "country": "Azerbaijan",
+        "source_name": "President of Azerbaijan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN, AZ",
+        "notes": "Official website of the President, provides news and updates."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN, AZ",
+        "notes": "Official diplomatic channel, offers insights into foreign relations."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "State News Agency of Azerbaijan (AZERTAC)",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "AZ",
+        "notes": "Official state-run news agency, provides pro-government views."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "CNN Turkey",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "TR",
+        "notes": "Turkish coverage of Azerbaijan-related news, focused on regional affairs."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Radio Free Europe/Radio Liberty - Azerbaijan",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "AZ",
+        "notes": "Radio station funded by US Congress, provides alternative views."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Open Data Azerbaijan",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Government-run open data initiative, provides official statistics."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Azerbaijan Internet Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "AZ",
+        "notes": "Online forum engaging Azerbaijani citizens, focuses on local issues."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Tech Community AZ",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN, AZ",
+        "notes": "Local tech news and community platform."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Cybersport.az",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "AZ",
+        "notes": "Popular gaming and esports news portal."
+      },
+      {
+        "country": "Azerbaijan",
+        "source_name": "Azerbaijan International",
+        "bucket": "Magazine",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Bi-lingual cultural magazine, covers society and politics."
+      }
+    ],
+    "Afghanistan": [
+      {
+        "country": "Afghanistan",
+        "source_name": "Presidential Palace",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, Dari, Pashto",
+        "notes": "Official communications and updates from the Afghan Presidency."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "The Kabul Times",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language daily newspaper published in Kabul."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Hasht-e-Subh",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Dari",
+        "notes": "One of the leading Dari-language newspapers in Afghanistan."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Pajhwok Afghan News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Independent news agency providing comprehensive coverage."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Radio Free Europe/Radio Liberty (RFE/RL)",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English, Dari, Pashto",
+        "notes": "US-government funded, regional coverage, multiple languages."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "TOLOnews",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English, Dari, Pashto",
+        "notes": "Popular TV and digital news platform."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Afghanistan Analysts Network (AAN)",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Independent think tank providing in-depth analysis."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "UNAMA",
+        "bucket": "UN/International Organization",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "UN's primary mission in Afghanistan, focusing on political and humanitarian issues."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "World Food Programme (WFP)",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Monitoring food security and hunger, providing aid."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Afghans4Peace",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Social Media",
+        "language": "English, Dari, Pashto",
+        "notes": "Grassroots peace advocacy and activism."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "ACLED",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Conflict and political violence tracking database."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Afghanistan Digital Map Library",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Detailed digital maps of Afghanistan for various regions and themes."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "NetBlocks",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Internet monitoring and outage reports."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Afghanistan Trade and Investment Show",
+        "bucket": "Business",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Business and investment-focused platform."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Goatalys",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Data and analysis on Afghanistan's power dynamics and tribal dynamics."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "The Afghanistan Chamber of Commerce and Industries",
+        "bucket": "Business",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English, Dari",
+        "notes": "Promoting trade and industry, connecting businesses."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "AIHRC",
+        "bucket": "Government/Human Rights",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, Dari, Pashto",
+        "notes": "Afghanistan Independent Human Rights Commission."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "RAAST",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Dari, Pashto",
+        "notes": "Online news platform focusing on current affairs and culture."
+      },
+      {
+        "country": "Afghanistan",
+        "source_name": "Sada-e-Afghanistan",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Dari",
+        "notes": "Dari-language TV and radio broadcaster."
+      }
+    ],
+    "Armenia": [
+      {
+        "country": "Armenia",
+        "source_name": "Armenia Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "President of Armenia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en, ru",
+        "notes": "Official website of the President, offers speeches, news, and updates"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "National Assembly of Armenia",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "hy",
+        "notes": "Website offers legislative information and some transparency"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "PanARMENIAN Media",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language news outlet"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Hetq Online",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "hy, ru, en",
+        "notes": "Independent news website, investigative journalism"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Lurer.com",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "hy",
+        "notes": "Online news portal, covers politics and current affairs"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Yerevan Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "English language regional news source"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "ArmeniaToday",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News agency focusing on politics and society"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Asbarez Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Armenian community portal, covers diaspora news"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "HayTech",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Technology and startup focused, also covers local innovation"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Cyber.am",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Citizen lab focused on cyber security and online freedoms"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Open Data Armenia",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data portal, provides various datasets"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "AMStats",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en, ru",
+        "notes": "Statistics and surveys on various social and economic topics"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Armenia's State Service",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "hy, en",
+        "notes": "Promoting public service and government transparency"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Transparency International Anti-Corruption Center",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Part of Transparency International, focuses on corruption issues"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "ArmaTimes",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ru",
+        "notes": "Analytical platform covering politics and security"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Epress.am",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "hy, ru, en",
+        "notes": "Online news portal covering current affairs"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Radio Free Europe: Armenian Service",
+        "bucket": "Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "hy, ru, en",
+        "notes": "Local service of the RFE, covers news and analysis"
+      },
+      {
+        "country": "Armenia",
+        "source_name": "Armenia Journal",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community platform for culture, travel, and diaspora"
+      }
+    ],
+    "Bahrain": [
+      {
+        "country": "Bahrain",
+        "source_name": "Bahrain Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official government website, provides news and updates"
+      },
+      {
+        "country": "Bahrain TV",
+        "source_name": "National Television",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Live Stream, API",
+        "language": "Arabic",
+        "notes": "Official TV channel of Bahrain, provides news and programming"
+      },
+      {
+        "country": "Gulf Daily News",
+        "source_name": "GDN Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "English-language daily newspaper covering Bahrain"
+      },
+      {
+        "country": "Bahrain",
+        "source_name": "Middle East Online",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "Regional news outlet covering Middle Eastern affairs, focus on Bahrain"
+      },
+      {
+        "country": "Bahrain",
+        "source_name": "Human Rights Watch",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "Non-profit organization monitoring human rights in Bahrain"
+      },
+      {
+        "country": "Manama",
+        "source_name": "Bahrain Center for Human Rights",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website, Scrape",
+        "language": "English",
+        "notes": "Local NGO advocating for human rights, focuses on documentation"
+      },
+      {
+        "country": "Bahrain",
+        "source_name": "Amnesty International",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website, API",
+        "language": "English",
+        "notes": "Global NGO, country-specific news and reports on human rights"
+      },
+      {
+        "country": "Bahrain",
+        "source_name": "Tech Bahrain",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website, API",
+        "language": "English",
+        "notes": "Tech news and events platform, focuses on Bahraini startups"
+      },
+      {
+        "country": "Manama",
+        "source_name": "Bahrain Cyber Forces",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official government portal for cybersecurity news and initiatives"
+      },
+      {
+        "country": "Bahrain",
+        "source_name": "Open Data Bahrain",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data portal, provides various datasets"
+      }
+    ],
+    "Bangladesh": [
+      {
+        "country": "Bangladesh",
+        "source_name": "Bangladesh Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides valuable insights and information."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "The Daily Star",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of the leading English newspapers in Bangladesh."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "BDNews24",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "bn",
+        "notes": "Popular Bengali language news portal."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Dhaka Tribune",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language newspaper focusing on current affairs."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Prothom Alo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "bn",
+        "notes": "Bengali language newspaper, also offers English version."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Tech Bangladesh",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech-focused website, covers local tech scene, startups, and innovations."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "BD Cyber Army",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "en",
+        "notes": "Citizen-led initiative for cybersecurity and online community safety."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Open Data BD",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government open data portal, provides various datasets."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Bangladesh Today",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Online news portal covering regional and national stories."
+      },
+      {
+        "country": "Bangladesh",
+        "source_name": "Chittagong Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "English language regional newspaper from Chittagong."
+      }
+    ],
+    "Bhutan": [
+      {
+        "country": "Bhutan",
+        "source_name": "Bhutan Government Website",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "En",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Druk News",
+        "source_name": "National News Agency of Bhutan",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Dz",
+        "notes": "State media, Dzongkha language"
+      },
+      {
+        "country": "Bhutan Today",
+        "source_name": "Private News Outlet",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "En",
+        "notes": "English language, blog-style platform"
+      },
+      {
+        "country": "South Asia Monitor",
+        "source_name": "Regional News Outlet",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "En",
+        "notes": "Coverage of Bhutan in regional context"
+      },
+      {
+        "country": "Bhutan",
+        "source_name": " Amnesty International",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "En",
+        "notes": "Human rights focus"
+      },
+      {
+        "country": "BT",
+        "source_name": "Telecom Provider",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "En",
+        "notes": "Telecom and internet services"
+      },
+      {
+        "country": "Bhutanese Hackers",
+        "source_name": "BH Community",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "En",
+        "notes": "Cyber community forum"
+      },
+      {
+        "country": "Thimphu Thromde",
+        "source_name": "City Government",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Dz",
+        "notes": "Local Thimphu news and updates"
+      },
+      {
+        "country": "Bhutan",
+        "source_name": "World Factbook",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "En",
+        "notes": "Basic country overview, stats"
+      },
+      {
+        "country": "BH",
+        "source_name": "National Statistics Bureau",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "En",
+        "notes": "Official statistics, census data"
+      },
+      {
+        "country": "Bhutan Power System",
+        "source_name": "Energy Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "En",
+        "notes": "Energy sector data and news"
+      }
+    ],
+    "Brunei": [
+      {
+        "country": "Brunei",
+        "source_name": "Brunei Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government portal for Brunei"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "InfoComm Brunei",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official government news agency"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "The Brunei Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "English daily newspaper"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Radio Television Brunei",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "ms",
+        "notes": "Official public broadcaster, Malay language"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Borneo Bulletin",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Daily English newspaper"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Brudirect",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Amnesty International Brunei",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Human rights organization"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "World Factbook - Brunei",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Country profile and intelligence"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "OpenStreetMap Brunei",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Map Data",
+        "notes": "User-generated map data"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Internet Society of Brunei Darussalam",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "IT industry and community"
+      },
+      {
+        "country": "Brunei",
+        "source_name": "Brunei Community Facebook Groups",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ms,en",
+        "notes": "Local community discussions"
+      }
+    ],
+    "Cambodia": [
+      {
+        "country": "Cambodia",
+        "source_name": "Cambodia Government",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "National Institute of Statistics",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en, km",
+        "notes": "Official statistics agency"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "The Cambodia Daily",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Independent daily newspaper"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "The Phnom Penh Post",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Cambodia's oldest English-language publication"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "Fresh News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Popular regional news outlet"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "VOA Cambodia",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "km",
+        "notes": "Voice of America's Cambodian service"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "Open Development Cambodia",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Data and research on natural resources"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "Cambodia Tech Community",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tech innovations and startups"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "Cambodia Cyber Crime",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Cyber crime reports and awareness"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "Community Info Center",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local community news and events"
+      },
+      {
+        "country": "Cambodia",
+        "source_name": "DataLao",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Data portal for Laos and Cambodia"
+      }
+    ],
+    "China": [
+      {
+        "country": "China",
+        "source_name": "National Development and Reform Commission",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Chinese",
+        "notes": "Official government source for economic and social development"
+      },
+      {
+        "country": "China",
+        "source_name": "China Daily",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language state-owned newspaper"
+      },
+      {
+        "country": "China",
+        "source_name": "Global Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Chinese",
+        "notes": "Nationalistic perspective, affiliated with People's Daily"
+      },
+      {
+        "country": "China",
+        "source_name": "China Digital Times",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit, translated news and analysis"
+      },
+      {
+        "country": "China",
+        "source_name": "TechNode",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Tech news and analysis, startup scene"
+      },
+      {
+        "country": "China",
+        "source_name": "WeChat Official Accounts",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Chinese",
+        "notes": "Official accounts for various topics, e.g., news, culture"
+      },
+      {
+        "country": "China",
+        "source_name": "Sina Weibo",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Chinese",
+        "notes": "Microblogging platform, Twitter-like"
+      },
+      {
+        "country": "China",
+        "source_name": "China Statistical Yearbooks",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "PDFs",
+        "language": "Chinese/English",
+        "notes": "Official government statistics"
+      },
+      {
+        "country": "China",
+        "source_name": "Wind Information",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Financial data and analysis platform"
+      },
+      {
+        "country": "China",
+        "source_name": "Tencent News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "App",
+        "language": "Chinese",
+        "notes": "Regional news aggregator"
+      }
+    ],
+    "Cyprus": [
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "The Cyprus Mail",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English daily newspaper in Cyprus, covering local news"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "SigmaLive",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "el",
+        "notes": "Greek-language online news portal"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Haravgi",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "el",
+        "notes": "Communist daily newspaper, Greek-language"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Broadcasting Corporation",
+        "bucket": "Radio/TV",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Public broadcaster, provides radio and TV content"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Observer",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Non-profit news outlet covering political, social, economic issues"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Tech Cyprus",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News on tech startups, events, and innovations in Cyprus"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Computer Society",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Non-profit organization promoting IT awareness"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Eurostat",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "European Union's statistical office, provides data on Cyprus"
+      },
+      {
+        "country": "Cyprus",
+        "source_name": "Cyprus Police",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official police website, access to crime stats and alerts"
+      }
+    ],
+    "India": [
+      {
+        "country": "India",
+        "source_name": "MyGov",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government platform for citizen engagement and information dissemination."
+      },
+      {
+        "country": "India",
+        "source_name": "Press Information Bureau (PIB)",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government news and press releases."
+      },
+      {
+        "country": "India",
+        "source_name": "The Hindu",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of India's leading English newspapers."
+      },
+      {
+        "country": "India",
+        "source_name": "Times of India",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Another major English language daily."
+      },
+      {
+        "country": "India",
+        "source_name": "India TV News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "hi",
+        "notes": "Hindi language news channel."
+      },
+      {
+        "country": "India",
+        "source_name": "The Better India",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Non-profit platform showcasing positive stories and initiatives from across India."
+      },
+      {
+        "country": "India",
+        "source_name": "Data.gov.in",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal for open data."
+      },
+      {
+        "country": "India",
+        "source_name": "India Spend",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tracker of social and development initiatives across India."
+      },
+      {
+        "country": "India",
+        "source_name": "MediaWire",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Indian media aggregator platform."
+      },
+      {
+        "country": "India",
+        "source_name": "Reddit India",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Popular online community and discussion forum focused on India."
+      }
+    ],
+    "Indonesia": [
+      {
+        "country": "Indonesia",
+        "source_name": "Kementerian Dalam Negeri",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "id",
+        "notes": "Official Ministry of Home Affairs"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Presiden RI",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "id",
+        "notes": "Office of the President"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Kompas",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "id",
+        "notes": "One of the largest daily newspapers"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Detik",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "id",
+        "notes": "Popular news portal"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "The Jakarta Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language daily newspaper"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Suara.com",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "id",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "TribunNews",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "id",
+        "notes": ""
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Jawa Pos",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "id",
+        "notes": "Indonesian Regional News"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Bali Post",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "id",
+        "notes": "Bali-focused Regional News"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Amnesty International Indonesia",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "id, en",
+        "notes": ""
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Transparency International Indonesia",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "id, en",
+        "notes": "Anti-corruption focus"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "IDN Times",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "id",
+        "notes": "Digital news platform"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Netdata",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time data on internet infrastructure"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Statistics Indonesia",
+        "bucket": "Government Data",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en, id",
+        "notes": "Official statistics bureau"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Indonesia Investments",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business and investment focus"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Lapor.co",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "id",
+        "notes": "Citizen complaints and reporting platform"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Balai Data dan Informasi Teknologi",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "id",
+        "notes": "Tech and cyber trends"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Emro.who.int",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "World Health Organization regional office"
+      },
+      {
+        "country": "Indonesia",
+        "source_name": "Google Trends",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Search trends data"
+      }
+    ],
+    "Iran": [
+      {
+        "country": "Iran",
+        "source_name": "President.ir",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Persian, English",
+        "notes": "Official website of the President of Iran"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Mehr News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Persian, English",
+        "notes": "One of the major state-owned news agencies"
+      },
+      {
+        "country": "Iran",
+        "source_name": "ISNA",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Persian, English",
+        "notes": "Another prominent state-owned news agency"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Press TV",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language news channel, state-affiliated"
+      },
+      {
+        "country": "Iran",
+        "source_name": " Tehran Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "English-language daily newspaper"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Iran Newspaper",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Persian",
+        "notes": "One of the oldest Persian-language newspapers"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Entekhab",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Persian",
+        "notes": "Popular conservative news site"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Noor Research and Survey",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Persian, English",
+        "notes": "Opinion polling and survey organization"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Iran Cell Phone Stats",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time stats on mobile network usage"
+      },
+      {
+        "country": "Iran",
+        "source_name": "NetBlocks",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Monitors cyber control and internet shutdowns"
+      },
+      {
+        "country": "Iran",
+        "source_name": "Iran Power Outages",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time data on power outages"
+      },
+      {
+        "country": "Iran",
+        "source_name": "TEHRAN24",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Persian, English",
+        "notes": "Live traffic and city data"
+      }
+    ],
+    "Iraq": [
+      {
+        "country": "Iraq",
+        "source_name": "Prime Minister's Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official statements and updates from the Prime Minister of Iraq."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Diplomatic and international relations updates."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Al Iraqiya TV",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic",
+        "notes": "Official state-run television channel."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Al-Sabah",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Arabic",
+        "notes": "State-owned daily newspaper."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Kurdistan TV",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Kurdish",
+        "notes": "Regional Kurdish television channel."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Rudaw",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English, Kurdish",
+        "notes": "Independent news outlet covering Kurdistan region."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "IRAK.BIZ",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit promoting business and economic development."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Iraqi Student Project",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community-driven platform for Iraqi students."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "TechIraq",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Tech news and startups focused."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Cyber Warriors of Iraq",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "English",
+        "notes": "Citizen-based cyber monitoring group."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Iraq Oil Report",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Subscription API",
+        "language": "English",
+        "notes": "Energy and oil industry data and analysis."
+      },
+      {
+        "country": "Iraq",
+        "source_name": "Iraq Business News",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Business and investment news aggregator."
+      }
+    ],
+    "Israel": [
+      {
+        "country": "Israel",
+        "source_name": "Israel Government Press Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government communications and media briefings"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Prime Minister of Israel",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Twitter",
+        "language": "English",
+        "notes": "Official Twitter account of the Prime Minister's Office"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Israel Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official diplomatic communications"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Haaretz",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Liberal daily newspaper covering current affairs"
+      },
+      {
+        "country": "Israel",
+        "source_name": "The Jerusalem Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language newspaper focusing on Israeli and Jewish news"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Ynetnews",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online news portal for Israeli news and analysis"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Arutz Sheva",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Independent news site with a religious Zionist perspective"
+      },
+      {
+        "country": "Israel",
+        "source_name": "The Times of Israel",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online news publication covering Israel and the region"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Israel Hayom",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Popular Israeli tabloid newspaper"
+      },
+      {
+        "country": "Israel",
+        "source_name": "NGO Monitor",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit tracking NGO activity in Israel and the Palestinian Authority"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Tech Israel",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "News and analysis on Israel's tech ecosystem"
+      },
+      {
+        "country": "Israel",
+        "source_name": "CyberScoop",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "News outlet focused on cybersecurity and tech"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Jerusalem Community News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "English",
+        "notes": "Local community news and events in Jerusalem"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Israel Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Hebrew, English",
+        "notes": "Official government open data platform"
+      },
+      {
+        "country": "Israel",
+        "source_name": "World Factbook - Israel",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "CIA's factbook entry for Israel, with stats and analysis"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Global Terrorism Database",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Database of terrorist attacks worldwide, including Israel"
+      },
+      {
+        "country": "Israel",
+        "source_name": "Israel Defense Forces Blog",
+        "bucket": "Military",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official blog of the Israel Defense Forces"
+      },
+      {
+        "country": "Israel",
+        "source_name": "The Israel Project",
+        "bucket": "Think Tanks",
+        "trust_tier": 2,
+        "access": "Twitter",
+        "language": "English",
+        "notes": "Non-partisan educational organization providing analysis"
+      },
+      {
+        "country": "Israel",
+        "source_name": "iHLS - Israel Homeland Security",
+        "bucket": "Security",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "News and analysis on homeland security matters"
+      }
+    ],
+    "Japan": [
+      {
+        "country": "Japan",
+        "source_name": "Japan Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Leading English-language newspaper in Japan"
+      },
+      {
+        "country": "Japan",
+        "source_name": "NHK",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Japanese",
+        "notes": "Public broadcaster, trusted source for news and info"
+      },
+      {
+        "country": "Japan",
+        "source_name": "The Asahi Shimbun",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Japanese",
+        "notes": "One of the largest daily newspapers in Japan"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Japan News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Another prominent English-language newspaper"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Tokyo Reporter",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Community blog covering various topics"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Japan Today",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Online news portal for expats and locals"
+      },
+      {
+        "country": "Japan",
+        "source_name": "J-Cast News",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Japanese",
+        "notes": "Online news and entertainment site"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Tech in Asia JP",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Japanese",
+        "notes": "Tech insights and startup scene coverage"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Japan Government Internet TV",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Japanese",
+        "notes": "Official government-run multimedia platform"
+      },
+      {
+        "country": "Japan",
+        "source_name": "Cabinet Office Japan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government source for statistics and info"
+      }
+    ],
+    "Jordan": [
+      {
+        "country": "Jordan",
+        "source_name": "Jordan Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government source for foreign affairs"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "The Jordan Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English-language daily newspaper"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Al Mamlaka TV",
+        "bucket": "State Media",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Arabic",
+        "notes": "Official state-owned TV channel"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Ammon News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Online news platform covering Jordan and the region"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Royal Jordanian Airlines",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Official airline, updates on flights and travel"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Jordan Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government open data initiative"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Amman Net",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Local community news and events"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "Jordanian Economic Association",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Non-profit focusing on economic research and development"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "TechJordan",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tech community and startup hub"
+      },
+      {
+        "country": "Jordan",
+        "source_name": "CyberJordan",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Platform for cyber security news and awareness"
+      }
+    ],
+    "Kazakhstan": [
+      {
+        "country": "Kazakhstan",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Russian, Kazakh",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "President of the Republic of Kazakhstan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Russian, Kazakh",
+        "notes": "Office of the President"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Russian, Kazakh, English",
+        "notes": "Official MFA channel"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Tengrinews",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Major news agency"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Today.kz",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Kazakh, Russian",
+        "notes": "News portal"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Respublica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Russian",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Elorda TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "YouTube",
+        "language": "Kazakh, Russian",
+        "notes": "Local TV channel"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Kazakhstan Today",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit news outlet"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Open Data Kazakhstan",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English, Russian",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Kazakhstan",
+        "source_name": "Kazeu",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tech startup news"
+      }
+    ],
+    "Kuwait": [
+      {
+        "country": "Kuwait",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Main government website, offers official info and services"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Kuwait Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "One of the leading English dailies in Kuwait"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Al Jarida",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Online Kuwaiti newspaper covering politics, business, sports"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Gulf News - Kuwait",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Leading pan-Arab English newspaper, Kuwait-focused"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "NGO Kuwait",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Directory of Kuwaiti NGOs, with contact details"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Tech Kuwait",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "News and events from Kuwait's tech scene"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Cyber Security Kuwait",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic, English",
+        "notes": "Official government portal for cyber security news and advice"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Kuwait Community Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online forum for expats and locals, diverse topics"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Open Data Kuwait",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Government open data portal, various datasets available"
+      },
+      {
+        "country": "Kuwait",
+        "source_name": "Kuwait Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government intelligence updates"
+      }
+    ],
+    "Kyrgyzstan": [
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Russian, Kyrgyz",
+        "notes": "Direct access to government information, official statements and policies"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Kabar News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Kyrgyz, Russian, English",
+        "notes": "State-owned news agency, provides timely updates on national events"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "24.kg",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Kyrgyz, Russian",
+        "notes": "One of the leading online news portals, covers a variety of topics"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Asia Plus",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Russian",
+        "notes": "Independent news outlet focusing on Central Asian politics and business"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Kyrgyzstan.kg",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Kyrgyz, Russian",
+        "notes": "Community platform for sharing news and opinions, citizen journalism"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Open Data Kyrgyzstan",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data portal, provides access to government datasets"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Kyrgyz Republic Intelligence Portal",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Restricted",
+        "language": "English, Kyrgyz",
+        "notes": "Official intelligence portal, provides analysis and situation reports"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Tech Community Kyrgyzstan",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A hub for tech enthusiasts, startups, and innovations in the country"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "Cyber Security Kyrgyzstan",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Kyrgyz, Russian",
+        "notes": "Official platform for cyber security initiatives and awareness"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "source_name": "E-Gov Services",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Kyrgyz, Russian",
+        "notes": "Portal for accessing various government e-services"
+      }
+    ],
+    "Laos": [
+      {
+        "country": "Laos",
+        "source_name": "Lao Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and initiatives"
+      },
+      {
+        "country": "Laos News Agency",
+        "source_name": "KPL",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "State-run news agency, provides official news and updates"
+      },
+      {
+        "country": "Laos",
+        "source_name": "The Laotian Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online news portal focusing on Laos-related news and culture"
+      },
+      {
+        "country": "Laos",
+        "source_name": "Lao Star Radio",
+        "bucket": "Radio",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "la",
+        "notes": "Independent radio station based in Laos, offers news and music"
+      },
+      {
+        "country": "Laos",
+        "source_name": "Open Street Map",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "User-generated map data, provides detailed geographical info"
+      },
+      {
+        "country": "Laos",
+        "source_name": "Lao Youth Union",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "la",
+        "notes": "Official website of the union, offers resources and events for Laos's youth"
+      },
+      {
+        "country": "Laos",
+        "source_name": "UNHCR in Laos",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "UNHCR's official channel for Laos, covering refugee and humanitarian issues"
+      },
+      {
+        "country": "Laos",
+        "source_name": "World Factbook",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Comprehensive database providing facts and info on countries, includes Laos specifics"
+      },
+      {
+        "country": "Laos",
+        "source_name": "Lao Statistics Bureau",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government statistics agency, offers data on demographics, economy, and more"
+      },
+      {
+        "country": "Laos",
+        "source_name": "COVID Tracker LAO",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Dedicated COVID-19 tracker for Laos, provides latest case numbers and trends"
+      }
+    ],
+    "Lebanon": [
+      {
+        "country": "Lebanon",
+        "source_name": "Official Gazette of Lebanon",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Arabic, French",
+        "notes": "The Lebanese government's official publication platform."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Central Administration for Statistics",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English, Arabic",
+        "notes": "Government body responsible for official statistics, provides data on demographics, economy, and more."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "The Daily Star Lebanon",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "One of the leading English-language newspapers in Lebanon."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Al Jadeed TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Arabic",
+        "notes": "Lebanese television station, offers news and current affairs."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Amwal Al Ghad",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Arabic",
+        "notes": "Financial and economic news website focused on Lebanon and the region."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Transparency International - Lebanon Chapter",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Local branch of the global anti-corruption organization, providing reports and insights."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Baladi Capable Local Governance Program",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Community development initiative focusing on local governance and public services."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Lebanon Open Data Initiative",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "A citizen-led open data platform, aiming to enhance transparency and accessibility of public data."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "Mada Social Media",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Arabic",
+        "notes": "Social media collective tracking online conversations and trends related to Lebanon."
+      },
+      {
+        "country": "Lebanon",
+        "source_name": "LebNet",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Network of Lebanese diaspora professionals, offering resources and connectivity."
+      }
+    ],
+    "Malaysia": [
+      {
+        "country": "Malaysia",
+        "source_name": "MyGov",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "ms",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "Bernama",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "National news agency"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "The Star Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English-language daily newspaper"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "Harian Metro",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "ms",
+        "notes": "Malay-language daily"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "Malaysiakininews",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Alternative online news portal"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "CodeFor.MY",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Github",
+        "language": "en",
+        "notes": "Tech community initiatives"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "OpenData.gov.my",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government open data portal"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "MyCCIS",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Customs intelligence and statistics"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "COVID-19 Malaysia",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official COVID-19 data"
+      },
+      {
+        "country": "Malaysia",
+        "source_name": "Malaysia Crime Watch",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "ms",
+        "notes": "Community crime reports"
+      }
+    ],
+    "Mongolia": [
+      {
+        "country": "Mongolia",
+        "source_name": "Government of Mongolia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN, MN",
+        "notes": "Official government website, provides reliable information on policies, news, and initiatives."
+      },
+      {
+        "country": "Mongol News",
+        "source_name": "MongolMedia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Mongolian",
+        "notes": "One of the largest news outlets in Mongolia, covering politics, economy, and current affairs."
+      },
+      {
+        "country": "GoGo Mongolia",
+        "source_name": "gogo_mn",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Mongolian",
+        "notes": "Online news portal focusing on regional developments, culture, and community stories."
+      },
+      {
+        "country": "Mongolia",
+        "source_name": "UB Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "English-language newspaper providing news and analysis on Mongolia's politics, economy, and society."
+      },
+      {
+        "country": "Mongolia",
+        "source_name": "NGO Freedom House",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Freedom House's country profile and reports on Mongolia, focusing on democracy, governance, and human rights."
+      },
+      {
+        "country": "Mongol Net",
+        "source_name": "Tech Mongolia",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Mongolian",
+        "notes": "IT news platform covering technology trends, startups, and digital initiatives in Mongolia."
+      },
+      {
+        "country": "Mongolia",
+        "source_name": "CyberNews",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Cyber security news and insights on Mongolia, covering incidents, threats, and digital risks."
+      },
+      {
+        "country": "Mongolia",
+        "source_name": "Community Blog",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A community blog platform with diverse contributors, offering insights on Mongolian society, culture, and travel."
+      },
+      {
+        "country": "Open Data Mongolia",
+        "source_name": "ODM",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "A government-initiated open data platform with various datasets on demographics, economy, and more."
+      },
+      {
+        "country": "Mongolia",
+        "source_name": "International Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "A subscription-based service providing detailed country reports and analysis on Mongolia's politics, economy, and security."
+      },
+      {
+        "country": "Mongolia Stock Market",
+        "source_name": "MSE",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official stock market index of Mongolia, offering real-time data and market insights."
+      }
+    ],
+    "Maldives": [
+      {
+        "country": "MV",
+        "source_name": "Maldives Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "MV",
+        "source_name": "President's Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "dv, en",
+        "notes": "Direct access to information from the President's office"
+      },
+      {
+        "country": "MV",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official foreign affairs channel"
+      },
+      {
+        "country": "MV",
+        "source_name": "Maldives News Agency (MNA)",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "State-owned news agency, provides official updates"
+      },
+      {
+        "country": "MV",
+        "source_name": "Haveeru Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "dv",
+        "notes": "One of the leading local news outlets, in Dhivehi"
+      },
+      {
+        "country": "MV",
+        "source_name": "Miadhu",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "dv",
+        "notes": "Daily newspaper, also in Dhivehi"
+      },
+      {
+        "country": "MV",
+        "source_name": "Sun Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online news portal, English language"
+      },
+      {
+        "country": "MV",
+        "source_name": "Local Blogs",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "dv, en",
+        "notes": "Various personal blogs offering insights"
+      },
+      {
+        "country": "MV",
+        "source_name": "Maldives Chamber of Commerce & Industry",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business insights, economic trends"
+      },
+      {
+        "country": "MV",
+        "source_name": "Environmental Protection Agency (EPA)",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Focus on environmental initiatives"
+      },
+      {
+        "country": "MV",
+        "source_name": "Google Maps",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Satellite imagery and user contributions"
+      },
+      {
+        "country": "MV",
+        "source_name": "Twitter",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en, dv",
+        "notes": "Real-time information, various users"
+      },
+      {
+        "country": "MV",
+        "source_name": "Facebook",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en, dv",
+        "notes": "Popular social platform for Maldives-based users"
+      },
+      {
+        "country": "MV",
+        "source_name": "Instagram",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Visual",
+        "notes": "Visual insights, tourism focus"
+      },
+      {
+        "country": "MV",
+        "source_name": "Tripadvisor",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism reviews and insights"
+      },
+      {
+        "country": "MV",
+        "source_name": "Fishing News Maldives",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Specialized outlet covering fishing industry"
+      },
+      {
+        "country": "MV",
+        "source_name": "The Edict",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online magazine focusing on society and culture"
+      },
+      {
+        "country": "MV",
+        "source_name": "Data.gov.mv",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "MV",
+        "source_name": "Maldives Stock Exchange (MSE)",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Financial insights, stock market data"
+      }
+    ],
+    "Myanmar": [
+      {
+        "country": "Myanmar",
+        "source_name": "Myanmar Government",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "The Global New Light of Myanmar",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "State-run daily newspaper, offers English language news"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "Kantharawaddy Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "my",
+        "notes": "Local news outlet covering central Myanmar, in Burmese"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "DVB Media Group",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Independent NGO media organization, provides unbiased news"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "Myanmar Tech Journal",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech news and reviews, also in Burmese"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "NetBlocks",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Internet monitoring organization, provides data on connectivity disruptions"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "Myanmar Witness",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community-based platform for documenting human rights violations"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "OpenStreetMap",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "geodata",
+        "notes": "User-contributed geographic data, useful for mapping and analysis"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "Myanmar Intelligence Group",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Analysis and news on Myanmar's political and social issues"
+      },
+      {
+        "country": "Myanmar",
+        "source_name": "Myanmar Business Today",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Business and economy-focused news platform"
+      }
+    ],
+    "Nepal": [
+      {
+        "country": "Nepal",
+        "source_name": "Nepal Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "The Himalayan Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of the leading English daily newspapers in Nepal"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Online Khabar",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "ne",
+        "notes": "Popular Nepali language news portal"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Setopati",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "ne",
+        "notes": "Nepali news website focusing on political and social issues"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Nepal Press Agency",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "News agency covering Nepal's latest news, accessible via website"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Radio Nepal",
+        "bucket": "Radio",
+        "trust_tier": 1,
+        "access": "Stream",
+        "language": "ne",
+        "notes": "Official government-run radio station, broadcasts in Nepali"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Nepal NGO Association",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "An umbrella body for NGOs in Nepal, provides list of member organizations"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "OpenNepal",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Citizen-driven platform for sharing local info, uses crowdsourcing"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Nepal Cyber Army",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "en",
+        "notes": "Official handle of Nepal Cyber Army, a community of ethical hackers"
+      },
+      {
+        "country": "Nepal",
+        "source_name": "Nepalese Community Blog",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "A blog focusing on Nepali culture, society, and community updates"
+      }
+    ],
+    "North Korea": [
+      {
+        "country": "North Korea",
+        "source_name": "North Korean Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "Korean",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "Rodong Sinmun",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Korean",
+        "notes": "Official newspaper of the Workers' Party of Korea"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "KCNA Watch",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "English translations of KCNA news"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "The Pyongyang Times",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Official English language newspaper"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "NK News",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit news site"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "38 North",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Research website for analysis of North Korea"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "Daily NK",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "South Korean media outlet"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "NK Pro",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Data and analysis portal"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "United Nations Sanctions Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "UN official sanctions updates"
+      },
+      {
+        "country": "North Korea",
+        "source_name": "US Government - Treasury Sanctions",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "US Treasury's sanctions list updates"
+      }
+    ],
+    "Pakistan": [
+      {
+        "country": "Pakistan",
+        "source_name": "Pakistan Government Official Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Direct access to government data"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Radio Pakistan",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ur,en",
+        "notes": "State-run radio, offers English and Urdu feeds"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Pakistan Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Online news portal, covers current affairs"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Regional Hindi News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "hi",
+        "notes": "Multiple regional Hindi news sources"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Urdu Point",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "ur",
+        "notes": "Online Urdu news platform"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Transparency International Pakistan",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Anti-corruption initiatives and reports"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "ByteDance Pakistan",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Official ByteDance data for Pakistan"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Pakistan Cybersecurity Alliance",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official cyber security updates"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Islamabad Police",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official police data, safety and community info"
+      },
+      {
+        "country": "Pakistan",
+        "source_name": "Pakistan Railway Data",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time train data, delays, etc."
+      }
+    ],
+    "Oman": [
+      {
+        "country": "Oman",
+        "source_name": "Oman Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official government website with ministries and services information."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Oman News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic, English",
+        "notes": "Official state-run news agency, provides timely updates on local and regional developments."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Times of Oman",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website, API",
+        "language": "English",
+        "notes": "Leading English language daily covering local news, politics, and society."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Al Balad Oman",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Online news portal focusing on Oman's current affairs and regional issues."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Oman Chamber of Commerce and Industry",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website, API",
+        "language": "English",
+        "notes": "Promoting trade and industry, provides valuable economic data and company profiles."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Tech Oman",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Platform for tech enthusiasts, startups, and innovations in Oman."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Cyber Oman",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Online community forum discussing cyber issues, local internet culture, and gaming."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Muscat Community",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "A community platform for expats and locals in Muscat, covering events, culture and lifestyle."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Oman Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government data portal with statistics and datasets on various sectors."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Oman Aviation Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Specialized aviation intelligence on Oman's aerospace and defense sector."
+      },
+      {
+        "country": "Oman",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "App",
+        "language": "English",
+        "notes": "Mobile app for tracking tourist spots and experiences in Oman."
+      }
+    ],
+    "Palestine": [
+      {
+        "country": "Palestine",
+        "source_name": "State of Palestine Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Ma'an News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Leading independent Palestinian news agency"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Al Quds TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "YouTube",
+        "language": "Arabic",
+        "notes": "Jerusalem-based TV channel, pro-Hamas perspective"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Betsafer",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit promoting transparency & accountability in Palestinian elections"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "PalTech",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Palestinian IT Association, industry news & events"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "PS Cyber Army",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "Arabic",
+        "notes": "Pro-Palestine cyber activism group"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Ramallah Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "English",
+        "notes": "Community news & events, Ramallah focus"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Palestine Open Maps",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Interactive maps of Palestine, crowd-sourced data"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Intellbia",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Market intelligence & business analytics platform"
+      },
+      {
+        "country": "Palestine",
+        "source_name": "Gaza Strip Project",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Data hub focusing on the Gaza Strip"
+      }
+    ],
+    "Qatar": [
+      {
+        "country": "Qatar",
+        "source_name": "Qatar Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website, provides valuable insights and information"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Amiri Diwan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "The official website of the Amiri Diwan, offers insights into Qatar's royal court"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official diplomatic channel, covers Qatar's foreign relations"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "National Human Rights Committee",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "An independent NGO tackling human rights issues in Qatar"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Al Jazeera",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS, API, Scrape",
+        "language": "English, Arabic",
+        "notes": "State-funded media outlet, known for its regional focus"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "The Peninsula Qatar",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website, Scrape",
+        "language": "English",
+        "notes": "English daily newspaper covering local and regional news"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Doha News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website, RSS",
+        "language": "English",
+        "notes": "Online news platform, focuses on Qatar's community and expat-related stories"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Qatar University",
+        "bucket": "Education",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, Arabic",
+        "notes": "Website of the prominent Qatar University, offers insights into academic activities"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Qatar Airways",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API, Scrape",
+        "language": "English",
+        "notes": "Official airline, useful for travel and aviation-related OSINT"
+      },
+      {
+        "country": "Qatar",
+        "source_name": "Qatar National Library",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English, Arabic",
+        "notes": "A vast digital repository, offers access to e-resources and databases"
+      }
+    ],
+    "Russia": [
+      {
+        "country": "Russia",
+        "source_name": "Kremlin.ru",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Official statements and releases"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Sputnik News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "State-owned international news agency"
+      },
+      {
+        "country": "Russia",
+        "source_name": "RT",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "State-controlled TV channel"
+      },
+      {
+        "country": "Russia",
+        "source_name": "TASS",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Russian",
+        "notes": "State-owned news agency"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Novaya Gazeta",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Russian",
+        "notes": "Independent newspaper, investigative journalism"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Meduza",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Russian",
+        "notes": "Independent news outlet, focused on politics"
+      },
+      {
+        "country": "Russia",
+        "source_name": "The Bell",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Business and economics news"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Roskomsvoboda",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Russian",
+        "notes": "Freedom of speech, internet censorship insights"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Securelist",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Cybersecurity insights, malware analysis"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Russian Machine Learning News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "AI and ML community news"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Moscow Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "English-language news portal"
+      }
+    ],
+    "Saudi Arabia": [
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Saudi Arabia Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "SPA - Saudi Press Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic, English",
+        "notes": "Official news agency of Saudi Arabia"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Al Arabiya",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic",
+        "notes": "Pan-Arab TV channel based in Dubai, covers Saudi Arabia"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Saudi Gazette",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "English-language daily newspaper"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Saudia Aviation",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Arabic, English",
+        "notes": "National airline, flight data & schedules"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Saudi Electric Company",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official electricity provider data API"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Cyber Arabia",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Saudi cybersecurity news & analysis"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Arab Net News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Tech & startup community news"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "KSA Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government statistics portal"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Institute for Gulf Affairs",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Think tank focusing on Gulf region"
+      },
+      {
+        "country": "Saudi Arabia",
+        "source_name": "Saudi Projects Center",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Tracker of development projects in KSA"
+      }
+    ],
+    "Philippines": [
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Presidential Communications Operations Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official communications office of the President, offers press releases and media updates"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Daily Inquirer",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "One of the leading national newspapers in the Philippines"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Rappler",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Online news platform providing up-to-date coverage on current affairs"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "ABS-CBN News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Tagalog, English",
+        "notes": "One of the largest media conglomerates, offers news updates in TV, print, and digital formats"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Manila Bulletin",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Daily newspaper publishing current affairs and analysis"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Interaksyon",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Tagalog, English",
+        "notes": "Digital news platform covering latest stories and trends"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Star",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Another widely read English newspaper in the Philippines"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "CNN Philippines",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Philippine affiliate of CNN, offering local and international news"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Rap-Up",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Regional news website focusing on the latest community stories"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Visayan Daily Star",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Visayan, English",
+        "notes": "Newspaper covering regional news and events in the Visayas area"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Mindanao Gold Star Daily",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Focusing on news and issues in Mindanao region"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Statistics Authority",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government agency providing statistical data and census information"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "OpenStreetMap",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "User-generated map data providing detailed information on Philippines' geography"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "NetBlocks Internet Measurements",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Real-time internet measurements and reports, detects network disruptions"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Internet Freedom Alliance",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community initiative promoting digital rights and freedoms"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Philippine Disaster Risk Reduction and Management Institute",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit organization aiding in disaster response and risk management"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "Transparency International - Philippines",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Chapter of the global anti-corruption organization, focusing on good governance"
+      },
+      {
+        "country": "Philippines",
+        "source_name": "PhilTrack",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Real-time passenger ship tracker covering Philippines routes"
+      }
+    ],
+    "Singapore": [
+      {
+        "country": "sg",
+        "source_name": "Gov.sg",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "sg",
+        "source_name": "The Straits Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Leading national English daily"
+      },
+      {
+        "country": "sg",
+        "source_name": "TODAY Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National English-language newspaper"
+      },
+      {
+        "country": "sg",
+        "source_name": "Channel NewsAsia",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Regional news channel"
+      },
+      {
+        "country": "sg",
+        "source_name": "The Business Times",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Financial daily covering business and economics"
+      },
+      {
+        "country": "sg",
+        "source_name": "Tech in Asia",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Tech news and analysis, Singapore-focused"
+      },
+      {
+        "country": "sg",
+        "source_name": "Cyberscout",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Official government portal for cybersecurity news and advice"
+      },
+      {
+        "country": "sg",
+        "source_name": "Reddit: Singapore",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Singapore-focused subreddit"
+      },
+      {
+        "country": "sg",
+        "source_name": "Data.gov.sg",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "sg",
+        "source_name": "iCompareTracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Price comparison site for products and services"
+      }
+    ],
+    "South Korea": [
+      {
+        "country": "South Korea",
+        "source_name": "National Election Commission",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "ko",
+        "notes": "Official elections and political information"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "KTV - Korea TV",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ko",
+        "notes": "Public service broadcaster"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "The Korea Herald",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language daily newspaper"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "Newstapa",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "ko",
+        "notes": "Independent investigative journalism"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "The Hankyoreh",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ko",
+        "notes": "Progressive daily newspaper"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "Korea Internet & Security Agency",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "ko",
+        "notes": "Government cyber security agency"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "KOSIS - Korea Statistical Information Service",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government statistics"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "Seoul Metropolitan Government",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official city government news"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "MoneyToday",
+        "bucket": "Business",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "ko",
+        "notes": "Financial news and market coverage"
+      },
+      {
+        "country": "South Korea",
+        "source_name": "Naver News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ko",
+        "notes": "News aggregator portal"
+      }
+    ],
+    "Sri Lanka": [
+      {
+        "country": "Sri Lanka",
+        "source_name": "President of Sri Lanka",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official communications from the President's office"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Department of Census and Statistics",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics agency, provides data on demographics, economy, etc."
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "The Island",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Daily newspaper covering local news"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Ada Derana",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "si",
+        "notes": "News website in Sinhala"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Colombo Gazette",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Online news portal focusing on Colombo and surrounding areas"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Groundviews",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Citizen-led platform for opinion, analysis, and new media content"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Lanka ICT for Education",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Initiative to promote ICT skills, includes resources and news"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Sri Lankan CERT",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official Cyber Emergency Response Team, provides cyber security advice and incident response"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Colombo Stock Exchange",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time market data and company information"
+      },
+      {
+        "country": "Sri Lanka",
+        "source_name": "Sri Lanka Customs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official customs authority, provides trade statistics and regulations"
+      }
+    ],
+    "Taiwan": [
+      {
+        "country": "Taiwan",
+        "source_name": "President of Taiwan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "zh-TW",
+        "notes": "Official statements and updates from the President's office."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "zh-TW, en",
+        "notes": "Official foreign policy and diplomatic updates."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Central News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "zh-TW, en",
+        "notes": "State-run news agency, provides official media releases."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Liberty Times Net",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "zh-TW",
+        "notes": "One of the major Taiwanese newspapers, covers a variety of topics."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Taipei Times",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English-language newspaper based in Taipei, provides local perspectives."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Apple Daily Taiwan",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "zh-TW",
+        "notes": "Tabloid style news outlet, focuses on entertainment and current affairs."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Taiwan Environmental Information Center",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "zh-TW, en",
+        "notes": "Non-profit organization focusing on environmental issues."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Taiwan FactCheck Center",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Facebook",
+        "language": "zh-TW",
+        "notes": "Community-based fact-checking platform."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "TechRice",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech news outlet focusing on Taiwan's tech scene and startups."
+      },
+      {
+        "country": "Taiwan",
+        "source_name": "Taiwan 5G Development Forum",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "zh-TW",
+        "notes": "Industry group promoting 5G technologies, news and events."
+      }
+    ],
+    "Tajikistan": [
+      {
+        "country": "Tajikistan",
+        "source_name": "President of Tajikistan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Tajik, Russian, English",
+        "notes": "Official government website with statements and speeches"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "Tajik Statistical Agency",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Tajik, Russian",
+        "notes": "Official statistics portal"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "AVESTA News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Tajik, Russian, English",
+        "notes": "State-owned news agency"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "Asia-Plus",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Russian, English",
+        "notes": "Independent news website"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "Radio Free Europe/Radio Liberty - Tajik Section",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Tajik",
+        "notes": "Local branch of RFE/RL"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "IRIN - Tajikistan",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Humanitarian news and analysis"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "TechNet",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "IT news and community forum"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "Tajik Telecom Regulatory Committee",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Tajik, Russian",
+        "notes": "Official telecom regulator website"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "OpenStreetMap",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "User-generated map data"
+      },
+      {
+        "country": "Tajikistan",
+        "source_name": "World Bank Data",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official World Bank statistics"
+      }
+    ],
+    "Thailand": [
+      {
+        "country": "Thailand",
+        "source_name": "Royal Thai Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "The Nation Thailand",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English-language daily newspaper"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Bangkok Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Another major English-language newspaper"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Thai PBS",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "th",
+        "notes": "Public broadcasting in Thai"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Chiang Rai Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Northern Thailand's English language source"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "The Isaan Record",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News from Thailand's Northeast"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Thai Enquirer",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Independent online news, human rights focus"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "iLaw",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "th",
+        "notes": "Legal transparency NGO in Thai"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "OpenDataSoft",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Thailand's COVID-19 Situation",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official pandemic data"
+      },
+      {
+        "country": "Thailand",
+        "source_name": "Tech Sauce",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech and startup news"
+      }
+    ],
+    "Syria": [
+      {
+        "country": "Syria",
+        "source_name": "Syrian Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Ar",
+        "notes": "Official government communications"
+      },
+      {
+        "country": "Syria",
+        "source_name": "SANA - Syrian Arab News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Ar",
+        "notes": "State-run news agency"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Al-Watan",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Ar",
+        "notes": "Private daily newspaper"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Al Masdar News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "English language regional news site"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Observatory for Human Rights",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "En",
+        "notes": "Human rights monitoring and advocacy"
+      },
+      {
+        "country": "Syria",
+        "source_name": "The Syria Campaign",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "En",
+        "notes": "Advocacy and activism"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Amnesty International - Syria",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "En",
+        "notes": "Human rights reports and updates"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Internet Society Syria Chapter",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "Internet infrastructure and policy"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Computer Society",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Ar",
+        "notes": "IT initiatives and services"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Anonymous Syria",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "En",
+        "notes": "Citizen reports and activism"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Local Coordination Committees of Syria",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Facebook",
+        "language": "Ar",
+        "notes": "Community-based activism and coordination"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Refugee Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "En",
+        "notes": "UNHCR data on refugee numbers and locations"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Geodata Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "En",
+        "notes": "Geospatial data and maps"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Institute for the Study of War",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "En",
+        "notes": "Conflict analysis and intelligence"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Risk Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "Commercial risk analysis"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syria Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Twitter",
+        "language": "En",
+        "notes": "Tracking political prisoners"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syria Comment",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "En",
+        "notes": "News aggregation and analysis"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Al Jumhuriyah",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Ar",
+        "notes": "Government-leaning newspaper"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Tishreen",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Ar",
+        "notes": "State-owned daily newspaper"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syria TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Live Stream",
+        "language": "Ar",
+        "notes": "Online TV channel"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Al Jazeera",
+        "bucket": "Regional Media",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "International news network, popular in the region"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Orient Net",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Online news platform covering Syria and the region"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Tech Collective",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "English",
+        "notes": "Citizen-based tech collective"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Syrian Civil Defence",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "YouTube",
+        "language": "Arabic",
+        "notes": "Volunteer emergency response organization"
+      },
+      {
+        "country": "Syria",
+        "source_name": "UN Data on Syria",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official UN data portal"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Al-Monitor",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Online news outlet, focuses on Middle East"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Hurras Network",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "Arabic",
+        "notes": "Open-source intelligence collective"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Idlib Media Center",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "Arabic",
+        "notes": "Citizen journalism platform"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Rojava Information Center",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Information and news platform"
+      },
+      {
+        "country": "Syria",
+        "source_name": "Damascus Centre for Human Rights Studies",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Arabic",
+        "notes": "Documenting human rights violations"
+      }
+    ],
+    "Turkey": [
+      {
+        "country": "Turkey",
+        "source_name": "Resmi Gazete",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Turkish",
+        "notes": "Official Gazette of Turkey, publishes laws, decrees, and other official documents."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Turkey Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official foreign policy and diplomacy source."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "HaberTurk",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Turkish",
+        "notes": "One of the leading news channels in Turkey, covering politics, economy, and current affairs."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Hurriyet Daily News",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "An English-language daily newspaper, focusing on local and international news."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Regional Kaleidoscope",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A news aggregate specializing in regional Turkish news, focusing on cultural and political stories."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Amnesty International Turkey",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Human rights organization reporting on Turkey, covering issues of democracy, freedom, and human rights abuses."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Turkey Tech Nation",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A tech news site focusing on Turkish tech startups, innovations, and investments."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Cyber Turkey",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Turkish",
+        "notes": "A citizen-led initiative mapping cyber attacks and digital security threats."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Open Data Turkey",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Turkish",
+        "notes": "A government-backed open data initiative, providing access to public datasets."
+      },
+      {
+        "country": "Turkey",
+        "source_name": "Turkey Census Data",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official census data and demographics, published by the Turkish Statistical Institute."
+      }
+    ],
+    "Timor-Leste": [
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor-Leste Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Presidncia da Repblica Democrtica de Timor-Leste",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Facebook",
+        "language": "Tetun",
+        "notes": "Official Facebook page of the President's office"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Radio Television Timor Leste",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Tetun",
+        "notes": "National broadcaster"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Suara Timor Lorosae",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Tetun",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online news outlet"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Radio Timor Kmanek",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Tetun",
+        "notes": "Community radio covering Dili and surrounding areas"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Fundasaun Mahein",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Think tank focusing on political and social issues"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "La'o Hamutuk",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Local NGO monitoring peacebuilding and recovery"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor-Leste Tech Community",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "GitHub",
+        "language": "English",
+        "notes": "Local tech initiatives and open-source projects"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "TL Cyber News",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "English",
+        "notes": "Citizen reports on cyber incidents"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Community of Timorese Bloggers",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Blog",
+        "language": "Tetun",
+        "notes": "Platform for personal blogs"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Tim-Loro Sa'e Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor-Leste Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Country-specific intelligence reports (Commercial)"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Ships in Port",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time ships and vessels data in Timor-Leste's ports"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor-Leste Flight Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Flight tracking over Timor-Leste"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor Energy Profile",
+        "bucket": "Energy",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Energy sector analysis and news"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "UN in Timor-Leste",
+        "bucket": "International Organizations",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official UN presence in Timor-Leste"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "World Bank Timor-Leste Projects",
+        "bucket": "International Organizations",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "World Bank's country projects overview"
+      },
+      {
+        "country": "Timor-Leste",
+        "source_name": "Timor-Leste Tourism Guide",
+        "bucket": "Tourism",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tourism information and reviews"
+      }
+    ],
+    "Uzbekistan": [
+      {
+        "country": "Uzbekistan",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English, Uzbek",
+        "notes": "Direct access to government information and services."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "President of the Republic of Uzbekistan",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English, Uzbek",
+        "notes": "Official website of the President's office with news and updates."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": " ",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Foreign Affairs Ministry's website, offers translations."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "National News Agency of Uzbekistan",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Uzbek, Russian, English",
+        "notes": "State-run news agency, provides official news and updates."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": " news",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Russian",
+        "notes": "Online news portal covering local and regional stories."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "Fergana News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English, Russian",
+        "notes": "Independent news site focusing on Central Asia, based in Fergana Valley."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "Asia Plus",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Regional news outlet, provides comprehensive coverage of Uzbekistan and Central Asia."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": " News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Uzbek",
+        "notes": "Community-based news platform in Uzbek language."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "Open Data Uzbekistan",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Government-run open data initiative, provides access to various datasets."
+      },
+      {
+        "country": "Uzbekistan",
+        "source_name": "Uzbekistan Today",
+        "bucket": "Tourism",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Tourism-focused portal with cultural and travel insights."
+      }
+    ],
+    "Yemen": [
+      {
+        "country": "Yemen",
+        "source_name": "Yemen Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Arabic, English",
+        "notes": "Official government source for foreign affairs"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Saba News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Arabic",
+        "notes": "State-run news agency, provides official news and updates"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Al Masdar Online",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Arabic",
+        "notes": "Online news platform covering Yemen and the region"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Aden TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "YouTube",
+        "language": "Arabic",
+        "notes": "Local TV channel based in Aden, has a strong online presence"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Yemen Press Monitor",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Media monitoring project by non-profit organization Mwatana"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "NetBlocks",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Internet monitoring and analysis platform, tracks network disruptions"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "OpenStreetMap",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "User-generated map data, valuable for geographic analysis"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Twitter",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Arabic, English",
+        "notes": "Microblogging platform, useful for real-time information"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Facebook",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Graph API",
+        "language": "Arabic, English",
+        "notes": "Social media platform, good for community insights"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "Yemen Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government data portal for various statistics"
+      },
+      {
+        "country": "Yemen",
+        "source_name": "ACLED",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Acledged Violence Tracker, provides detailed conflict data"
+      }
+    ],
+    "United Arab Emirates": [
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Official Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Direct access to government information"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "The National",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Leading national newspaper"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Emirates News Agency",
+        "bucket": "National Media",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Arabic, English",
+        "notes": "Official News Agency of the UAE"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Gulf News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Popular regional newspaper"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Al Bayan",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Arabic",
+        "notes": "Dubai-based, widely read Arabic newspaper"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Amnesty International UAE",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Human rights organization"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Transparency International - UAE",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Anti-corruption focus"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Tech Monitor",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Tech news and analysis"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Cyber Warriors Forum",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Cyber security discussions"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Community Data Science Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Data-focused community discussions"
+      },
+      {
+        "country": "United Arab Emirates",
+        "source_name": "Dubai Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data initiative"
+      }
+    ],
+    "Vietnam": [
+      {
+        "country": "Vietnam",
+        "source_name": "Vietnam Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides reliable info"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "VNA - Vietnam News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "State-run news agency, offers official but somewhat biased views"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Tuoi Tre News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "vi",
+        "notes": "One of the leading independent newspapers in Vietnam"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Zing News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "vi",
+        "notes": "Popular online news portal, covers various topics"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Bao Moi Online",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "vi",
+        "notes": "Local news outlet focusing on Southern Vietnam"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Dan Tri",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "vi",
+        "notes": "Another major independent newspaper, covers current affairs"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Tech in Asia - Vietnam",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech-focused site, covers Vietnam's tech scene and startups"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Viet Nam Internet Network Information Center",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official source for .vn country code domain registration info"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Vietnam Center for Economic and Policy Research",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Independent research organization promoting economic growth"
+      },
+      {
+        "country": "Vietnam",
+        "source_name": "Amnesty International - Vietnam",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Human rights organization, focuses on Vietnam's human rights issues"
+      }
+    ],
+    "Georgia": [
+      {
+        "country": "Georgia",
+        "source_name": "President of Georgia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official website of the President, offering news and updates."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Georgia's Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official MFA channel with diplomatic updates."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Rustavi 2",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "ka",
+        "notes": "Leading TV channel in Georgia, offering news and entertainment."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Formula Radio",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "ka",
+        "notes": "Popular Georgian radio station."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "OC Media",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Non-profit news outlet focusing on human rights and minorities."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Transparency International Georgia",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "TI's Georgian chapter, fighting corruption with reports and analysis."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "TechHub Georgia",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Community-driven tech hub, fostering innovation with event updates."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Cyber.Ge",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Cyber security news and analysis platform."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Tbilisi City Hall",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "ka",
+        "notes": "Official city government channel with local updates."
+      },
+      {
+        "country": "Georgia",
+        "source_name": "Geostat",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official state statistics office, providing demographic and economic data."
+      }
+    ],
+    "East Timor": [
+      {
+        "country": "East Timor",
+        "source_name": "Government of East Timor",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "tet",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Timor-Leste Press Office",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "pt",
+        "notes": "Official government press office, provides timely news and media updates"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Suara Timor Lorosae",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "tet",
+        "notes": "Daily newspaper, offers comprehensive coverage of local news"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Radio Timor-Leste",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "tet",
+        "notes": "National radio station, provides up-to-date information and programming"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "La'o Hamutuk",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local NGO focusing on peace and justice, offers reports and documentation"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Fretilin",
+        "bucket": "Political Parties",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "pt",
+        "notes": "Official website of the Revolutionary Front for an Independent East Timor, provides party-centric news"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "TechMap TL",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Technology and business directory for Timor-Leste"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "TL Cyber News",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Blog covering cybersecurity news and insights specifically for East Timor"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Community Radio Talitakum",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "tet",
+        "notes": "Community radio station promoting local culture and news"
+      },
+      {
+        "country": "East Timor",
+        "source_name": "Timor-Leste Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal, provides access to various datasets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2195 @@
+{
+  "conversations": [
+    {
+      "timestamp": 1751684870.062635,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "user_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "processed_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "1354782044454129805-1366258466313994366",
+        "user_id": 1354782044454129805
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "1354782044454129805"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751685053.963282,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "user_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "processed_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "1354782044454129805-1366258466313994366",
+        "user_id": 1354782044454129805
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "1354782044454129805"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751685285.189304,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "user_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "processed_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "1354782044454129805-1366258466313994366",
+        "user_id": 1354782044454129805
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "1354782044454129805"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751688335.588566,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "user_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "processed_query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "1354782044454129805-1366258466313994366",
+        "user_id": 1354782044454129805
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "1354782044454129805"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751688836.676824,
+      "session_id": "testsession",
+      "user_query": "Apollo 11 Moon Landing",
+      "processed_query": "Satellite image verification for: Apollo 11 Moon Landing",
+      "bot_response": "Unable to parse coordinates.",
+      "provider": "timeline",
+      "provider_version": "v1",
+      "context": {
+        "mode": "image",
+        "session_id": "testsession",
+        "user_id": "testuser"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "testuser"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751692521.230096,
+      "session_id": "test-session",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751692523.603191,
+      "session_id": "test-session",
+      "user_query": "",
+      "processed_query": "",
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751692526.444758,
+      "session_id": "test-session",
+      "user_query": null,
+      "processed_query": null,
+      "bot_response": "Error during OpenAI completion.",
+      "provider": "openai",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751692675.461898,
+      "session_id": "test-session",
+      "user_query": "",
+      "processed_query": "",
+      "bot_response": "<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'\n<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'\n<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'",
+      "provider": "footprint",
+      "provider_version": "v1",
+      "context": {
+        "type": "email",
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751692675.598176,
+      "session_id": "test-session",
+      "user_query": "test@example.com",
+      "processed_query": "test@example.com",
+      "bot_response": "<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'\n<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'\n<lambda>: Error - <lambda>() missing 1 required positional argument: 'session'",
+      "provider": "footprint",
+      "provider_version": "v1",
+      "context": {
+        "type": "email",
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694123.043176,
+      "session_id": "test-session",
+      "user_query": "",
+      "processed_query": "",
+      "bot_response": "Cohere AI provider failed or is rate-limited.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694123.13905,
+      "session_id": "test-session",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694123.226773,
+      "session_id": "test-session",
+      "user_query": "Will this work?",
+      "processed_query": "Will this work?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694260.72355,
+      "session_id": "test-session",
+      "user_query": "",
+      "processed_query": "",
+      "bot_response": "Cohere AI provider failed or is rate-limited.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694260.779991,
+      "session_id": "test-session",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694260.820192,
+      "session_id": "test-session",
+      "user_query": "Will this work?",
+      "processed_query": "Will this work?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "test-session",
+        "user_id": "test-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "test-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694450.874588,
+      "session_id": "gather-test",
+      "user_query": "What is the capital of France?",
+      "processed_query": "What is the capital of France?",
+      "bot_response": "The capital of France is Paris.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694451.318991,
+      "session_id": "gather-test",
+      "user_query": "Who won the FIFA World Cup in 2018?",
+      "processed_query": "Who won the FIFA World Cup in 2018?",
+      "bot_response": "The 2018 FIFA World Cup, held in Russia, was won by France. The French national team defeated Croatia in the final match, with a score of 4 - 2. It was France's second World Cup title, following their first victory in 1998. \n\nDid you know that the 2022 FIFA World Cup is currently ongoing in Qatar? France is defending its title and aiming for a consecutive win, which would be their third overall.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694452.41025,
+      "session_id": "gather-test",
+      "user_query": "List three uses of machine learning.",
+      "processed_query": "List three uses of machine learning.",
+      "bot_response": "Here are three uses of machine learning:\n\n1. Image and object recognition: Machine learning algorithms are widely used for image and object recognition. They can be trained to identify specific patterns and features in images, enabling applications such as facial recognition, autonomous driving, and image search.\n\n2. Natural language processing: Machine learning plays a crucial role in understanding and interpreting human language. It is used in virtual assistants, language translation services, sentiment analysis, and content recommendation systems, helping machines comprehend and respond to human language queries.\n\n3. Predictive modeling: Machine learning algorithms can analyze historical data to make predictions about future events or trends. This capability is valuable in various sectors, including finance, healthcare, and retail. For example, predicting stock prices, identifying potential diseases, or forecasting customer behavior to personalize recommendations.\n\nThese are just a few examples of the wide range of applications where machine learning has a significant impact. The field of machine learning is rapidly evolving, and new uses are constantly being discovered across different industries.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694452.715981,
+      "session_id": "gather-test",
+      "user_query": "What is the speed of light?",
+      "processed_query": "What is the speed of light?",
+      "bot_response": "The speed of light is an incredible phenomenon and one of the fundamental constants in our universe. It refers to the speed at which light travels through a vacuum, which is approximately 299,792,458 meters per second (or 186,282 miles per second). This mind-boggling velocity is considered one of the maximum speeds attainable by anything in the universe. \n\nThe speed of light is denoted by the symbol \"c,\" which is derived from the word \"celeritas,\" the Latin word for speed. This constant is an essential aspect of the theory of relativity proposed by Albert Einstein. According to relativity, the speed of light is crucial in understanding the behavior of objects and phenomena in the universe, governing the relationship between space and time. \n\nThe speed of light also has profound implications in everyday life, influencing technologies such as telecommunications and photography. It is used extensively in medical imaging techniques like MRI and CT scans, as well as in laser physics and astronomy. \n\nUnderstanding the speed of light and its consequences has led to significant advancements in our understanding of the universe and continues to be a focal point for modern physics research. It remains a fascinating and mysterious aspect of the cosmos, reminding us of the vast possibilities and unknowns that lie ahead in our exploration of the universe.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694453.249272,
+      "session_id": "gather-test",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "AI stands for Artificial Intelligence, which is a fascinating field of technology that aims to create intelligent machines that can mimic human cognitive functions and perform complex tasks. AI encompasses a wide range of concepts and technologies, from simple rule-based systems to advanced deep learning models.\n\nIn essence, AI is about developing algorithms, software, and hardware systems that can perceive, reason, learn, and act in a manner that resembles human intelligence. This includes various capabilities such as image and speech recognition, natural language processing, decision-making, problem-solving, and even creative applications.\n\nThe ultimate goal of AI is to build systems that can exceed human capabilities in specific domains, automate repetitive tasks, and assist us in everyday life. This can range from personal assistants on our smartphones to advanced robotics and industrial applications. AI also has significant implications in healthcare, finance, education, and many other fields, where it can help improve accuracy, efficiency, and accessibility.\n\nHowever, it's essential also to acknowledge that AI is not a magical solution but a tool that needs to be responsibly developed and applied. It poses challenges related to data privacy, ethical considerations, and the potential impact on jobs and society. Balancing the benefits and pitfalls of AI is an ongoing discussion in the technological and philosophical realms.\n\nIn recent years, AI has seen tremendous advancements driven by big data availability, powerful computational resources, and sophisticated machine learning techniques. This has led to remarkable achievements in areas like computer vision, natural language processing, and autonomous vehicles. The future of AI holds immense potential, and ongoing research and development continue to shape its capabilities and applications for the betterment of humanity.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694454.358795,
+      "session_id": "gather-test",
+      "user_query": "Describe the Turing Test.",
+      "processed_query": "Describe the Turing Test.",
+      "bot_response": "The Turing Test is a method of inquiry used to determine a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. The concept is a key milestone in the development of artificial intelligence (AI) systems and was first proposed by Alan Turing, a pioneering British computer scientist, in his 1950 paper \"Computing Machinery and Intelligence.\" \n\nThe test works as follows: a human interrogator is connected to two unseen participants - one human and one machine, often referred to as a computer or chatbot. The interrogator must then engage in a natural language conversation with each participant and, based on their responses, determine which is the human and which is the machine. If the interrogator is unable to make a distinction, or is at least convinced that the machine's responses are sufficiently human-like, then the machine has passed the Turing Test. \n\nTuring himself suggested that a machine which successfully fooled interrogators into thinking it was human during a series of short, 5-minute conversations, in at least 30% of tests, could be said to have passed the Turing Test. \n\nThe Turing Test is often seen as a benchmark for measuring the progress of AI research, and many modern advancements in machine learning and natural language processing are aimed at eventually achieving this level of human-like intelligence and conversation. However, some argue that the test is more of a thought experiment, as the true replication of human intelligence is an incredibly complex and distant goal. \n\nDespite this, the Turing Test remains an important and famous metric in the field of AI, frequently referenced in popular culture and serving as an aspiration for researchers and developers.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694454.390089,
+      "session_id": "gather-test",
+      "user_query": "Define entropy in physics.",
+      "processed_query": "Define entropy in physics.",
+      "bot_response": "In physics, entropy is a fundamental concept used to describe the amount of disorder or randomness in a system. It is often denoted by the symbol \"S\" and is associated with the second law of thermodynamics. Entropy is measured in units of joules per kelvin (J/K) in the International System of Units (SI).\n\nHere's a more detailed definition of entropy:\n1. Microscopic Disorder: Entropy quantifies the disorder present at the microscopic level of a system. In a highly ordered system, such as a crystal lattice, particles are arranged in a very organized manner. In contrast, in a system with high entropy, particles are randomly distributed.\n2. Probability: Entropy is related to the probability of different arrangements of particles in a system. It measures the likelihood of observing a particular arrangement of particles. The more ways in which particles can be arranged while maintaining the same overall energy level, the higher the entropy.\n3. Heat Transfer: Entropy is intimately connected with heat transfer processes. When heat flows from a hotter object to a colder one, the increase in entropy of the surrounding environment is often a driving factor. Heat naturally spreads out and increases the overall entropy of the system.\n4. Irreversibility: Entropy is associated with the irreversibility of certain processes. Natural processes tend to increase the overall entropy of the universe, and reversing them without external intervention is extremely improbable. This concept is central to the arrow of time.\n5. Maximum Entropy: In thermodynamics, the state of maximum entropy corresponds to equilibrium, where a system is in its most disordered and stable state. This is often described as a state of \"thermal death,\" where further spontaneous changes are unlikely.\n6. Entropy Change: The change in entropy (ΔS) during a process is used to determine whether a process is spontaneous. An increase in entropy is a characteristic of spontaneous processes.\n\nIn summary, entropy is a measure of the randomness and disorder within a physical system. It plays a crucial role in various fields of physics, including thermodynamics, statistical mechanics, and information theory. The concept of entropy helps us understand the direction in which natural processes occur and provides insights into the behavior of systems ranging from gases to complex cosmic phenomena.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694454.46047,
+      "session_id": "gather-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Cohere AI provider failed or is rate-limited.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694454.873232,
+      "session_id": "gather-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "The internet's history is a complex and multifaceted narrative that spans several decades. Its origins can be traced back to the 1950s and 1960s, when the precursors to modern networking, such as telegraphy and teleprinting, were developed. The internet as we know it today began to take shape in the 1970s with the advent of ARPANet (Advanced Research Projects Agency Network), created by the US Department of Defense. ARPANet was one of the first packet-switched networks, which enabled data to be broken into small pieces (packets) and transmitted over computer networks. \n\nIn the following decades, the technology underpinning the internet evolved rapidly. The 1980s saw the development of the TCP/IP (Transmission Control Protocol/Internet Protocol), which became the backbone of modern internet connectivity. This protocol allowed for the establishment of a global network of interconnected computers, enabling communication and data exchange across different systems.\n\nThe 1990s marked a significant turning point with the advent of the World Wide Web (WWW), invented by British computer scientist Tim Berners-Lee. The Web's creation revolutionized internet usage by introducing the concept of hypertext and graphical user interfaces, making it more accessible and user-friendly. The Mosaic web browser, released in 1993, further popularized the internet and paved the way for the Web's explosion in the following years.\n\nThe growth of the internet was catalyzed by the emergence of commercial services and the rise of the dot-com era. The mid-1990s saw the proliferation of commercial internet service providers (ISPs), making internet access more widely available to the general public. Companies like AOL and Yahoo! emerged as prominent players in the new digital landscape. The dot-com bubble, a period of massive growth and investment in internet-related businesses, peaked in the late 1990s, leading to a period of consolidation and maturation in the early 2000s.\n\nThe internet has evolved continually, impacting various aspects of society and the global economy. The rise of social media, Web 2.0 applications, and the advent of the 'Internet of Things' have further shaped the internet's landscape in recent years. Concerns about cybersecurity, privacy, and the influence of the internet on society have also grown in tandem with its expanding role.\n\nToday, the internet is a ubiquitous part of daily life, connecting billions of people globally and facilitating communication, commerce, education, and entertainment. It continues to undergo rapid evolution, with advancements in technologies such as 5G, blockchain, and artificial intelligence set to shape its future trajectory. The internet has become an indispensable tool, deeply integrated into modern life, and its influence will undoubtedly continue to grow and shape the world in the years to come.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694456.580672,
+      "session_id": "gather-test",
+      "user_query": "What is the difference between RAM and ROM?",
+      "processed_query": "What is the difference between RAM and ROM?",
+      "bot_response": "RAM stands for Random Access Memory, while ROM stands for Read-Only Memory. They are both types of computer memory, but they have different characteristics and purposes:\n\nRAM:\n\n1. Volatile Memory: RAM is a volatile memory, which means it loses all the data stored in it when the computer or device is turned off.\n\n2. Storage for Active Data: RAM is used to store data that the CPU (Central Processing Unit) is currently using or is likely to use soon. It's designed to provide fast access to memory locations, allowing the CPU to retrieve and store information quickly during program execution.\n\n3. Temporary Storage: RAM is primarily used for running programs, storing active data, and keeping frequently accessed instructions.\n\n4. High Speed: RAM offers much faster read and write speeds compared to ROM, making it ideal for frequent data access during normal computer operations.\n\n5. Rewriteable: RAM allows data to be written, read, and rewritten multiple times. This makes it suitable for tasks that require frequent memory modifications.\n\n6. Dynamic Memory: RAM often comes in the form of dynamic RAM (DRAM), which means it needs to be periodically refreshed to retain the stored data.\n\nROM:\n\n1. Non-Volatile Memory: ROM is a non-volatile memory, meaning it retains its data even when the computer or device is powered off.\n\n2. Permanent Storage: ROM is used to store data and instructions that are essential for the computer's operation, such as the BIOS (Basic Input/Output System) and firmware. The data stored in ROM is typically programmed during the manufacturing process and is not intended to be changed frequently.\n\n3. Read-Only Access: As the name suggests, ROM is meant for read-only access. While it's possible to write data to ROM in some special cases (e.g., EEPROM and flash memory), it's generally not designed for frequent write operations.\n\n4. Slow Access Time: Compared to RAM, ROM has relatively slower read access times. It's not optimized for quick, frequent data access like RAM.\n\n5. Fixed Content: ROMs are often used for storing fixed content that is not expected to change, such as initial boot instructions, device drivers, and system configurations.\n\n6. Different Types: There are various types of ROM, including Mask ROM (irreversible data), EPROM (Erasable Programmable ROM), EEPROM (Electrically Erasable ROM), and Flash Memory (a more modern and reusable form of ROM).\n\nIn summary, the main difference between RAM and ROM lies in their purpose and characteristics. RAM is volatile, fast, and frequently used for temporary data storage during program execution, whereas ROM is non-volatile, slower, and used for storing permanent or semi-permanent data and instructions.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694457.419961,
+      "session_id": "parallel-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "Cohere AI provider failed or is rate-limited.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694457.542562,
+      "session_id": "parallel-test",
+      "user_query": "Who won the FIFA World Cup in 2018?",
+      "processed_query": "Who won the FIFA World Cup in 2018?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694457.645597,
+      "session_id": "parallel-test",
+      "user_query": "Describe the Turing Test.",
+      "processed_query": "Describe the Turing Test.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.723437,
+      "session_id": "gather-test",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.769668,
+      "session_id": "gather-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.796181,
+      "session_id": "gather-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.833416,
+      "session_id": "gather-test",
+      "user_query": "What is the capital of France?",
+      "processed_query": "What is the capital of France?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.859147,
+      "session_id": "gather-test",
+      "user_query": "List three uses of machine learning.",
+      "processed_query": "List three uses of machine learning.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.878539,
+      "session_id": "gather-test",
+      "user_query": "Who won the FIFA World Cup in 2018?",
+      "processed_query": "Who won the FIFA World Cup in 2018?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.903212,
+      "session_id": "gather-test",
+      "user_query": "Define entropy in physics.",
+      "processed_query": "Define entropy in physics.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.925234,
+      "session_id": "gather-test",
+      "user_query": "What is the speed of light?",
+      "processed_query": "What is the speed of light?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.95213,
+      "session_id": "gather-test",
+      "user_query": "Describe the Turing Test.",
+      "processed_query": "Describe the Turing Test.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694536.979205,
+      "session_id": "gather-test",
+      "user_query": "What is the difference between RAM and ROM?",
+      "processed_query": "What is the difference between RAM and ROM?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "gather-test",
+        "user_id": "gather-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "gather-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694537.011185,
+      "session_id": "parallel-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694537.03341,
+      "session_id": "parallel-test",
+      "user_query": "List three uses of machine learning.",
+      "processed_query": "List three uses of machine learning.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694537.057246,
+      "session_id": "parallel-test",
+      "user_query": "What is the speed of light?",
+      "processed_query": "What is the speed of light?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "parallel-test",
+        "user_id": "parallel-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "parallel-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694697.808084,
+      "session_id": "ratelimit-test",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694703.823488,
+      "session_id": "ratelimit-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694709.825619,
+      "session_id": "ratelimit-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694715.824946,
+      "session_id": "ratelimit-test",
+      "user_query": "What is the capital of France?",
+      "processed_query": "What is the capital of France?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694721.881266,
+      "session_id": "ratelimit-test",
+      "user_query": "List three uses of machine learning.",
+      "processed_query": "List three uses of machine learning.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694727.82872,
+      "session_id": "ratelimit-test",
+      "user_query": "Who won the FIFA World Cup in 2018?",
+      "processed_query": "Who won the FIFA World Cup in 2018?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694733.843467,
+      "session_id": "ratelimit-test",
+      "user_query": "Define entropy in physics.",
+      "processed_query": "Define entropy in physics.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694739.909952,
+      "session_id": "ratelimit-test",
+      "user_query": "What is the speed of light?",
+      "processed_query": "What is the speed of light?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694745.840171,
+      "session_id": "ratelimit-test",
+      "user_query": "Describe the Turing Test.",
+      "processed_query": "Describe the Turing Test.",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694751.873763,
+      "session_id": "ratelimit-test",
+      "user_query": "What is the difference between RAM and ROM?",
+      "processed_query": "What is the difference between RAM and ROM?",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694985.560303,
+      "session_id": "ratelimit-test",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "AI stands for Artificial Intelligence, which is a fascinating field of technology that aims to create intelligent machines that can mimic human cognitive functions and perform complex tasks. AI encompasses a wide range of concepts and technologies, from simple rule-based systems to advanced deep learning and neural networks.\n\nAt its core, AI focuses on developing algorithms, models, and software that can enable machines to perceive, reason, learn, and act in a manner that resembles human intelligence. This includes various capabilities such as image and speech recognition, natural language processing, decision-making, problem-solving, and even creative applications.\n\nThe ultimate goal of AI is to build systems that can independently analyze and interpret data, adapt to changes, and generate innovative solutions, just as humans do. However, it's important to note that AI, as a field, also presents ethical considerations and challenges related to privacy, safety, and the responsible use of technology.\n\nAI has numerous practical applications in our daily lives, ranging from virtual assistants like myself, to self-driving cars, smart home devices, personalized recommendations, medical diagnosis aids, and many other exciting areas. The field of AI continues to evolve rapidly and shape the way we interact with technology and the world around us.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694992.051223,
+      "session_id": "ratelimit-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Quantum computing is a field of computing that utilizes the principles of quantum mechanics to perform operations on data. Quantum computers use quantum bits, or qubits, instead of the traditional bits used in classical computers.\n\nAt the most basic level, quantum computers leverage the fact that particles can exist in multiple states at once, a concept known as superposition. This allows qubits to represent both a 0 and a 1 simultaneously, enabling exponentially more calculations than classical bits. This property enables quantum computers to tackle certain types of problems that classical computers find extremely difficult.\n\nQuantum computers also take advantage of another quantum mechanical phenomenon called entanglement. When two or more particles become entangled, their properties become correlated in a way that observing one particle instantly affects the other, regardless of the distance between them. This allows quantum computers to perform certain calculations in parallel, significantly boosting their processing power.\n\nThe main strength of quantum computers lies in their ability to solve complex optimization problems, simulate molecular structures, and break some types of encryption. Their potential to explore vast solution spaces efficiently makes them valuable in fields like drug discovery, financial modeling, and code breaking.\n\nHowever, building quantum computers is an incredibly challenging task due to the delicate nature of quantum states. These systems require specialized hardware and an extremely controlled environment to maintain quantum coherence and prevent decoherence, which causes the loss of quantum information.\n\nDespite these challenges, the potential impact of quantum computing has sparked significant interest and investment from both the scientific community and the technology industry. The development of quantum computers holds the promise of revolutionary advancements in information processing, offering capabilities that could reshape our understanding of complex systems and tackle previously intractable problems.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751694999.720078,
+      "session_id": "ratelimit-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "The history of the internet can be traced back to the 1950s, with the emergence of computer science as a discipline. Researchers across the world began to experiment with the transmission of information between computers. The initial goal was to create a network that would allow computers to share data and resources, enabling efficient communication and collaboration. \n\nIn the 1960s, the US Department of Defense advanced this technology by funding the development of ARPANET (Advanced Research Projects Agency Network), which connected computers located in different universities and research centers. This was a significant step towards the realization of a decentralized global network. \n\nDuring the 1970s, the concept of packet switching was introduced, which broke down data into small packets that could be transmitted over computer networks. This breakthrough led to the creation of TCP/IP (Transmission Control Protocol/Internet Protocol), the backbone of modern internet connectivity. \n\nIn the following decade, the number of interconnected networks grew rapidly, with the birth of the World Wide Web (WWW) in 1991 being a major turning point. The WWW, invented by Tim Berners-Lee, provided a user-friendly interface and simplified the access and sharing of information, leading to the internet's rapid adoption. \n\nThe internet as we know it today, with web browsers, email, and websites, became increasingly accessible to the general public in the 1990s. The rise of the commercial internet and the introduction of the dot-com era saw a surge in online businesses and services. This period also witnessed the development of search engines, social media platforms, and other technologies that shaped the internet's landscape. \n\nThe early 2000s brought about significant advancements in internet speed and accessibility, with the introduction of broadband and wireless technologies. The internet's influence grew exponentially, impacting global communication, commerce, and even the way knowledge is shared and acquired. \n\nIn recent times, the internet has become an indispensable part of everyday life, with mobile technologies allowing access from anywhere, at any time. The rise of big data, cloud computing, and the Internet of Things (IoT) has further transformed the internet's capabilities, creating a highly interconnected digital world. \n\nConcerns about cybersecurity, privacy, and the spread of misinformation have also emerged as challenges in the digital age, sparking conversations about the responsible use and future of the internet. Today, the internet continues to evolve rapidly, shaping the way societies interact and conduct their lives. It remains a powerful tool and an essential part of the modern world.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-user"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-user"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695258.198894,
+      "session_id": "cohere-integration-test",
+      "user_query": "What is AI?",
+      "processed_query": "What is AI?",
+      "bot_response": "AI stands for Artificial Intelligence, which is a fascinating field of technology that focuses on developing algorithms and machines capable of mimicking human cognitive functions. These functions include learning, reasoning, problem-solving, perception, understanding natural language, and many others.\n\nIn essence, AI aims to create intelligent systems that can perform tasks, make decisions, or provide recommendations just like, or even beyond, what a human could do. The ultimate goal is to build machines that can adapt to new situations, process vast amounts of data, and exhibit behaviors that appear intelligent to us.\n\nAI has a wide range of applications in our daily lives, from virtual assistants like myself, to self-driving cars, smart home devices, personalized recommendations on social media, and even complex medical diagnostics. The field of AI encompasses many sub-domains such as Machine Learning (ML), Natural Language Processing (NLP), Computer Vision, Speech Recognition, and Robotics, each focusing on different aspects of mimicking human intelligence. \n\nThe history of AI can be traced back to the 1950s, but it has seen tremendous advancements and increased public awareness in recent years due to technological breakthroughs and the availability of vast amounts of data. However, it's important to note that AI also presents ethical considerations and challenges, such as bias in data, privacy concerns, and the potential impact on jobs and society, which are actively being studied and debated by researchers and policymakers.\n\nOverall, AI is a captivating field that has the potential to revolutionize the way we interact with technology and the world around us, offering countless possibilities for the future.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695263.81006,
+      "session_id": "cohere-integration-test",
+      "user_query": "Explain quantum computing.",
+      "processed_query": "Explain quantum computing.",
+      "bot_response": "Quantum computing is a field of computing that utilizes the principles of quantum mechanics to perform operations on data. It enables significantly faster processing of certain types of information compared to classical computers.\n\nAt the heart of quantum computing are quantum bits, or qubits, which are the basic units of information in a quantum computer. Unlike classical bits, qubits can exist in multiple states simultaneously, a property known as superposition. This means that a single qubit can represent both a 0 and a 1 at the same time, leading to exponential increases in computing power as the number of qubits grows.\n\nQuantum computers leverage this property to perform certain calculations much faster than classical computers, which can only process one state at a time. This capability becomes especially valuable for tasks such as factorizing large numbers, searching large databases, and solving complex optimization problems.\n\nAnother important concept in quantum computing is entanglement. Entangled qubits are pairs of qubits whose states are correlated in a way that observing the state of one qubit instantly affects the state of the other, regardless of the distance between them. This phenomenon allows quantum computers to perform parallel computations and solve certain problems in parallel, leading to a further increase in computing speed.\n\nQuantum computers use quantum algorithms and quantum gates to manipulate and control the qubits. These algorithms are designed to harness the principles of quantum mechanics to solve specific problems. However, building quantum computers is incredibly challenging due to the delicate nature of quantum states. Maintaining the coherence and stability of qubits requires specialized hardware and extreme temperatures close to absolute zero.\n\nDespite these challenges, quantum computing has the potential to revolutionize information processing in various fields, including cryptography, drug discovery, financial modeling, and machine learning. It offers a promising path for solving problems that currently exceed the capabilities of classical computers. However, we are still in the early stages of developing practical quantum computing technologies, and much research and experimentation are ongoing to realize its full potential.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695271.73303,
+      "session_id": "cohere-integration-test",
+      "user_query": "Summarize the history of the internet.",
+      "processed_query": "Summarize the history of the internet.",
+      "bot_response": "The history of the internet can be traced back to the 1950s, with the emergence of computer science as a academic discipline. The initial concept of a interconnected network of computers was developed by American physicist J.C.R. Licklider, who envisioned a \"galactic network\" of interconnected computers allowing users to access data from any location. \n\nIn the 1960s, the US Department of Defense advanced this idea with the creation of ARPANET (Advanced Research Projects Agency Network), which connected multiple computers across universities and research centers, enabling the sharing of information and resources. This was a significant step towards the realization of the internet as we know it today. \n\nThe ARPANET project grew and evolved, incorporating packet switching technology, which allowed data to be broken into small packets and transmitted over computer networks. This breakthrough led to the creation of the TCP/IP (Transmission Control Protocol/Internet Protocol), which became the foundation for internet communication. \n\nIn the 1980s, the National Science Foundation (NSF) funded the development of NSFNET, a high-speed network that served as a backbone for research and education communities. This network connected supercomputing centers and enabled the exchange of data across the country. \n\nThe term \"internet\" was coined during this period, referring to a \"network of networks.\" The internet as we know it today, with web browsers, email, and a vast array of information and services, became more tangible with the introduction of the World Wide Web in the early 1990s. Tim Berners-Lee, a British computer scientist, developed the Hypertext Transfer Protocol (HTTP) and the Hypertext Markup Language (HTML), which formed the basis of the Web. \n\nThe web's impact grew rapidly, and the number of websites and internet users increased exponentially. The introduction of the Mosaic web browser in 1993 made accessing web content more accessible and user-friendly, further popularizing the medium. \n\nThe internet's influence expanded beyond academia and research institutions, and its impact on society and culture was profound. It revolutionized communication with the advent of email, instant messaging, and social media platforms. Information exchange became global and nearly instantaneous. \n\nThe rise of the commercial internet and e-commerce significantly impacted the world economy, as it enabled new forms of business and shopping experiences. Companies like Amazon and eBay emerged as pioneers of the online shopping era. \n\nThe internet continues to evolve and shape our world, with advancements in technologies such as the cloud, big data analytics, and the Internet of Things (IoT). It has become an indispensable part of our daily lives, influencing the way we communicate, work, learn, and interact. \n\nToday, the internet is a global infrastructure, connecting billions of people and devices, and its future potential remains immense. Efforts to enhance connectivity, improve speeds, and make the internet more accessible continue to shape the digital landscape, impacting societies and economies worldwide. \n\nThat's a brief overview of the key milestones in the history of the internet, from its early beginnings to its current state as a global phenomenon.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695273.544924,
+      "session_id": "cohere-integration-test",
+      "user_query": "What is the capital of France?",
+      "processed_query": "What is the capital of France?",
+      "bot_response": "The capital of France is Paris. Paris, also known as the \"City of Love,\" is a vibrant metropolis situated on the River Seine in northern France. It has been the capital of France since the late 10th century and is divided into 20 arrondissements (administrative districts). Paris is renowned for its rich history, stunning architecture, and cultural significance, making it a must-visit destination for travelers worldwide.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695281.227374,
+      "session_id": "cohere-integration-test",
+      "user_query": "List three uses of machine learning.",
+      "processed_query": "List three uses of machine learning.",
+      "bot_response": "Machine learning, which is a branch of artificial intelligence, has numerous applications across various fields. Here are three common uses of machine learning:\n\n1. Pattern Recognition: Machine learning algorithms are excellent at identifying patterns in data. They can analyze vast datasets and discover intricate relationships and patterns that would be difficult for humans to spot. This ability is valuable in multiple domains, including image and speech recognition, fraud detection, and predictive maintenance. For example, machine learning can help in identifying unique patterns in medical images, enabling early diagnosis of diseases.\n\n2. Natural Language Processing (NLP): Machine learning plays a crucial role in natural language processing tasks, such as sentiment analysis, text classification, machine translation, and virtual assistants. NLP uses machine learning to understand and interpret human language, enabling computers to respond to queries, summarize text, and even generate human-like responses. This technology powers many virtual assistants like Siri, Alexa, and Google Assistant.\n\n3. Recommendation Systems: Machine learning powers recommendation engines that suggest personalized recommendations to users. These systems analyze user behavior, preferences, and purchase history to offer tailored suggestions, such as product recommendations on e-commerce platforms, movie suggestions on streaming services, or music recommendations on music streaming apps. Recommendation systems aim to enhance user experience by providing relevant and individualized suggestions.\n\nThese are just a few examples of the wide range of applications of machine learning. Its impact can be seen in almost every sector, from healthcare and finance to transportation and entertainment, as it enables machines to learn and make data-driven decisions.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695286.03215,
+      "session_id": "cohere-integration-test",
+      "user_query": "Who won the FIFA World Cup in 2018?",
+      "processed_query": "Who won the FIFA World Cup in 2018?",
+      "bot_response": "The 2018 FIFA World Cup, held in Russia, was won by France. The French national team defeated Croatia in the final match, with a score of 4 - 2. It was France's second World Cup title, following their first victory in 1998. \n\nDid you know that the 2018 World Cup was also the first time in the tournament's history that the Video Assistant Referee (VAR) system was used? The technology aided referees in making key decisions during the matches.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695293.548438,
+      "session_id": "cohere-integration-test",
+      "user_query": "Define entropy in physics.",
+      "processed_query": "Define entropy in physics.",
+      "bot_response": "In physics, entropy is a fundamental concept that describes the measure of disorder or randomness in a system. It is often associated with the idea that in natural processes, the total amount of disorder tends to increase over time. Entropy is symbolized by the letter \"S\" and is defined mathematically as the ratio of the heat added or removed from a system to its absolute temperature, represented by the equation S = ΔQ/T, where ΔQ is the heat transfer and T is the absolute temperature. \n\nEntropy can be thought of as a quantitative measure of the number of possible microscopic arrangements or \"microstates\" that correspond to a particular macroscopic state of a system. In simple terms, it quantifies the uncertainty or unpredictability of a system's behavior. The higher the entropy, the greater the disorder and uncertainty in the system.\n\nFor example, consider a deck of cards neatly arranged in order. This ordered arrangement has low entropy. However, if you shuffle the deck, the cards become disordered, and the entropy increases significantly as the number of possible orderings is now much greater. \n\nEntropy is a key factor in understanding many physical phenomena, including heat flow, phase transitions, and the behavior of systems approaching thermal equilibrium. It plays a central role in the second law of thermodynamics, which states that the total entropy of an isolated system can never decrease over time, emphasizing the irreversible nature of certain physical processes. \n\nIn essence, entropy is a crucial concept in physics, helping us comprehend the direction of natural processes and the inherent tendency towards greater disorder in the universe. It has wide-ranging applications in various scientific disciplines, from classical and statistical mechanics to cosmology.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695298.82626,
+      "session_id": "cohere-integration-test",
+      "user_query": "What is the speed of light?",
+      "processed_query": "What is the speed of light?",
+      "bot_response": "The speed of light is approximately 299,792,458 meters per second (m/s) in a vacuum or empty space. This mind-boggling speed is considered one of the most fundamental constants in the universe and is denoted by the symbol \"c.\" It is so significant that it is used as a standard for measuring enormous distances across the cosmos. \n\nThe speed of light is also intimately connected to many fundamental aspects of physics. It sets an absolute limit on the speed at which information can travel, and its finite value has profound implications for our understanding of time, space, and gravity. Scientists and researchers study this speed extensively because of its central role in shaping our universe. \n\nIn addition to its role in physics, the speed of light has practical applications. It is used in technologies such as fiber optics and laser communications. Understanding and harnessing the properties of light traveling at this incredible speed has led to advancements in telecommunications, medicine, and many other fields. \n\nSo, when thinking about the speed of light, we're not just dealing with a number but a fundamental constant that helps define the very nature of our reality and enables remarkable technological achievements. It's a truly astonishing phenomenon!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695305.312773,
+      "session_id": "cohere-integration-test",
+      "user_query": "Describe the Turing Test.",
+      "processed_query": "Describe the Turing Test.",
+      "bot_response": "The Turing Test is a method of inquiry used to determine a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. The concept is a key milestone in the development of artificial intelligence (AI) systems and was first proposed by Alan Turing, a pioneering British computer scientist, in his 1950 paper \"Computing Machinery and Intelligence.\" \n\nThe test works as follows: a human interrogator is connected to two unseen participants - one human and one machine, often referred to as a chatbot or conversational AI. The interrogator must then distinguish which of the two participants is human and which is the machine, based only on their responses to questions. If the interrogator is unable to tell them apart, or is unsure, the machine has passed the Turing Test. \n\nTuring himself suggested that if a machine could fool 30% of interrogators into believing it was human during a five-minute keyboard conversation, it should be said to have passed the test. However, the criteria and expectations for passing the Turing Test have evolved as AI technology has advanced. Today, the term is often used more loosely to describe a range of evaluations of machine intelligence. \n\nThe Turing Test is widely recognized as a significant milestone in the development of AI, showcasing a system's ability to understand natural language, learn, reason, and generate thoughtful responses. While it is not a definitive measure of artificial intelligence, it remains a fascinating and popular method for assessing machine intelligence and comparing it to human capabilities.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751695312.858703,
+      "session_id": "cohere-integration-test",
+      "user_query": "What is the difference between RAM and ROM?",
+      "processed_query": "What is the difference between RAM and ROM?",
+      "bot_response": "RAM and ROM are two types of computer memory, and they have different roles and characteristics. Here's the difference between RAM (Random Access Memory) and ROM (Read-Only Memory):\n\nRAM:\n\n1. Volatile Memory: RAM is a volatile memory type, which means it loses its content when the computer or device is powered off. When you turn off your computer, any data stored in RAM is erased.\n\n2. Data Storage: RAM is used to store temporary data that the computer is currently using or is expected to use soon. It's like the computer's short-term memory, holding the information required for active processes and applications.\n\n3. Fast Access: RAM offers fast read and write speeds, allowing data to be accessed and retrieved quickly. This makes it ideal for frequent data access and processing by the CPU.\n\n4. Volatile but Modifiable: RAM contents can be changed or overwritten at any time. It allows for random access to any memory location, hence the name Random Access Memory.\n\n5. Typical Storage Size: Modern computers often have RAM measured in gigabytes (GB), with common capacities ranging from 4GB to 32GB or more.\n\nROM:\n\n1. Non-Volatile Memory: ROM is a non-volatile memory type, which means it retains its content even when the power is removed. The data stored in ROM persists across power cycles.\n\n2. Read-Only Access: As the name suggests, ROM is primarily designed for reading data. It stores information that the computer needs to access at startup and to run basic functions.\n\n3. Factory-Set Data: ROM is usually used to store essential system firmware, such as BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface). This firmware helps initialize hardware and prepare the system for loading the operating system.\n\n4. Slow Access: Compared to RAM, ROM has slower read speeds. It is not designed for fast, frequent data access like RAM.\n\n5. Read-Only, Not Modifiable: The data stored in ROM is set by the manufacturer and, in most cases, cannot be modified or written over by the end user. This is why it's called Read-Only Memory.\n\n6. Smaller Storage: ROMs typically have a smaller storage capacity compared to RAM. They are often measured in megabytes (MB) or even bytes.\n\nIn summary, RAM is used for temporary data storage, offering fast access and modification, while ROM is used for permanent data storage, holding essential system information that remains accessible even when the device is powered off.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "cohere-integration-test",
+        "user_id": "cohere-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "cohere-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702845.54759,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 1",
+      "processed_query": "Test query 1",
+      "bot_response": "Test query 1 acknowledged. Does this query involve a specific topic or question you'd like to discuss? I'm here to help!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702846.472918,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 2",
+      "processed_query": "Test query 2",
+      "bot_response": "Query 2 received and acknowledged! I hope you are having a fantastic day today! Is there any specific information you'd like to know or any questions you'd like to ask me? I'm here to help and provide you with all the details you need.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702847.113984,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 3",
+      "processed_query": "Test query 3",
+      "bot_response": "Query 3 looks successful! I hope you're happy with the results. Is there anything else I can help you with?",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702847.751779,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 4",
+      "processed_query": "Test query 4",
+      "bot_response": "Query 4 is successful! You have accessed the fourth test query and your input was recognized. Congratulations!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702848.393871,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 5",
+      "processed_query": "Test query 5",
+      "bot_response": "Query 5 appears to be a success! Congratulations!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702849.351694,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 6",
+      "processed_query": "Test query 6",
+      "bot_response": "Query 6 received and understood. Please explain the nature of the test you would like to conduct or the specific information you are seeking related to this query. I'm here to assist you accordingly.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702850.311683,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 7",
+      "processed_query": "Test query 7",
+      "bot_response": "Query 7 is testing the ability of the chatbot to understand and respond to questions about the weather. This is a common request for many virtual assistants, and an important one to get right! \n\nI'm ready to provide you with weather updates, forecasts, and any related information you need. Please go ahead and ask your question!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702851.235833,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 8",
+      "processed_query": "Test query 8",
+      "bot_response": "Query 8 is acknowledged! I hope you are having a fantastic day today! Is there anything I can help you with? It could be fun to explore some cool topics or answer any questions you have!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702852.232309,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 9",
+      "processed_query": "Test query 9",
+      "bot_response": "Query 9 confirmed. Please go ahead and ask your question or provide the details of what you'd like to know. I'm here to help!",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702852.871743,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 10",
+      "processed_query": "Test query 10",
+      "bot_response": "Query acknowledged! This is the response to test query 10.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.508553,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 11",
+      "processed_query": "Test query 11",
+      "bot_response": "Cohere AI provider failed or is rate-limited.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.538773,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 12",
+      "processed_query": "Test query 12",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.558914,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 13",
+      "processed_query": "Test query 13",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.579367,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 14",
+      "processed_query": "Test query 14",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.604325,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 15",
+      "processed_query": "Test query 15",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.625246,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 16",
+      "processed_query": "Test query 16",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.646332,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 17",
+      "processed_query": "Test query 17",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.669752,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 18",
+      "processed_query": "Test query 18",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.699518,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 19",
+      "processed_query": "Test query 19",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.738285,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 20",
+      "processed_query": "Test query 20",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.76736,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 21",
+      "processed_query": "Test query 21",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.794294,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 22",
+      "processed_query": "Test query 22",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.814151,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 23",
+      "processed_query": "Test query 23",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.838207,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 24",
+      "processed_query": "Test query 24",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702853.860571,
+      "session_id": "ratelimit-test",
+      "user_query": "Test query 25",
+      "processed_query": "Test query 25",
+      "bot_response": "Cohere AI provider is unavailable due to rate limiting or error.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    },
+    {
+      "timestamp": 1751702919.993029,
+      "session_id": "ratelimit-test",
+      "user_query": "Is the provider available again?",
+      "processed_query": "Is the provider available again?",
+      "bot_response": "I'm sorry, I'm unable to answer your question as I don't know the context or the provider you are referring to. Could you please clarify the provider and the service or platform you are inquiring about? That way, I can give you a more accurate response regarding availability.",
+      "provider": "cohere",
+      "provider_version": "v1",
+      "context": {
+        "session_id": "ratelimit-test",
+        "user_id": "ratelimit-tester"
+      },
+      "outcome": null,
+      "feedback": null,
+      "user_info": {
+        "user_id": "ratelimit-tester"
+      },
+      "prompt_version": null,
+      "latency_ms": null,
+      "token_count": null
+    }
+  ],
+  "provider_decisions": [
+    {
+      "timestamp": 1751684870.136675,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "providers_tried": [
+        "AI Analysis"
+      ],
+      "provider_results": [
+        {
+          "module": "AI Analysis",
+          "latency": 11.017652,
+          "status": "success"
+        }
+      ],
+      "final_provider": "AI Analysis",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751685054.011887,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "providers_tried": [
+        "AI Analysis"
+      ],
+      "provider_results": [
+        {
+          "module": "AI Analysis",
+          "latency": 4.005219,
+          "status": "success"
+        }
+      ],
+      "final_provider": "AI Analysis",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751685285.225971,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "providers_tried": [
+        "AI Analysis"
+      ],
+      "provider_results": [
+        {
+          "module": "AI Analysis",
+          "latency": 5.169479,
+          "status": "success"
+        }
+      ],
+      "final_provider": "AI Analysis",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751688335.597954,
+      "session_id": "1354782044454129805-1366258466313994366",
+      "query": "sdx-01@isro.gov.in 103.21.220.45 SpaDeX Hakuto-R Mission 2",
+      "providers_tried": [
+        "AI Analysis"
+      ],
+      "provider_results": [
+        {
+          "module": "AI Analysis",
+          "latency": 6.893249,
+          "status": "success"
+        }
+      ],
+      "final_provider": "AI Analysis",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751688836.658352,
+      "session_id": "testsession",
+      "query": "Apollo 11 Moon Landing",
+      "providers_tried": [
+        "timeline:image"
+      ],
+      "provider_results": [
+        {
+          "summary": "Unable to parse coordinates.",
+          "cloud_coverage": null,
+          "success": false
+        }
+      ],
+      "final_provider": "timeline",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751692675.446762,
+      "session_id": "test-session",
+      "query": "",
+      "providers_tried": [
+        "footprint:email"
+      ],
+      "provider_results": [
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        },
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        },
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        }
+      ],
+      "final_provider": "footprint",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    },
+    {
+      "timestamp": 1751692675.489412,
+      "session_id": "test-session",
+      "query": "test@example.com",
+      "providers_tried": [
+        "footprint:email"
+      ],
+      "provider_results": [
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        },
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        },
+        {
+          "source": "<lambda>",
+          "status": null,
+          "details": "<lambda>() missing 1 required positional argument: 'session'"
+        }
+      ],
+      "final_provider": "footprint",
+      "final_result": "success",
+      "rate_limits": {},
+      "disabled_providers": [],
+      "ab_variant": null,
+      "result_quality_score": null
+    }
+  ],
+  "preprocessing_trails": [],
+  "osint_usage": [],
+  "feedback": [],
+  "analytics": {
+    "help_command_used": [
+      {
+        "timestamp": 1751685012.137502,
+        "value": 1,
+        "context": {}
+      }
+    ]
+  },
+  "security_events": [],
+  "deleted_or_edited": [],
+  "integrity_hashes": {
+    "245eb6092b7caed2d8e3306f8abeb1e038c55a71804f332e9f3be19ce7ca8c91": 1751684870.062635,
+    "d01166d3ca9a064b86759839d746117b79329286101a5dc4ee25f913c7a319aa": 1751685053.963282,
+    "fb0b43f4db0e37c06f4a3b98e50d91298a5080dc506094732fcb1cae61d66dcc": 1751685285.189304,
+    "857349504d0b5eb90faed6a757cc4bd568eab4c1338c6e73a120d4ccfbac2139": 1751688335.588566,
+    "76645a619b0ede42e528ec6549c530da243aa1cef268aa945859fe29f7a07962": 1751688836.676824,
+    "47bc606199c6dcec60699d83f732ff88c1f6b850ddb12895486446703388e4f2": 1751692521.230096,
+    "b355c7a3377109e06fe58702d8fc5919ea4b23cfb4e6a17ef9d90b26d45858c2": 1751692523.603191,
+    "b85211d159714e3af9dfa0f107771ffb7a4ae100c14122efc364bd1445a330cc": 1751692526.444758,
+    "3142aeaa209645cd744f3b816c29d7192e837a8caed40200776a6ad1ac9ac312": 1751692675.461898,
+    "5fed44e822b06e10c336bdff212ea1a5090f77b601f222e9afeb7550cac19202": 1751692675.598176,
+    "5cb05b172dbce339983b07401cf04c787553cf78a5da45e4ae614f2305e19234": 1751694123.043176,
+    "132f4edc6476a4bcf413ede01f6b94c50ae785055e5a84f7c7789f8a2f25b9c4": 1751694123.13905,
+    "20e66e3c457436fd1eebee278e833720c1b1b496474613f221d8c146a4cfca74": 1751694123.226773,
+    "acd4ea85d1f69c98628479dc6d3917c30c2f6b653fd3c075e34427a034ae7b86": 1751694260.72355,
+    "99269b307fcea11e46a74b7d531b916391f7da99df98c1c8caf3e3bcd5e1a024": 1751694260.779991,
+    "e2c254ca77da3215434f8d1d1f549f59c940f3d64360d80bb311eefc0e89c8bc": 1751694260.820192,
+    "bf07db50fad2bfbc8d9fbcada075106a66a495d0b27fa04c90ec72bc75e62049": 1751694450.874588,
+    "1510e79b6faa52029f5c96311574bd2d6392e1743d571ae3553026fe6f509b5a": 1751694451.318991,
+    "6d7241ae1f60ee2f91b72edb02dd37cedb718e6fdc6e707bffe3216c5fd7bb5d": 1751694452.41025,
+    "4a38de55ac2421433d849816d0f9b6701a9bd6d03a7494381a834b5952873122": 1751694452.715981,
+    "ecb185565e3f21ba54f7f3b47d203fef54a94ab806e81a55650cb70ef50d8040": 1751694453.249272,
+    "ac92a41b54c428d2af72881ff53e5d89567e718285f21cae707989ae809f11ff": 1751694454.358795,
+    "51abcb5588cbe1a97a4ebe86b57863565eff977fa49941d68002e3a6ec97d418": 1751694454.390089,
+    "62cb78b40ed804fdcd3967358e35b9041fd248f6ddc7d8d53f442da8e71504c4": 1751694454.46047,
+    "23bd4e270ff6eb9b81194f7751330165a1a505d6296f5ba7e38b622170ab86fe": 1751694454.873232,
+    "a0ea2f7e231bfbb85e0d561b31ce549f4e0cf7573469cad25abe75b693cfc015": 1751694456.580672,
+    "3a1960365d9bd672f18eb97c803c8a966ab79d2a9f54497718cb1e37b54762b1": 1751694457.419961,
+    "f5ce923d4e79b9910aee45a7e2657b47956314cbfcd44ebad67aad0ec0311a49": 1751694457.542562,
+    "68201741aa4980d23882b72a69fabf4f92f93bf457f75268843d658f511954bf": 1751694457.645597,
+    "46097573837423dc9b658b4ea486618780795b2b1043c1d58980b3075f8ab063": 1751694536.723437,
+    "367c09ad1b8291fd5abba6c3d201daa66be31c28dfa992a2ae135ad0b01f6416": 1751694536.769668,
+    "5e1a70d434545b86dc4411de4e2d36980b9a4ef3439452b8bb8c663b758bc6fd": 1751694536.796181,
+    "70538a876ad1ee71116bb4744054621865df6505f16e45a2408bad0c304e1613": 1751694536.833416,
+    "9f9fe600726eb37af2088c49205ccb0b471ee06561bc6defecc2bfe65c1b3d75": 1751694536.859147,
+    "c5a99106506d9fe907b233dd08c00d0a01828a7af9b3cdd9915446ef84473698": 1751694536.878539,
+    "3f84c265520e2fd1d7f5f1823fb8d86a77f12ba9b599dadbf2be7e13501bd195": 1751694536.903212,
+    "408992cc900abe30f9e6440b575deef25b5678c9ff106db97476510ccd9ada33": 1751694536.925234,
+    "012e9c9a7e499fc12cc2b197cc1e6b21c4edf65be4d5d0c86744e4d0d2dd0b6b": 1751694536.95213,
+    "65ad87fcfde5507f989d54ab686296320b180cf5b3184fb076ac0f6a3a14cfa8": 1751694536.979205,
+    "73371088a1fd6f43d486641966374feb695b2006e77386aa77f447bd2a99ad7e": 1751694537.011185,
+    "b88ba7e28f6b6d9ee1762cd6082309e5bf70446226cc18388229a0d496a58b20": 1751694537.03341,
+    "3a6e4ed00ec2e4bdc3737e0a884adbb63f319e1b1e509835e51b931f6e1f4412": 1751694537.057246,
+    "525f7c17db71de47518816bbdb4b0df4137c19934fb3275b75ae42c58b97beee": 1751694697.808084,
+    "58c03b8c9a64f5c1d623e731e9bacccb6ea9bbdff84376635e5381a8819fe921": 1751694703.823488,
+    "84d6701ecff5c669375f280414e8908317332536e252251476a8ea19bbd75c66": 1751694709.825619,
+    "6a05204cde0f2eea23dd024cd73ab41ea039dc39bc961bdbe30805497d522c5d": 1751694715.824946,
+    "4e37cb11b5ced37465d008bcfb52e2bbaa00e77bd20d4a7085bff208d7c67704": 1751694721.881266,
+    "bd2afb57f3cd77f0fb02d3f092ef7973b386fdaafc4d1b13c17ae2eeaf989d38": 1751694727.82872,
+    "35e2002efc874d77632de7b2b18dc7f0b181035e97b2ca78c8a497408b60e952": 1751694733.843467,
+    "e51a9e2648c818a9418f23ef9efcf7df76370f11757b10cdca9ed688161a3cba": 1751694739.909952,
+    "f357b85f7fff59573f95cb3ef644fa79db54a55ba6aa73a1fdf9b1f2f7f2536e": 1751694745.840171,
+    "1e6b2c9885f2902be27a06f146b3a3e111dedb7c14ab2be18c3154231bbaeab6": 1751694751.873763,
+    "e66a3523fae646d6757a216c001d14523b6016d307092e5ebdd177c86d146fd7": 1751694985.560303,
+    "91f5d7d228017ac1d501a4d63bc5452c0b311c229a9b9ec27a052a740945898a": 1751694992.051223,
+    "feea223dcc9d90bee3ba5d8f314abdeba8f8993bc6c999d5218caf2f119aba6b": 1751694999.720078,
+    "029f7a0a4a2e8b515c3f1b6029d5a02c4df5bd6075e645e2bfac7388111fa293": 1751695258.198894,
+    "0c5f8929831143ea316d8ac08f8f887f2cd163aef6acdec248558127ba99661a": 1751695263.81006,
+    "378a08a221a13877ab16f79b55f84610225ed36d1a8a43043d406ccb80aa2f02": 1751695271.73303,
+    "60d7dee9d4ac7d943105b45e0dd8d285591bff2c9fa4c2bdf421f5bf772cecdc": 1751695273.544924,
+    "a4c32167e05f52662aaf0ffb1122d686b43891ba0f3be5670d780cd981fabb39": 1751695281.227374,
+    "86fbb293b1f7f1c1bb813a1d959241158d9421013667cb29a07c0d5b2a462543": 1751695286.03215,
+    "cfd09ca588e4ce34f5e73506c33a4307ef975c03b22606b76087c3ada312645b": 1751695293.548438,
+    "ff3beadc72d8663f922c0ee37c8a5d1d8d4d362f8107456bb3c8309178e0db50": 1751695298.82626,
+    "b14a93e7eb4551cfcf9cbb5ffc352508bffc816eb6017b527f3a54aa7c18613d": 1751695305.312773,
+    "374d16edd9f0dcd81e121f4d08bbcdc2713c4ef6b1733815c543de100e9e699c": 1751695312.858703,
+    "3612c09f7fae22be79673f1006dab38d2dfa23a5414f0d1c11e6f58d27539e9a": 1751702845.54759,
+    "e71c3edd4a9094724c79ade781e65ef2612301928a8c8d7848442059782e9e54": 1751702846.472918,
+    "d4a5661a0620585fdcddfaf3af2cd6f45ec6b257d38f857838e03c05b9780bb9": 1751702847.113984,
+    "ab32eb117671db0427c6be587bd39929bb4ee6db032398541252ee7222b9017c": 1751702847.751779,
+    "a19e046b001f0aae757ece412c0658e905b1039fa4ec0788b2c7b08cbad6f26c": 1751702848.393871,
+    "1c21d26b4394ad9c9f1edf445ee4c13e119ddb06337e520c9321fc92234ed0ba": 1751702849.351694,
+    "12c66821db76386e152e8c622851021b29811203cb2992fc4278102e77397411": 1751702850.311683,
+    "76901c86181cb8c635f9cf783bfaa8ad5ac1b616fc36920085d49d28a636c7b7": 1751702851.235833,
+    "2801a0b8759f37e7c545b5d7e03a2f137d5c79075e07e23b29a54e9cad81f718": 1751702852.232309,
+    "3e17902e9e4f59ef282ab1b2ea13a7e67331257d7c0cb54a5d55c3cab8616ca3": 1751702852.871743,
+    "d29d016b42ccb99832a0540a9dfb402f4495c7754ee44216450b6169f3ee05f3": 1751702853.508553,
+    "96a99224a66a395a13422c6988ac17d652d2326a76c2fd22fb438b73a0278cec": 1751702853.538773,
+    "4d9088659756b6c18e73afe29bb5e58f15e53508ce428fae970e2a57a3d1fb11": 1751702853.558914,
+    "30695524782c6b3ca9f4b0f1b210561b33d45a5eea86a507f58b44f84eb8190f": 1751702853.579367,
+    "13e068c9f44f818ad4ca9680e3f10fa28d6740026e11bc5b14a83c35c4cf1cec": 1751702853.604325,
+    "9d6281e33ce18e2a204f95b7cc33e11638472f5312f3329edf791053fb8d1e7f": 1751702853.625246,
+    "c05b420715f73067a150b3115f7e35b137ca1cb0247368b9c1784cbfecb41e53": 1751702853.646332,
+    "e4b74784dd5b387688c59d690f27626c2679feedd6a0dcbd815b1409eb810098": 1751702853.669752,
+    "a730553a7d2205d663b2a4b827d88d7b7889b235e84973ed97bef1141e16e0b5": 1751702853.699518,
+    "6827656efd18c6971d864d86b2eb7f1af518301f4e78bbb0ce29e49c28a0caaf": 1751702853.738285,
+    "d1f9ce0cd9c7974d572e20b9d9f2ee0c16d2133ee6e0e53e854eea32c11e6268": 1751702853.76736,
+    "d2adb5debe93ece935c9d93b62ab8065c336ed286262486faad65a78a001af95": 1751702853.794294,
+    "dc85ce87575618fc72a399858abfcdf0b134cef5f668d1bcf905c6201deb33db": 1751702853.814151,
+    "cb41e0eb5de5a7576481be91e4c95ad800e73afe969257104c7c1a53633bc1ff": 1751702853.838207,
+    "ee99557943a51b22fa828d00bbaf7ab040c9f9652158fe6d6d37223d5b1c75db": 1751702853.860571,
+    "9744c8771adbcdb726ebcc39546e53323d9b2001d6f17377ea2f6570a17897b3": 1751702919.993029
+  },
+  "prompt_versions": {}
+}

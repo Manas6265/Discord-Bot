@@ -65,3 +65,16 @@ pytest_cache/
 .coverage
 htmlcov/
 *.cover
+credentials/*.json
+# Project-specific secrets and tokens
+config.py
+sentinel_token.json
+# Sentinel token file
+# ========================
+# Miscellaneous
+# ========================
+*.orig
+*.rej
+# Ignore all files in the utils directory except sentinel_token.json
+utils/*
+!utils/sentinel_token.json

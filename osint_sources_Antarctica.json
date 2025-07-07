@@ -1,0 +1,96 @@
+{
+  "Antarctica": {
+    "Antarctica": [
+      {
+        "country": "International",
+        "source_name": "Antarctic Treaty Secretariat",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official organization overseeing Antarctic developments"
+      },
+      {
+        "country": "USA",
+        "source_name": "National Snow and Ice Data Center",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Provides extensive data on Antarctic snow and ice conditions"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australian Antarctic Division",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Official government agency for Antarctic expeditions and research"
+      },
+      {
+        "country": "New Zealand",
+        "source_name": "Antarctica New Zealand",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Promoting NZ's interests in Antarctica"
+      },
+      {
+        "country": "UK",
+        "source_name": "British Antarctic Survey",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Leading UK research in Antarctica"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Instituto Antrtico Chileno",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "ES",
+        "notes": "Chilean government's Antarctic institute"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Direccin Nacional del Antrtico",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "ES",
+        "notes": "National Directorate for Antarctica, Argentina"
+      },
+      {
+        "country": "Russia",
+        "source_name": "Arctic and Antarctic Research Institute",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "RU",
+        "notes": "Russian state-owned research institute"
+      },
+      {
+        "country": "International",
+        "source_name": "SCAR - Committee on Environmental Protection",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Non-profit focusing on Antarctic environmental protection"
+      },
+      {
+        "country": "International",
+        "source_name": "Antarctica Tourism Association",
+        "bucket": "Tourism",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Industry body for responsible tourism operators in Antarctica"
+      }
+    ]
+  }
+}

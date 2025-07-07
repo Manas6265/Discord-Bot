@@ -1,0 +1,2747 @@
+{
+  "South America": {
+    "Guyana": [
+      {
+        "country": "Guyana",
+        "source_name": "Guyana Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Guyana Chronicle",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National daily newspaper, covers local news and events"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Stabroek News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Online news outlet, focuses on Guyanese news and politics"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Demerara Waves",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Popular regional news site, live updates and multimedia content"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Guyana Times",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Online newspaper with a focus on current affairs, human rights, and community news"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Guyana News Room",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News agency covering regional and local stories, minute-to-minute updates"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "South America Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Provides socio-economic datasets and statistics for Guyana"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Open Street Map",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "User-generated map data, real-time updates on geographical information"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Guyana Cyber Info",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Website offering tech news, reviews, and local internet trends"
+      },
+      {
+        "country": "Guyana",
+        "source_name": "Community InfoNet",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community-based platform, focuses on local news, events, and culture"
+      }
+    ],
+    "Venezuela": [
+      {
+        "country": "Venezuela",
+        "source_name": "Presidencia de la Republica",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Official government website, provides latest news and initiatives."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Ministerio del Poder Popular de Comunicacin y Turismo",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Government ministry overseeing communications and tourism, offers official narratives and policies."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "RNV Radio Nacional de Venezuela",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "State-run national radio broadcaster, provides official news and programming."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Televen",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Private national television network, offers news and current affairs."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "El Universal",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "One of the leading national newspapers, covering a variety of topics."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Noticias24",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Online news portal covering regional and national stories, also offers multimedia content."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "La Prensa de Lara",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Regional newspaper based in Barquisimeto, provides local news and opinions."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Provea",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Non-profit human rights organization, publishes reports and advocacy materials."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Observatorio Venezolano de Conflictividad Social",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Community-based observatory, documents social conflicts and provides analyses."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Chapter of the global organization, focusing on corruption issues and advocacy."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Instituto de Prensa y Sociedad",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Non-profit promoting press freedom and access to information, conducts research and advocacy."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Veneconombros",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Data portal focusing on economic and social indicators, provides access to official statistics."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Observatorio Venezolano de Salud",
+        "bucket": "Health",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Health observatory initiated by medical professionals, offers insights into healthcare issues."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Red de Apoyo por la Justicia y la Paz",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Network of activists and researchers, provides situation reports and analysis on security and conflict."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "InSight Crime",
+        "bucket": "Crime and Security",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Independent initiative providing in-depth analysis and news on organized crime and security issues across Latin America."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Venezuelanalysis",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Independent news website focusing on analysis and opinion, covers a range of political and social issues."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "El Estmulo",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Online newspaper offering in-depth analyses and investigative journalism on political economy and current affairs."
+      },
+      {
+        "country": "Venezuela",
+        "source_name": "Runrun.es",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "News website featuring investigative journalism, requires manual data processing."
+      }
+    ],
+    "Suriname": [
+      {
+        "country": "Suriname",
+        "source_name": "Government of Suriname Website",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official government portal with ministerial updates"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "National Gazette",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Dutch",
+        "notes": "Official government gazette, provides legal updates"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Starnieuws",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "One of the leading national news outlets"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "De West",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Dutch",
+        "notes": "Daily national newspaper"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Paramaribo Times",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Online news portal focusing on Suriname's society, culture, and politics"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Radio Sranan",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "Sranan Tongo",
+        "notes": "Local radio station with news in Suriname's creole language"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Suriname Eye",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit news outlet focusing on investigative journalism"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "TechSur",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Local tech hub, provides IT news and services"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Cyber Crime Police Unit",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "Official police unit dealing with cybercrime, scams, and online safety"
+      },
+      {
+        "country": "Suriname",
+        "source_name": "Community Watch Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "Dutch",
+        "notes": "Active Facebook group dedicated to community watch and local discussions"
+      }
+    ],
+    "French Guiana": [
+      {
+        "country": "French Guiana",
+        "source_name": "Government of French Guiana",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official government website"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Prfet de la Guyane",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Prefecture of French Guiana's website"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "National Institute of Statistics and Economic Studies",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Official statistics agency"
+      },
+      {
+        "country": "France",
+        "source_name": "Assemble Nationale",
+        "bucket": "National Media",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "French National Assembly's media platform"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Guyane 1re",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Radio and television news"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "RFO Guyane",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Radio and TV news outlet"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Guyane Net Info",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Amazon Conservation Team",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Conservation and community development"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Greenpeace France",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Environmental NGO"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Association des Maires de la Guyane",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "French",
+        "notes": "Association of Mayors"
+      },
+      {
+        "country": "France",
+        "source_name": "ANSSI - Cyber Security Agency",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Official cyber security agency"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Guyane Numrique",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French",
+        "notes": "Tech and digital news"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Open Street Map",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "User-generated map data"
+      },
+      {
+        "country": "France",
+        "source_name": "Institut National de l'Information Gographique et Forestire",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French",
+        "notes": "National agency for geographic and forest info"
+      },
+      {
+        "country": "France",
+        "source_name": "Direction Gnrale des Douanes et Droits Indirects",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Customs and indirect taxes agency"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tourism metrics and insights"
+      },
+      {
+        "country": "French Guiana",
+        "source_name": "Guyane Commerce",
+        "bucket": "Business",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Business directory"
+      },
+      {
+        "country": "France",
+        "source_name": "Ministre des Armes",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Ministry of the Armed Forces"
+      },
+      {
+        "country": "France",
+        "source_name": "Snat",
+        "bucket": "National Media",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "French",
+        "notes": "French Senate's media platform"
+      }
+    ],
+    "Brazil": [
+      {
+        "country": "Brazil",
+        "source_name": "Presidncia da Repblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Official website of the President of Brazil"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Ministrio das Relaes Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Foreign Affairs Department"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Agncia Brasil",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Portuguese",
+        "notes": "Official government news agency"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Folha de So Paulo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Portuguese",
+        "notes": "One of the largest daily newspapers in Brazil"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "O Globo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Portuguese",
+        "notes": "Another major Brazilian newspaper"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "G1",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Globo's news portal"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "UOL Notcias",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Portuguese",
+        "notes": "News portal of the UOL web portal"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "R7 Notcias",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Portuguese",
+        "notes": "News section of the R7 portal"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Instituto Brasilis",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Non-profit research and advocacy organization"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Transparencia Brasil",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Non-profit fighting corruption"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Google Trends Brazil",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Real-time trends and insights"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Twitter Brazil",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Public Twitter data for Brazil"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Reddit Brasil",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Portuguese",
+        "notes": "Brazilian subreddit"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Ibge",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Official demographic and statistical data"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Observatrio de Eleies",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Election analysis and data"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Fipe",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Economic and social indicators"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Registro.br",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "Portuguese",
+        "notes": "Domain registration data"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "B3net",
+        "bucket": "Financial",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Portuguese",
+        "notes": "Stock market and financial data"
+      },
+      {
+        "country": "Brazil",
+        "source_name": "Previdncia Social",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Portuguese",
+        "notes": "Social Security data"
+      }
+    ],
+    "Argentina": [
+      {
+        "country": "Argentina",
+        "source_name": "Official Gazette",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official government publications and regulations"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Presidency of Argentina",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Information and news from the President's office"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "National Statistics Institute",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official statistics and census data"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Clarn",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "One of the nation's largest daily newspapers"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "La Nacin",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Another major daily newspaper, covers current affairs"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Tlam News Agency",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "State-run news agency, provides comprehensive coverage"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Perfil",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Buenos Aires-based newspaper, focuses on regional news"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Radio Mitre",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Popular radio station in Buenos Aires"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "La Voz del Interior",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Newspaper based in Crdoba, covers regional events"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Human Rights Watch - Argentina",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Non-profit organization monitoring human rights issues"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Transparency International - Argentina",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Chapter of the global anti-corruption organization"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Fundacion Sadosky",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Non-profit promoting technology and gender equality"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Argentina Cyber Army",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Discord",
+        "language": "Spanish",
+        "notes": "Community-based cyber surveillance"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Open Data Argentina",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "DataAr",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Independent data journalism platform"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "IPSI - Institute for Public Safety and Security",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Research institute focused on security and defense"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Transport Data",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Real-time transport data and analytics"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "AR-Stats",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Social and economic statistics hub"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "COVID-19 AR",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "COVID-19 data and analytics for Argentina"
+      }
+    ],
+    "Uruguay": [
+      {
+        "country": "Uruguay",
+        "source_name": "Presidencia de la Naci\u00f3n Uruguay",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official communications and presidential activities"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Foreign affairs and diplomacy"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Asamblea General",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Legislative activities and proceedings"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "El Pa\u00eds",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Leading daily newspaper"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "La Diaria",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National news portal"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Observa Uruguay",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Local think tank, political analysis, and polls"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Data Uruguay",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Uruguay Ascenso",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Community sports news"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "TechCrunch Uruguay",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local tech startups and innovations"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Cyber Defense Review",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Cyber security news and analysis"
+      },
+      {
+        "country": "Uruguay",
+        "source_name": "Track Corona URU",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "COVID-19 tracking dashboard"
+      }
+    ],
+    "Bolivia": [
+      {
+        "country": "Bolivia",
+        "source_name": "Gobierno de Bolivia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Minsterio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Foreign Affairs Ministry, offers official diplomatic info"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Agencia Boliviana Espacial",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Bolivian Space Agency, promotes and develops space tech"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Transparencia Institucional",
+        "bucket": "Government",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Government portal for institutional transparency, with data on public management"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "El Deber",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading national newspapers, covers latest news"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Pgina Siete",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Popular online newspaper focusing on politics, economy, and culture"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Erbol",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Radio network, provides audio and text news from across Bolivia"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Radio Fides",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Catholic radio station, offers religious and news programming"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "ANF - Agencia de Noticias Fides",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Non-profit news agency, covers community and social issues"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Fundacin para el Reporterismo Especial y de Investigacin",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Non-profit promoting investigative journalism, publishes reports on corruption"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Techies Bolivia",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "es",
+        "notes": "Bolivian tech community, shares local tech news and events"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Cyber Wars Bolivia",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Twitter",
+        "language": "es",
+        "notes": "Bolivian cybersecurity community, shares cyber threat news"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Observatorio de Medios FEDEPI",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "YouTube",
+        "language": "es",
+        "notes": "Media observer, shares analysis and opinions on community issues"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "DataBol",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Open data portal for Bolivia, provides access to gov't data"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Bolivian Statistics Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official portal for national stats, offers data on economy, society etc."
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "INRA - Land and Agraria Reform Institute",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official gov't agency, provides intel on land use and agriculture"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Bolivian Energy Ministry",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official energy sector info, updates on projects and investments"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Trafico Bolivia",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Real-time traffic tracker for major cities, citizen contributed"
+      },
+      {
+        "country": "Bolivia",
+        "source_name": "Bolivian Elections Tribunal",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official election results and data on political process"
+      }
+    ],
+    "Chile": [
+      {
+        "country": "Chile",
+        "source_name": "Gobierno de Chile",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Presidencia de Chile",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Office of the President"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Foreign Affairs Ministry"
+      },
+      {
+        "country": "Chile",
+        "source_name": "El Mercurio",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Largest national newspaper"
+      },
+      {
+        "country": "Chile",
+        "source_name": "La Tercera",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Radio Bio-Bio",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Regional news radio"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Soy Chile",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Regional news portal"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Observatorio Ciudadano",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Citizens' observatory for security & justice"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Chile chapter of TI"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Google Maps",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Satellite & street imagery"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Twitter",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Real-time information"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Reddit",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Chile-related subreddits"
+      },
+      {
+        "country": "Chile",
+        "source_name": "INE Chile",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "National Institute of Statistics"
+      },
+      {
+        "country": "Chile",
+        "source_name": "DataChile",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Open data platform"
+      },
+      {
+        "country": "Chile",
+        "source_name": "CIEN",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Center for Strategic Studies"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Risk & Insurers Management Solutions",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Country risk assessments"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Global Forest Watch",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Forest monitoring"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Seismol Log",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Seismic activity tracker"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Reporte Clima",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Weather updates"
+      },
+      {
+        "country": "Chile",
+        "source_name": "COVID-19 Chile",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "COVID-19 data"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Bio Bio Chile",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Regional news network"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Radio Bo-Bo",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Regional radio station"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Observatorio Ciudadano Digital",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Digital citizen observatory, maps-focused"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Human Rights Watch Chile",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Human rights organization"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Chilean Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "Chile",
+        "source_name": "CIEN Intelligence Community",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Think tank, defense & security focused"
+      },
+      {
+        "country": "Chile",
+        "source_name": "INACIM",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "National Immigration Office statistics"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Sismolgico de Chile",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Seismic activity tracker"
+      },
+      {
+        "country": "Chile",
+        "source_name": "Tiempo Chile",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Community weather station project"
+      }
+    ],
+    "Peru": [
+      {
+        "country": "Peru",
+        "source_name": "Presidencia de la Rep\u00fablica del Per\u00fa",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official presidential communications"
+      },
+      {
+        "country": "Peru",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Foreign affairs ministry"
+      },
+      {
+        "country": "Peru",
+        "source_name": "El Comercio",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Largest circulation newspaper in Peru"
+      },
+      {
+        "country": "Peru",
+        "source_name": "La Rep\u00fablica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National daily newspaper"
+      },
+      {
+        "country": "Peru",
+        "source_name": "RPP Noticias",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Online news portal, radio broadcaster"
+      },
+      {
+        "country": "Peru",
+        "source_name": "Instituto Nacional de Estad\u00edstica e Inform\u00e1tica",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official statistics and information institute"
+      },
+      {
+        "country": "Peru",
+        "source_name": "Observatorio de Criminalidad",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Crime data tracker"
+      },
+      {
+        "country": "Peru",
+        "source_name": "Transparencia Econom\u00eda",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Anti-corruption and transparency NGO"
+      },
+      {
+        "country": "Peru",
+        "source_name": "Red Acci\u00f3n Climate Justice Peru",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Environmental justice community network"
+      },
+      {
+        "country": "Peru",
+        "source_name": "TechCrunch Peru",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech and startup news platform"
+      }
+    ],
+    "Paraguay": [
+      {
+        "country": "Paraguay",
+        "source_name": "Presidencia de la Repblica del Paraguay",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official presidential communications"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Foreign affairs"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "ABC Color",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Largest circulation newspaper"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Radio Nacional de Paraguay",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Public radio"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "La Nacin Paraguay",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "E'a",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Local news from Asuncin"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Radio Monumental 1080 AM",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Asuncin based radio"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Transparencia Internacional - Paraguay",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Anti-corruption focus"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Fundacion Para el Desarrollo de la Libertad Ciudadana",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Citizenship and liberty advocacy"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Techamba",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Tech news and reviews"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Online",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "General news in English"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "COVID-19 Paraguay",
+        "bucket": "Health",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official COVID-19 data"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Instituto Nacional de Estadstica",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official statistics"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Open Data Paraguay",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Various datasets"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Social Network Analysis",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Social dynamics and opinions"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay News",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News aggregator"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Press",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "News and analysis"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Inteligencia Criminal",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Criminal intelligence"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Observatorio de Seguridad Ciudadana",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Citizen security observations"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Television network"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Ultima Hora",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "News portal"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Regional Radio Amambay",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "es",
+        "notes": "Local news and community issues"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Corruption research and advocacy"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Google Maps",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Geospatial data"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Internet Society Paraguay",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Internet infrastructure and policy"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "OpenStreetMap",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Crowdsourced map data"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Government Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official government datasets"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "INDEGEOTEC",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Geographic intelligence institute"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "COVID-19 Paraguay Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Pandemic statistics and analysis"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Electoral Data",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Election monitoring and results"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Climate Change Indicators",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Environmental data and advocacy"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "TechCrunch",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tech news and startups"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Reditt",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Local subreddits"
+      },
+      {
+        "country": "Paraguay",
+        "source_name": "Paraguay Press Agency",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News agency"
+      }
+    ],
+    "Colombia": [
+      {
+        "country": "Colombia",
+        "source_name": "Presidencia de la Rep\u00fablica de Colombia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official communications and presidential activities"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "Registro Nacional de Tour Operadores",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Licensed tour operators, official tourism registry"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "El Tiempo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading daily newspapers in Colombia"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "RCN Radio",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "National radio station, news and podcasts"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "Noticias Caracol",
+        "bucket": "TV Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "TV news channel, offers comprehensive coverage"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "El Espectador",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Daily newspaper covering current affairs"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "La FM",
+        "bucket": "Radio",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Colombian news radio station"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "Red Acci\u00f3n",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Humanitarian action network, reliable info on crises"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "Fundaci\u00f3n Paz y Reconciliaci\u00f3n",
+        "bucket": "Think Tanks",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Research and analysis on peace and post-conflict issues"
+      },
+      {
+        "country": "Colombia",
+        "source_name": "Colombia Reports",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English-language news outlet, focused on analysis"
+      }
+    ],
+    "Ecuador": [
+      {
+        "country": "Ecuador",
+        "source_name": "Presidencia de la Repblica del Ecuador",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Official presidential communications"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ministerio de Relaciones Exteriores y Movilidad Humana",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Foreign Affairs Ministry"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Asamblea Nacional del Ecuador",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National Assembly"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "El Telgrafo",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "State-run news agency"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "El Comercio",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Largest private newspaper"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "La Hora",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National news outlet"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Radio Publica Ecuador",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Public radio"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "El Universo",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Regional newspaper, Guayaquil focus"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Fundacion Enlace",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Development and humanitarian focus"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Accin Ecolgica",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Environmental advocacy"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Internet Society Ecuador",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Tech and internet infrastructure"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuador Cyber Security Forum",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Annual cybersecurity conference proceedings"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuador Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Expat and travel community platform"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "INEPI - Instituto Nacional de Estadstica y Censos",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "National stats agency"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Observatorio de Tendencias Globales",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Think tank for future studies"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuador Trends",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tourism and business trends"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Senescyt - Secretara de Educacin Superior, Ciencia, Tecnologa e Innovacin",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Education and Science Ministry"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Agencia de Regulacin y Control de Telecomunicaciones",
+        "bucket": "Regulators",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Telecoms regulator"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Registro Oficial",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Official gazette for laws and norms"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Fundacion Naturaleza y Cultura Internacional",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Environmental conservation"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuavisa",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Regional TV news"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Amnista Internacional Ecuador",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Local branch of Amnesty International"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuador Data",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Open data platform"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Voto Informado",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Election tracker"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ministerio de Gobierno",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Ministry of the Interior"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Agencia de Regulacin y Control de las Telecomunicaciones",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Telecoms regulator"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Red de Innovacin y Apoyo Tecnolgico",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Technology innovation network"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Ecuador Cyber Security",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official cyber security news"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Fundacion Esquel",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Community development organization"
+      },
+      {
+        "country": "Ecuador",
+        "source_name": "Radio Publica Electoral",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Electoral media watchdog"
+      }
+    ],
+    "Panama": [
+      {
+        "country": "Panama",
+        "source_name": "Gobierno Digital",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Presidencia de Panam",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Office of the President"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Asamblea Nacional de Panam",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "National Assembly"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Ministry of Foreign Affairs"
+      },
+      {
+        "country": "Panama",
+        "source_name": "La Estrella de Panam",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panam Amrica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "News outlet"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Telemetro",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Television news"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Noticias RPC",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Television news channel"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Transparencia Internacional Panam",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Chapter of the global anti-corruption organization"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Sociedad Panamea de Ingenieros y Arquitectos",
+        "bucket": "Professional",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Professional organization for engineers and architects"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Directorio de Empresas de Panam",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Business directory"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Observatorio de la Salud",
+        "bucket": "Health",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Health observatory, official government data on healthcare"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Autoridad Martima de Panam",
+        "bucket": "Maritime",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Panamanian Maritime Authority"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Canalatino",
+        "bucket": "Maritime",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Specialized media covering maritime issues"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Tourism",
+        "bucket": "Tourism",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official tourism board website"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Google Maps Panama",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Map data and satellite imagery"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Twitter",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Social media platform"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Facebook",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Social media platform"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Reddit Panama",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Online community and discussion forum"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Papers Database",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Database of offshore entities"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Asamblea Nacional de Diputados",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "National Assembly"
+      },
+      {
+        "country": "Panama",
+        "source_name": "TVN Canal 2",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Local television"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Radio Panama",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "es",
+        "notes": "Radio station"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Red Panamea de Tecnologa",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "IT industry association"
+      },
+      {
+        "country": "Panama",
+        "source_name": "CyberNews Panam",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Tech and cyber news"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Comunidad Geek",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Tech community and events"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Open Data Panama",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data portal"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Statistics",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official statistics platform"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Tourism analytics"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Logistics & Transport Monitor",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Shipping and logistics data"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Business News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Business-focused news outlet"
+      },
+      {
+        "country": "Panama",
+        "source_name": "The Panama Current",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "News and analysis"
+      }
+    ],
+    "Falkland Islands": [
+      {
+        "country": "Falkland Islands",
+        "source_name": "Falkland Islands Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Falkland Islands News",
+        "source_name": "Penguin News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Weekly newspaper, provides local news"
+      },
+      {
+        "country": "Falkland Islands",
+        "source_name": "Radio Falkland",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "en",
+        "notes": "Local radio station"
+      },
+      {
+        "country": "Falkland Islands",
+        "source_name": "FI Social Media Hub",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community discussions, events, and opinions"
+      },
+      {
+        "country": "Falkland Islands",
+        "source_name": "Falkland Islands Tourism",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official tourism board website"
+      },
+      {
+        "country": "UK",
+        "source_name": "British Foreign Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "For UK's overseas territories updates"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Ambassade d'Argentine",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Argentine Embassy website, provides official statements"
+      },
+      {
+        "country": "Argentina",
+        "source_name": "Clar\u00edn",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Argentine national news outlet"
+      },
+      {
+        "country": "International",
+        "source_name": "UN Data",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official UN statistics database"
+      },
+      {
+        "country": "International",
+        "source_name": "World Factbook",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "CIA's factbook for country profiles"
+      },
+      {
+        "country": "International",
+        "source_name": "OpenStreetMap",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Map data and tools"
+      }
+    ],
+    "South Georgia and the South Sandwich Islands": [
+      {
+        "country": "South Georgia and the South Sandwich Islands",
+        "source_name": "SGSG Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official government website"
+      },
+      {
+        "country": "South Georgia News",
+        "source_name": "SGSG News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Local news outlet covering South Georgia and South Sandwich Islands"
+      },
+      {
+        "country": "South Georgia and the South Sandwich Islands",
+        "source_name": "BBC News - SGSG",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "BBC's coverage of the region"
+      },
+      {
+        "country": "SGSG",
+        "source_name": "South Georgia Museum",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Non-profit museum, provides OSINT on region's history and present"
+      },
+      {
+        "country": "South Georgia and the South Sandwich Islands",
+        "source_name": "SGSSILive",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Live updates and webcams from the region, run by a local tech enthusiast"
+      },
+      {
+        "country": "UK",
+        "source_name": "Foreign Commonwealth Office",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "UK's foreign office updates on South Georgia and SSIs"
+      },
+      {
+        "country": "South Georgia and the South Sandwich Islands",
+        "source_name": "SGSG Community Blog",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Community blog with personal experiences and stories"
+      },
+      {
+        "country": "Antarctic Circle",
+        "source_name": "Antarctic Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Scientific data and research portal, covers South Georgia and SSIs"
+      },
+      {
+        "country": "Multiple",
+        "source_name": "Ship Aid for SAAMI",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Intelligence on maritime traffic and vessel positions in the region"
+      },
+      {
+        "country": "South Georgia and the South Sandwich Islands",
+        "source_name": "Whale Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Community-based whale sighting tracker"
+      }
+    ],
+    "Trinidad and Tobago": [
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Government of TT",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government website, provides access to various ministries' news and services"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "TT National Statistics Institute",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics agency, offers data on demographics, economy, and social aspects"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Guardian Media",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Largest daily newspaper in TT, covering local and regional news"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Newsday",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Another prominent daily, offering comprehensive news coverage"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "CNMG TV",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Leading TV station in TT, live streams and video archives available"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Winradio TT",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Popular radio station, streaming audio and podcasts"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Amnesty International TT",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local branch of the global human rights organization, focusing on local issues"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Tech Trinidad & Tobago",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Non-profit promoting tech advancement, events, and news"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Cyber Crime Unit (TTPS)",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Official portal of the Cyber Crime Unit, provides updates on online safety and incidents"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Port of Spain City Council",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local community news and services related to Port of Spain"
+      }
+    ]
+  }
+}

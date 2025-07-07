@@ -1,0 +1,5350 @@
+{
+  "North America": {
+    "Canada": [
+      {
+        "country": "Canada",
+        "source_name": "Canada Government Open Data",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "Canada",
+        "source_name": "The Canadian Press",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "National news agency"
+      },
+      {
+        "country": "Canada",
+        "source_name": "CBC News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Public broadcaster"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Global News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Commercial news outlet"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Toronto Star",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Largest Canadian newspaper by circulation"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Montreal Gazette",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "English-language newspaper in Montreal"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Vancouver Sun",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Major newspaper in Vancouver"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Huffington Post Canada",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Canadian edition of the online news platform"
+      },
+      {
+        "country": "Canada",
+        "source_name": "TechNation Canada",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "News on Canadian tech scene"
+      },
+      {
+        "country": "Canada",
+        "source_name": "CyberScan",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Cyber security news and insights"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Community Safety Knowledge Base",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Information sharing platform for public safety"
+      },
+      {
+        "country": "Canada",
+        "source_name": "Statistics Canada",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official statistics agency data"
+      },
+      {
+        "country": "Canada",
+        "source_name": "OpenMap.ca",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Real-time event and incident data"
+      }
+    ],
+    "Guatemala": [
+      {
+        "country": "Guatemala",
+        "source_name": "Gobierno de Guatemala",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Sitio web oficial del gobierno"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Prensa Libre",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Uno de los principales peridicos del pas"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "El Peridico",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Otro peridico nacional con amplia cobertura"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Radio Sonora",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Emisora de radio con contenido local y regional"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Noticias Telecentro",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Canal de televisin con noticias regionales"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Accin Ciudadana",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "ONG dedicada a la promocin de la transparencia y lucha contra la corrupcin"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Proyecto de Justicia de la Sociedad Civil",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "ONG que monitorea el sistema de justicia guatemalteco"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "TechAmigos",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Iniciativa tecnolgica que brinda soluciones a organizaciones sociales"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Internet Society Guatemala",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Comunidad que promueve el acceso y desarrollo de internet en el pas"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "COVID Guatemala",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Plataforma comunitaria sobre la situacin de COVID-19 en GT"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "GUATEMALA OPEN DATA",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Portal de datos abiertos oficiales del gobierno"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Data COVID GT",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Plataforma ciudadana con datos sobre la pandemia"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Instituto Nacional de Estadstica",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Entidad oficial que brinda informacin estadstica"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Ministerio de Energa y Minas",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Informacin oficial sobre el sector energa y minera"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Track COVID-19 GT",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Plataforma que rastreo los casos de COVID-19 en tiempo real"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Elecciones Guatemala",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Portal independiente con datos sobre elecciones"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Observatorio de Salud Sexual y Reproductiva",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "ONG que monitorea temas de salud sexual"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Red de Periodistas de Investigacin",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Red de periodistas dedicados a la investigacin"
+      },
+      {
+        "country": "Guatemala",
+        "source_name": "Asociacin de Periodistas de Turismo",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Contenido sobre turismo y cultura"
+      }
+    ],
+    "United States of America": [
+      {
+        "country": "USA",
+        "source_name": "USAJOBS",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official US Government job board"
+      },
+      {
+        "country": "USA",
+        "source_name": "Federal Register",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Daily journal of the US federal government"
+      },
+      {
+        "country": "USA",
+        "source_name": "CNN",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Mainstream news"
+      },
+      {
+        "country": "USA",
+        "source_name": "Fox News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "American multinational news corporation"
+      },
+      {
+        "country": "USA",
+        "source_name": "The New York Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "USA",
+        "source_name": "USA Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "USA",
+        "source_name": "The Washington Post",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "USA",
+        "source_name": "NBC News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "News channel"
+      },
+      {
+        "country": "USA",
+        "source_name": "ABC News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "News and current affairs"
+      },
+      {
+        "country": "USA",
+        "source_name": "Wall Street Journal",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Financial and business news"
+      },
+      {
+        "country": "USA",
+        "source_name": "TechCrunch",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Tech and startup news"
+      },
+      {
+        "country": "USA",
+        "source_name": "GitHub",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Code repository"
+      },
+      {
+        "country": "USA",
+        "source_name": "Stack Overflow",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Question and answer site for programmers"
+      },
+      {
+        "country": "USA",
+        "source_name": "Kaggle",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Data science community and data repository"
+      },
+      {
+        "country": "USA",
+        "source_name": "USA Spending",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "US federal government spending data"
+      },
+      {
+        "country": "USA",
+        "source_name": "Internet Archive",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Non-profit library of internet records"
+      },
+      {
+        "country": "USA",
+        "source_name": "ProPublica",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Investigative journalism and data"
+      },
+      {
+        "country": "USA",
+        "source_name": "Pew Research Center",
+        "bucket": "Think Tank",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Nonpartisan American think tank"
+      },
+      {
+        "country": "USA",
+        "source_name": "The Conversation",
+        "bucket": "University",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Academic news and analysis"
+      },
+      {
+        "country": "USA",
+        "source_name": "Twitter (API only)",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Social media platform"
+      },
+      {
+        "country": "USA",
+        "source_name": "OpenSecrets.org",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Money in politics tracking"
+      },
+      {
+        "country": "USA",
+        "source_name": "USA COVID-19 Cases and Deaths",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official CDC COVID-19 data"
+      }
+    ],
+    "Belize": [
+      {
+        "country": "Belize",
+        "source_name": "Belize Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Belize National Library Service",
+        "source_name": "National Library",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Digital library and resources"
+      },
+      {
+        "country": "Belize",
+        "source_name": "The Belize Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Daily online newspaper"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Channel 7 News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "TV news channel"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Belizean Voices",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community-based media platform"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Tech Belize",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tech news and reviews"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Cyber News Belize",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Cyber security news"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Belize Tourism Board",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism data and analytics"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Belize Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "en",
+        "notes": "Country-specific intelligence reports"
+      },
+      {
+        "country": "Belize",
+        "source_name": "Crime Trackers",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Crime news and reports"
+      }
+    ],
+    "Honduras": [
+      {
+        "country": "Honduras",
+        "source_name": "Presidencia de Honduras",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "es",
+        "notes": "Official government website, provides latest news and initiatives."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Secretara de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "es",
+        "notes": "Foreign Affairs department, offers official diplomatic updates."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "El Heraldo",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading national newspapers, covers general news."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "La Tribuna",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "es",
+        "notes": "Another popular national newspaper, offers political coverage."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Channel 5 Televicentro",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "es",
+        "notes": "Leading TV station, provides regional news and entertainment."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Radio HRN",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "Popular radio station covering latest news and music."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Global Voices Online",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Citizen media platform, curates and translates citizen content."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Observatorio Electoral",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "es",
+        "notes": "Non-profit organization specializing in electoral processes and democracy."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "es",
+        "notes": "Chapter of the famous Transparency International."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Google Maps",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "For geographical data and mapping, useful for analysis."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Internet Archive",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Archives of Honduran digital media, useful for historical context."
+      },
+      {
+        "country": "Honduras",
+        "source_name": " Honduras Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government data portal, provides various datasets."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "INFORSE",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "es",
+        "notes": "Private intelligence firm, offers political and economic analysis."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Country Metrics",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tracker of various metrics including economy, demographics."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "World Health Organization",
+        "bucket": "International Organizations",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Health data and initiatives by the WHO."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "United Nations Human Rights Council",
+        "bucket": "International Organizations",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Human rights situation updates and reports."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "International Monetary Fund",
+        "bucket": "International Organizations",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Economic data, policies, and news."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Twitter",
+        "bucket": "Social Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "es",
+        "notes": "General social media platform, useful for sentiment analysis."
+      },
+      {
+        "country": "Honduras",
+        "source_name": "Facebook",
+        "bucket": "Social Media",
+        "trust_tier": 3,
+        "access": "Graph API",
+        "language": "es",
+        "notes": "Official pages and groups offer valuable insights."
+      }
+    ],
+    "El Salvador": [
+      {
+        "country": "El Salvador",
+        "source_name": "Gobierno Digital",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government portal with resources and info"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Presidencia de la Repblica de El Salvador",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Twitter",
+        "language": "es",
+        "notes": "Official Twitter account of the President's Office"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Foreign Affairs Ministry's website"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "El Diario de Hoy",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading national newspapers"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "La Prensa Grfica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "National newspaper covering current affairs"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Noticias Telemundo El Salvador",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "YouTube",
+        "language": "es",
+        "notes": "Local news channel's YouTube channel"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Radio YSKL",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "es",
+        "notes": "Online radio station for news and talk shows"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Amnista Internacional El Salvador",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Twitter",
+        "language": "es",
+        "notes": "Local branch of Amnesty International"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Chapter of the Transparency International movement"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "TechSal",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech news and community platform"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Cyber Wars",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Cyber security news website"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Comunidad TIC El Salvador",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "es",
+        "notes": "Facebook group for local tech community"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "El Salvador Data",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Open data platform for El Salvador"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Observatorio Electoral",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Electoral observation platform"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "SalvaWeather",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Local weather tracking service"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "COVID-19 SV",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official COVID-19 tracker"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "El Salvador News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "English language news outlet"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "Radio La Ley 96.1 FM",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "es",
+        "notes": "Online radio station playing music and news"
+      },
+      {
+        "country": "El Salvador",
+        "source_name": "ASAL HVAC News",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "News and insights on HVAC industry"
+      }
+    ],
+    "Nicaragua": [
+      {
+        "country": "Nicaragua",
+        "source_name": "Presidencia de la Nacin",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "es",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Asamblea Nacional",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "es",
+        "notes": "National Assembly website"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "El Nuevo Diario",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the major daily newspapers"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "La Prensa",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Another major newspaper"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Radio Corporation de Nicaragua",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Radio station covering latest news"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Noticias Televicentro",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "es",
+        "notes": "Popular TV news source"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Amnista Internacional",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Local branch of the international HR organization"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Transparency International",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Corruptions perceptions"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Nicargua Tech",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Tech startups and innovations"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "CyberNews Nicaragua",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "Observatorio de la Propiedad",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Community observations on property rights"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "INE - Instituto Nacional de Estadstica y Censos",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official statistics agency"
+      },
+      {
+        "country": "Nicaragua",
+        "source_name": "COVID-19 Nicaragua",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "COVID stats"
+      }
+    ],
+    "Costa Rica": [
+      {
+        "country": "Costa Rica",
+        "source_name": "Gobierno Digital",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Presidencia de la Repblica de Costa Rica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Twitter",
+        "language": "es",
+        "notes": "Official President's Office Twitter"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Foreign Affairs Ministry"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "La Nacin",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "One of the leading national newspapers"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "El Tiempo de Costa Rica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "National news outlet"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "CRHoy",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Noticias Repretel",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Regional TV news"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Radio Monumental",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "es",
+        "notes": "San Jose based radio station"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Ambiente Costa Rica",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Environmental NGO"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Costa Rica chapter of the transparency NGO"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "TechBlogCR",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local tech news and reviews"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "CyberNews CR",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Cyber security news"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Tico Gamer",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Gaming community portal"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Datos Abiertos CR",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "es",
+        "notes": "Official open data portal"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Observatorio del Mercado Elctrico",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Energy market intelligence"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tourism industry metrics"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "INCOP Peace Index",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Peace and security tracker"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "COVID-19 Data CR",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "COVID related data"
+      },
+      {
+        "country": "Costa Rica",
+        "source_name": "Volcanic Activity Monitor",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Volcanic activity tracker"
+      }
+    ],
+    "Panama": [
+      {
+        "country": "Panama",
+        "source_name": "Gobierno Digital",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government portal"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Presidencia de Panam",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Office of the President"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Asamblea Nacional de Panam",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "National Assembly"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Ministry of Foreign Affairs"
+      },
+      {
+        "country": "Panama",
+        "source_name": "La Estrella de Panam",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panam Amrica",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Panama",
+        "source_name": "TVN Canal 2",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Local television station"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Radio Panam",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "es",
+        "notes": "Public radio broadcaster"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Transparencia Internacional Panam",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Chapter of the global anti-corruption organization"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Sociedad Panamea de Ingenieros y Arquitectos",
+        "bucket": "Professional",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Professional organization for engineers and architects"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Red Panamea de Tecnologa",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "es",
+        "notes": "Panama Technology Network, connects tech professionals and companies"
+      },
+      {
+        "country": "Panama",
+        "source_name": "CyberNews Panam",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Cyber security news and opinions"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Comunidad Geek",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Blog covering local tech and community events"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Open Data Panama",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data portal"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Statistics",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government statistics platform"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism industry metrics and data"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Logistics & Transport Monitor",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Industry-specific news and insights"
+      },
+      {
+        "country": "Panama",
+        "source_name": "Panama Business News",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Business-focused online publication"
+      },
+      {
+        "country": "Panama",
+        "source_name": "The Panama Current",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "English-language online magazine"
+      }
+    ],
+    "Cuba": [
+      {
+        "country": "Cuba",
+        "source_name": "Official Gazette of the Republic of Cuba",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official government publications and legislation."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Cuban Ministry of Foreign Affairs",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Diplomatic relations and official statements."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "National Assembly of People's Power",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Debates, laws, and parliament proceedings."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Granma International",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "English language edition of the official Cuban Communist Party newspaper."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Juventud Tecnicista",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Cuban online newspaper focusing on youth and technology."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Radio Angulo",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Local news outlet covering eastern Cuba."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "TV Cuba",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official Cuban television network."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "OnCuba",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Independent digital magazine covering Cuban culture, society, and economy."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "CubaMoneyProject",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Nonprofit investigating Cuba's economy, focusing on finance and investment."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "TechCuba",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Platform for Cuban tech professionals, news, and events."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "CubaNet",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Online platform for Cuban citizen journalists."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "14ymedio",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Independent online news site founded by Yoani Snchez."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Cuba Decision Makers",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Database profiling Cuban government and military officials."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "TradeMaps",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Trade data and statistics for Cuba, visualised on maps."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Cuba Tourism Data",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Comprehensive stats and insights into Cuba's tourism industry."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Open Street Map Cuba",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "User-generated map data of Cuba."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Cubanet Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Tracking economic and social indicators in Cuba."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Internet Society of Cuba",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Non-profit promoting internet culture and digital rights in Cuba."
+      },
+      {
+        "country": "Cuba",
+        "source_name": "Havana Times",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Online magazine covering Havana's culture and current affairs."
+      }
+    ],
+    "Haiti": [
+      {
+        "country": "Haiti",
+        "source_name": "Gouvernement d'Hati",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French, Haitian Creole",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Le Nouvelliste",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "One of the largest daily newspapers in Haiti"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Radio Tele Ginen",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Haitian Creole",
+        "notes": "Local media outlet covering news and entertainment"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Haitian Times",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Online news platform focusing on Haitian affairs, run by the Haitian American Community"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "TechSansFrontires",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit providing tech solutions, updates via API"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Cyber Haiti News",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "News aggregate website covering Haitian news"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Communaut Hatienne de Montral",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French, Haitian Creole",
+        "notes": "Website of the Haitian Community in Montreal, Canada"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Open Data Haiti",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Platform for open data initiatives in Haiti, provides access to government data"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Haiti Analysis",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Analysis and intelligence on political and economic issues"
+      },
+      {
+        "country": "Haiti",
+        "source_name": "Haiti earthquake tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Real-time earthquake tracking map"
+      }
+    ],
+    "Dominican Republic": [
+      {
+        "country": "Dominican Republic",
+        "source_name": "Presidencia de la Repblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Diario Oficial",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "PDF Publications",
+        "language": "Spanish",
+        "notes": "Official gazette with government decisions and laws"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Congreso Nacional",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Website of the National Congress with session info"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Ministerio de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Foreign Affairs Ministry, provides diplomatic updates"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Noticias RD",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "General news outlet"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Hoy Digital",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Online newspaper with national coverage"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Listin Diario",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "National news with focus on business and economics"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Noticias SIN",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Regional news television channel"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "El Nuevo Diario",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Regional daily newspaper"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Transparencia Internacional",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Country chapter of the anti-corruption NGO"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Forum Solidari",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English, Spanish",
+        "notes": "Community platform for social issues"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "TechBlogDR",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Blog about technology and gadgets"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Internet Society - DR Chapter",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Local initiatives for internet infrastructure"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "DR1.com",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community website for expats and tourists"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "GoDominicanRepublic",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Tourism data and statistics"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Observatorio Electoral",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "PDF Reports",
+        "language": "Spanish",
+        "notes": "Electoral observatory for democratic processes"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Red Dominicana de Monitoreo Electoral",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Spanish",
+        "notes": "Electoral monitoring network"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "DR Weather",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Local weather tracking"
+      },
+      {
+        "country": "Dominican Republic",
+        "source_name": "Energetica Dominicana",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Energy sector data and news"
+      }
+    ],
+    "Jamaica": [
+      {
+        "country": "Jamaica",
+        "source_name": "Jamaica Information Service",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official government news"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "The Jamaica Gleaner",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Established newspaper"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "RJR News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Radio station news"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Loop Jamaica",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Digital news outlet"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Jamaica Star",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community newspaper"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Techjamica",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local tech news"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Cyber Jamaica",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Internet safety and cybersecurity news"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Transparency Institute of Jamaica",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Anti-corruption and transparency NGO"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Jamaica constabulary Force",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official police news"
+      },
+      {
+        "country": "Jamaica",
+        "source_name": "Jamaica Observatory",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Environmental and social data"
+      }
+    ],
+    "Bahamas": [
+      {
+        "country": "Bahamas",
+        "source_name": "Bahamas Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides reliable info"
+      },
+      {
+        "country": "The Nassau Guardian",
+        "source_name": "Nassau Guardian News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Leading daily newspaper in the Bahamas"
+      },
+      {
+        "country": "Bahamas Press",
+        "source_name": "Bahamas Press",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community blog offering local perspective"
+      },
+      {
+        "country": "The Bahamas Weekly",
+        "source_name": "The Bahamas Weekly",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online magazine focusing on Bahamian news"
+      },
+      {
+        "country": "Bahamas",
+        "source_name": "Caribbean Disasters",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "NGO focusing on disaster relief and preparedness"
+      },
+      {
+        "country": "Tech",
+        "source_name": "Bahamas Whois",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Domain registration and WHOIS records"
+      },
+      {
+        "country": "Bahamas",
+        "source_name": "Bahamas COVID-19 Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Real-time COVID-19 data for the Bahamas"
+      },
+      {
+        "country": "Bahamas",
+        "source_name": "Bahamas Radio",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "en",
+        "notes": "Live radio streams from Bahamian stations"
+      },
+      {
+        "country": "Data Portals",
+        "source_name": "Bahamas Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics office data, reliable info"
+      },
+      {
+        "country": "Bahamas",
+        "source_name": "New Providence Community Board",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local community forum, New Providence focused"
+      }
+    ],
+    "Puerto Rico": [
+      {
+        "country": "Puerto Rico",
+        "source_name": "Gobierno de Puerto Rico",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "es",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "El Nuevo Da",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "es",
+        "notes": "Leading Spanish-language newspaper offering comprehensive coverage"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "Noticel",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "es",
+        "notes": "Digital news platform for current affairs and analysis"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "WAPA Noticias",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Local TV news channel providing up-to-date regional coverage"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "Centro de Periodismo Investigativo",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Nonprofit investigative journalism center"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "TechNet Puerto Rico",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local tech community hub, curating industry news"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "CyberNews",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "es",
+        "notes": "Citizen-focused cyber news and opinion platform"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "Isla Data",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "es",
+        "notes": "Open data platform for Puerto Rico, with various datasets"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "PR Open Data Initiative",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Government's open data portal, offering extensive datasets"
+      },
+      {
+        "country": "Puerto Rico",
+        "source_name": "Puerto Rico Hurricane Center",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official tracker for hurricanes and tropical storms"
+      }
+    ],
+    "Antigua and Barbuda": [
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Antigua and Barbuda Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Antigua News Room",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "The Daily Observer",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "National newspaper"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "WIGG TV",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Regional television station"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Caribbean 360",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Regional news site"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Antigua Barbuda Red Cross",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official Red Cross chapter"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Tech Alliance AB",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Local tech community forum"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Cyber Warriors AB",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Discord",
+        "language": "en",
+        "notes": "Local cybersecurity community"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Community Watch AB",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Facebook",
+        "language": "en",
+        "notes": "Community watchdog group"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "AB Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data initiative"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "source_name": "Intell Caribbean",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Regional intelligence analysis"
+      }
+    ],
+    "Barbados": [
+      {
+        "country": "Barbados",
+        "source_name": "Government of Barbados",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "National Library Service",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Library resources and services"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Barbados Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Nation News Barbados",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "VOB Radio Barbados",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Radio station"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Caribbean Broadcasting Corporation",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Public broadcaster"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Transparency International Barbados",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Anti-corruption focus"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Tech Beach Jam",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tech hub and events"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Cyber Crime Unit (RCIP)",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Law enforcement cyber focus"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Barbados Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data"
+      },
+      {
+        "country": "Barbados",
+        "source_name": "Invest Barbados",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Business intelligence"
+      }
+    ],
+    "Dominica": [
+      {
+        "country": "Dominica",
+        "source_name": "Dominica Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "The Dominica News Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Independent online news portal"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Wadix 106.5 FM",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Local radio station, also streams online"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Caribbean 360",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Regional news outlet covering multiple Caribbean countries"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Dominica China Friendship Association",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Bilateral non-profit promoting cultural ties"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "TechDominica",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech community forum"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Cyber Warriors Club",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Discord",
+        "language": "en",
+        "notes": "Dominican cybersecurity community"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Rosalie Forest Community",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Facebook",
+        "language": "en",
+        "notes": "Local community page focusing on environmental initiatives"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Dominica Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government statistics platform"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Dominica Journal",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News and analysis platform"
+      },
+      {
+        "country": "Dominica",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism analytics and data"
+      }
+    ],
+    "Saint Kitts and Nevis": [
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Government of Saint Kitts and Nevis",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "National Emergency Management Agency (NEMA)",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Disaster management and emergency info"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "The St. Kitts and Nevis Observer",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National news outlet"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "WINN FM",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Radio station with news and podcasts"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Caribbean News Service",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Regional news agency"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "The Caribbean Voice",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Regional current affairs blog"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Freedom of Information Act",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "FOI resources and guides"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official open data platform"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Tech Community SKN",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Local tech and innovation community"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Cyber Crime Unit (CCU)",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Law enforcement cyber crime info"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Tourism Ministry",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tourism stats and updates"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Geospatial Unit",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Spatial data and mapping"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Economic Citizen Commission",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Investment and citizenship info"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Social Media Hub",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "scrape",
+        "language": "en",
+        "notes": "Social media monitoring"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "SKN COVID-19 Dashboard",
+        "bucket": "Health",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Official COVID-19 data"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Environmental Health Department",
+        "bucket": "Health",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Public health info and services"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Regional Security System",
+        "bucket": "Regional",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Security and defence cooperation"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "International Criminal Police Organization (INTERPOL) - Sub Bureau",
+        "bucket": "Law Enforcement",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "International police cooperation"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Financial Intelligence Unit",
+        "bucket": "Finance",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Financial crime and AML info"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Invest Saint Kitts and Nevis",
+        "bucket": "Business",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Investment promotion agency"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Fedecamaras St. Kitts and Nevis",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Business and commerce NGO"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts and Nevis Chamber of Industry and Commerce",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Local business directory and resources"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "SKN Connect",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "IT and connectivity news"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Community of St. Kitts and Nevis",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Community events and announcements board"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts Tourism Authority",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism stats and information"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "NEVLEC",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Electricity supply and consumption data"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts and Nevis Information Service",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Government news and press releases"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Caribbean Examinations Council",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Education and exam statistics"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts and Nevis Financial Services Regulation",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Financial services and regulations"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "SKN Vibes",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local news and entertainment"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "Caribbean Island Weather",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Weather updates and forecasts"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts and Nevis International Ship Registry",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Shipping and maritime data"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "University of the West Indies (UWI) Research",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Research publications and data on various topics"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "source_name": "St. Kitts and Nevis National Statistics Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics and data"
+      }
+    ],
+    "Saint Lucia": [
+      {
+        "country": "Saint Lucia",
+        "source_name": "Government of Saint Lucia",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "The Voice St Lucia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Online news portal covering local Saint Lucian news"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "Caribbean News Service",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "News agency focusing on Caribbean region, provides updates on Saint Lucia"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "St Lucia Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Independent Saint Lucian newspaper"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "Reduit Jazz Festival",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Annual jazz festival, provides lineups and updates"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "SLU COVID-19 Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official COVID-19 tracker for Saint Lucia"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "Tech Beach Jam",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tech and innovation conference, offers insights into local tech scene"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "Caribbean Electoral Archive",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Database of historical election results, including Saint Lucia's elections"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "World Factbook - Saint Lucia",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Fact-based profile of the country's geography, people, government, economy"
+      },
+      {
+        "country": "Saint Lucia",
+        "source_name": "St Lucia Hotel & Tourism Association",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official association for tourism industry, provides updates on travel and hospitality"
+      }
+    ],
+    "Saint Vincent and the Grenadines": [
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "SVG Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "SVG News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet covering SVG"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "WinTV SVG",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Regional TV station"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "SVG Voice Online",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Non-profit news platform"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "TechEdge SVG",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech and innovation news"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "Cyber War Room SVG",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Official government cyber monitoring"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "Community Watch",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community safety and awareness platform"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "SVG Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government statistics portal"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "INSPIRE",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "National spatial planning and information system"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tourism industry news and stats"
+      }
+    ],
+    "Grenada": [
+      {
+        "country": "Grenada",
+        "source_name": "Grenada Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Grenada News Online",
+        "source_name": "GNO",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet covering Grenada's latest news"
+      },
+      {
+        "country": "Grenada Broadcasting Network",
+        "source_name": "GBM Radio",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Radio station broadcasting across the Caribbean, accessible via app"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Red Cross Grenada",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local Red Cross chapter providing humanitarian services"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "TechGrenada",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local tech community platform, curating tech news and events"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Cyber.gov.gd",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government portal for cybersecurity initiatives and updates"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Grenada Community Forum",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online community forum for Grenadians, focuses on local issues"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Open Data Grenada",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Portal for open data initiatives, provides access to government datasets"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Intell Caribbean",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Private intelligence firm focusing on Caribbean region"
+      },
+      {
+        "country": "Grenada",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Tourism industry insights and analytics platform"
+      }
+    ],
+    "Trinidad and Tobago": [
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Government of TT",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government website, provides access to various ministries' news and services"
+      },
+      {
+        "country": "Trinidad and Tobago Express",
+        "source_name": "Express",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "One of the major national newspapers, covering local news and events"
+      },
+      {
+        "country": "CNMG",
+        "source_name": "Caribbean New Media Group",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Regional news outlet covering Caribbean affairs, including Trinidad and Tobago"
+      },
+      {
+        "country": "TT",
+        "source_name": "Amnesty International TT",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local branch of the global human rights organization, focusing on local issues"
+      },
+      {
+        "country": "TT",
+        "source_name": "Tech News TT",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local technology and innovation news platform"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "Cyber Crime Unit (TTPS)",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Official cyber crime division of the Trinidad and Tobago Police Service"
+      },
+      {
+        "country": "TT",
+        "source_name": "Port of Spain City Council",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official city council website, providing local community news and services"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "source_name": "T&T Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government-initiated open data platform, offering various datasets"
+      },
+      {
+        "country": "TT",
+        "source_name": "Geospatial Information Agency",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official agency for geographic data, mapping, and analysis"
+      },
+      {
+        "country": "Regional",
+        "source_name": "Caribbean Disaster Emergency Management Agency (CDEMA)",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Information and updates on natural disasters and emergencies across the Caribbean"
+      }
+    ],
+    "Aruba": [
+      {
+        "country": "Aruba",
+        "source_name": "Aruba Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "nl",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Aruba Today",
+        "source_name": "Aruba Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Online news platform covering local Aruba news"
+      },
+      {
+        "country": "Aruba Media Network",
+        "source_name": "AMN",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Media outlet focusing on Aruba's tourism industry"
+      },
+      {
+        "country": "Aruba's Community Pages",
+        "source_name": "ACP",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community-driven platform for Aruban locals"
+      },
+      {
+        "country": "Aruba Red Cross",
+        "source_name": "Aruba Red Cross",
+        "bucket": "NGO",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official local chapter, provides updates on their initiatives"
+      },
+      {
+        "country": "Aruba Network Foundation",
+        "source_name": "ANF",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Non-profit promoting tech education, initiatives, and events"
+      },
+      {
+        "country": "Aruba Cyber Warriors",
+        "source_name": "ACW",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community of cybersecurity professionals, blog updates"
+      },
+      {
+        "country": "Aruba Tourism Authority",
+        "source_name": "ATA",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official tourism board, provides data on visitor trends"
+      },
+      {
+        "country": "Aruba Airport Authority",
+        "source_name": "AAA",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "Data API",
+        "language": "en",
+        "notes": "Real-time flight data, statistics, and updates"
+      },
+      {
+        "country": "Aruba Intelligence Unit",
+        "source_name": "AIU",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Restricted",
+        "language": "en",
+        "notes": "Official government intelligence agency, sensitive information"
+      }
+    ],
+    "Cura\u00e7ao": [
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Government of Cura\u00e7ao",
+        "bucket": "Government",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website, provides valuable insights and news."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "The Curaao Chronicle",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Local online newspaper offering news and opinions."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Antilliaans Dagblad",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "Papiamento",
+        "notes": "Daily newspaper in Papiamento language, covers local news."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Radio Direct Curaao",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Stream",
+        "language": "Dutch",
+        "notes": "Live radio broadcasts in Dutch, focuses on local news and music."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Transparencia Institute",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Non-profit organization working on good governance and transparency initiatives."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Tech Community Curaao",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A hub for tech enthusiasts, provides local tech news and events."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Cyber Crime Unit - KCMC",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official website of the Cyber Crime Unit, offers resources and awareness."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Community Blogs Curaao",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Blog",
+        "language": "English",
+        "notes": "Collection of community blogs and forums, diverse perspectives."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Official open data initiative, providing various datasets."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Tourism Analytics",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tourism-focused data and analysis, useful for industry insights."
+      },
+      {
+        "country": "Cura\u00e7ao",
+        "source_name": "Crime Rates Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Real-time crime data and statistics for Curaao."
+      }
+    ],
+    "Bermuda": [
+      {
+        "country": "Bermuda",
+        "source_name": "Bermuda Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "The Royal Gazette",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Bermuda's oldest continuously published newspaper, provides local news"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Bernews",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news coverage, also focuses on business and finance"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "The Island Guide",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community platform for locals and tourists, covers events, culture, and lifestyle"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Bermuda Sun",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online newspaper covering local news, sports, and entertainment"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Bermuda Broadcasting",
+        "bucket": "Radio",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "en",
+        "notes": "Live radio stream, local news and talk shows"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Tech Bermuda",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Platform for tech innovations and startups in Bermuda"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Bermuda Online",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Provides various data and resources on Bermuda, including business directory"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Bermuda National Security Ministry",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official ministry website, offers insights into national security priorities"
+      },
+      {
+        "country": "Bermuda",
+        "source_name": "Track Coronavirus Bermuda",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Real-time data on COVID-19 cases, official government resource"
+      }
+    ],
+    "Bonaire, Saint Eustatius and Saba": [
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "Government of Bonaire",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website for Bonaire, with key information and resources."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "St. Eustatius Government Online",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "The official government portal for Saint Eustatius, providing updates and services."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "Saba Island Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official website for the Island Government of Saba, offering information on services, news, and more."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "Caribbean Journal",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "A leading regional news outlet covering Caribbean affairs, including stories from Bonaire, Saba, and Eustatius."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "Antilliaans Dagblad",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "A daily Dutch newspaper covering the Caribbean region, with coverage of the ABC islands."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "The Daily Herald",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "A popular English-language newspaper in the Caribbean, covering local and regional stories."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "ABC Islands Tourism",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Multiple",
+        "notes": "A non-profit organization promoting tourism across the ABC islands, with multilingual capabilities."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "Transparancy International",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Chapter focused on promoting transparency and accountability in the region."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "TechBonaire",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "A local tech hub initiative, providing resources and events for the tech community."
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "source_name": "CyberBonaire",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A local platform addressing cyber security issues, with news and resources."
+      }
+    ],
+    "Cayman Islands": [
+      {
+        "country": "Cayman Islands",
+        "source_name": "Cayman Islands Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides valuable insights and information."
+      },
+      {
+        "country": "Cayman News Service",
+        "source_name": "CNS Regional",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Longstanding independent digital news source in the Cayman Islands."
+      },
+      {
+        "country": "Cayman Compass",
+        "source_name": "Compass Media",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Local news coverage, also offers apps for mobile devices."
+      },
+      {
+        "country": "Cayman Islands",
+        "source_name": "Island FM",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community radio station, also live streams online."
+      },
+      {
+        "country": "CI",
+        "source_name": "Regulator.ky",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Non-profit focused on regulatory issues, financial crime, and compliance."
+      },
+      {
+        "country": "Cayman Islands",
+        "source_name": "Tech Cayman",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech community, news, and resources."
+      },
+      {
+        "country": "CI",
+        "source_name": "Cyber Crime CI",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official portal for cyber crime reporting and awareness."
+      },
+      {
+        "country": "Cayman Islands",
+        "source_name": "Cayman Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Open data initiative providing various datasets."
+      },
+      {
+        "country": "UK",
+        "source_name": "FCO Travel Advice",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "UK Foreign Office's travel advice, includes security updates."
+      },
+      {
+        "country": "USA",
+        "source_name": "OFAC Sanctions",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "US Treasury's Office of Foreign Assets Control, tracks sanctions."
+      }
+    ],
+    "Turks and Caicos Islands": [
+      {
+        "country": "Turks and Caicos Islands",
+        "source_name": "TCI Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website for the islands"
+      },
+      {
+        "country": "Turks and Caicos Islands News",
+        "source_name": "WIV4News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet covering the islands"
+      },
+      {
+        "country": "Turks and Caicos",
+        "source_name": "Magnetic Media",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Regional news and opinions"
+      },
+      {
+        "country": "TCI",
+        "source_name": "TCI Journal",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Community blog and events platform"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "source_name": "TCI Tourism",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Tourism information and travel guides"
+      },
+      {
+        "country": "UK Foreign Office",
+        "source_name": "Travel Advice",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Travel advice and warnings for TCI"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "source_name": "TCI Business Directory",
+        "bucket": "Data Portals",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local business directory"
+      },
+      {
+        "country": "TCI",
+        "source_name": "Island Vibes",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local news and entertainment"
+      },
+      {
+        "country": "Caribbean",
+        "source_name": "Caribbean News Service",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News service covering the Caribbean region"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "source_name": "TCI Weather",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time weather data and forecasts"
+      }
+    ],
+    "Greenland": [
+      {
+        "country": "Greenland",
+        "source_name": "Government of Greenland",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English, Kalaallisut",
+        "notes": "Official government website provides reliable information on policies and initiatives."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Grnlands Radio",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Kalaallisut",
+        "notes": "Public radio station covering local news and cultural stories."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Sermitsiaq.AG",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Largest online news outlet in Greenland, offering English translations."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Nuuk TV",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "YouTube",
+        "language": "Kalaallisut",
+        "notes": "Local television station focusing on Nuuk region, also uploads to YouTube."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Kalaallit Nunaata Radioa",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Kalaallisut",
+        "notes": "Radio station covering local news and music from West Greenland."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Greenland Institute of Natural Resources",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Research and advocacy for sustainable resource management."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Climate Change in Arctic Cities",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community-led initiative highlighting climate change impacts."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Google Maps",
+        "bucket": "Tech",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Detailed mapping data and satellite imagery."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "OpenStreetMap",
+        "bucket": "Cyber",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "User-contributed geographic data, useful for detailed information."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Reddit",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Subreddit for local discussions and shared experiences."
+      },
+      {
+        "country": "Greenland",
+        "source_name": "Twitter",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time information and opinions from various sources."
+      }
+    ],
+    "Anguilla": [
+      {
+        "country": "Anguilla",
+        "source_name": "Anguilla Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website, provides reliable info"
+      },
+      {
+        "country": "Anguilla News Online",
+        "source_name": "The Anguilla Times",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet covering Anguilla"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Caribbean News Now! Anguilla",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Regional news coverage with a focus on Anguilla"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "AI Safety Alliance",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Advocacy and awareness NGO"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Anguilla Tech Community",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local tech hub, news and events"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Cyber Angels Anguilla",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Discord",
+        "language": "en",
+        "notes": "Local cyber security community"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Red Cross Anguilla",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Reliable humanitarian organization's local chapter"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Anguilla Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official government statistics platform"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "Anguilla Intelligence Unit",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Law enforcement intelligence agency"
+      },
+      {
+        "country": "Anguilla",
+        "source_name": "FlightAware - Anguilla",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time flight tracking"
+      }
+    ],
+    "Mexico": [
+      {
+        "country": "Mexico",
+        "source_name": "Presidencia de la Repblica",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Official government communications"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Secretara de Relaciones Exteriores",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Foreign affairs department"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "El Universal",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "One of the major national newspapers"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Reforma",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Another prominent national newspaper"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Excelsior",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": ""
+      },
+      {
+        "country": "Mexico",
+        "source_name": "La Jornada",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": ""
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Noticias MVS",
+        "bucket": "National Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Online news portal"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "AR13",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Local news agency, Mexico City"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "El Diario de Jurez",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Local newspaper, Ciudad Jurez"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "El Sol de Mxico",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Newspaper, Mexico City"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Amnista Internacional Mxico",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": ""
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Mxico SOS",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Community safety platform"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Observatorio Ciudadano",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Citizens' observatory for security"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Tech Bazaar MX",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Tech news and reviews"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Cybernews MX",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Online news portal focusing on cyber security"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "INEGI Open Data",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "National Institute of Statistics and Geography"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Government Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Official government data portal"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Mexico Security Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Security and violence incidents"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Drug Violence Analysis",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Independent analysis of drug violence"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Corrupcin y Crimen Organizado",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Focus on corruption and organized crime"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Noticieros Televisa",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "National TV news network"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Radio Frmula",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "National radio station"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Animal Poltico",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": ""
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Mexicoscope",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Non-profit news site"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Mexico Redes Sociales",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Social media trends"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "INSP",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "National Institute of Statistics and Geography"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "Voto Informado",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "Spanish",
+        "notes": "Election analysis platform"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "SentidoN",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Spanish",
+        "notes": "Public opinion and media tracking"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "E-Consulta",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Regional news from Puebla"
+      },
+      {
+        "country": "Mexico",
+        "source_name": "El Financiero",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "Spanish",
+        "notes": "Business and finance news"
+      }
+    ],
+    "Guadeloupe": [
+      {
+        "country": "Guadeloupe",
+        "source_name": "Guadeloupe Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Le Journal de Guadeloupe",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "One of the leading daily newspapers in Guadeloupe"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "RFO Guadeloupe",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Radio television channel, provides news and local content"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Guadeloupe Insolite",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Community blog sharing local experiences and stories"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Gwad'info",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "French",
+        "notes": "Online news platform focusing on citizen journalism"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Tech Guadeloupe",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Local tech community platform, shares tech news and events"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Cyber Guadeloupe",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French",
+        "notes": "Initiative to bridge digital divide, provides internet access points and training"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Guadeloupe Tourism Board",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Multiple languages",
+        "notes": "Official tourism board website, rich in cultural and local information"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Open Data Guadeloupe",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French",
+        "notes": "Official open data portal, provides access to government datasets"
+      },
+      {
+        "country": "Guadeloupe",
+        "source_name": "Guadeloupe Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Local market and business intelligence reports"
+      }
+    ],
+    "Montserrat": [
+      {
+        "country": "Montserrat",
+        "source_name": "Montserrat Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government sources"
+      },
+      {
+        "country": "Montserrat News Online",
+        "source_name": "MNO",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Radio Montserrat",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "en",
+        "notes": "Radio broadcasts"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Caribbean News Desk",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Regional news coverage"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "MSNNG",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Environmental conservation NGO initiatives"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Tech Resiliency Group",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tech infrastructure and resilience updates"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Cyber Montie",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "en",
+        "notes": "Local cyber security forum"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Community Watch",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Community safety and awareness"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Montserrat Statistics",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "en",
+        "notes": "Official statistics platform"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Intell Geospatial",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "en",
+        "notes": "Commercial imagery and analysis"
+      },
+      {
+        "country": "Montserrat",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Tourism trends and analytics"
+      }
+    ],
+    "Martinique": [
+      {
+        "country": "Martinique",
+        "source_name": "Martinique Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official government website, provides latest news and information"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Le Journal de Martinique",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Daily newspaper covering local news and events"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "RFI Martinique",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "Radio France Internationale's Martinique branch, offers local news and podcasts"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Martinique Hebdo",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Weekly news magazine, focuses on society and culture"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "AMM - Association des Maires de Martinique",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "French",
+        "notes": "Association of Mayors, provides municipal news and services"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Martinique Tech Community",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Local tech hub, promotes tech events and startups"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Cyber Martinique",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Forum",
+        "language": "French",
+        "notes": "Online forum for Martinique-based internet users, covers various topics"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Martinique Tourism Office",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Multiple",
+        "notes": "Official tourism board, provides up-to-date information for visitors"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Open Data Martinique",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "French",
+        "notes": "Official open data platform, offers various datasets"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Martinique Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 3,
+        "access": "Subscription",
+        "language": "English",
+        "notes": "Local news and analysis platform, provides monthly briefs"
+      },
+      {
+        "country": "Martinique",
+        "source_name": "Ship Arrival Notifications",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Port of Fort-de-France ship arrival notifications, tracks maritime traffic"
+      }
+    ],
+    "Saint Martin": [
+      {
+        "country": "Saint Martin",
+        "source_name": "Government of Saint Martin",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website for the island"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "The Daily Herald",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National English language newspaper"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Radio Caribbean International",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "fr",
+        "notes": "French language radio station"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Collectivity of Saint Martin",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "fr",
+        "notes": "Official collectivity website, provides local services info"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "SXM Island Time",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community events and news platform"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Saint Martin Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Official data portal for statistics and reports"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Caribbean News Now!",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Online news platform covering the Caribbean region"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Tech Forum SXM",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Local technology and innovation forum"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "Cyber SXM",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "Internet service provider, offers cyber security tips"
+      },
+      {
+        "country": "Saint Martin",
+        "source_name": "TrackMyFlight",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time flight tracking, useful for monitoring airport activity"
+      }
+    ],
+    "Bonaire, Sint Eustatius and Saba": [
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Government of Bonaire",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "Official government website for Bonaire, with key information and services."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "National Radio SSB",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "Dutch",
+        "notes": "Local radio station covering news, music, and cultural content."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "The Daily Herald",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Daily newspaper focusing on local news from Sint Maarten and the Caribbean region."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Caribbean Journal",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online magazine offering coverage of travel, culture, and current events across the Caribbean."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Greenpeace Caribbean",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Regional branch of the global NGO, focusing on environmental issues and campaigns."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "TechSoup Caribbean",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "A technology hub offering resources and events for the Caribbean region, focusing on innovation and tech solutions."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "CyberNews Caribbean",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Online platform for cybersecurity news and insights across the Caribbean."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Community of Saba",
+        "bucket": "Community",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official website of the Saba community, providing local news, events, and island information."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Open Data Caribbean",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "A data portal initiative for the Caribbean, offering various datasets and tools."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "CIFA - Caribbean Information and Communication Agency",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "An intelligence and research hub providing insights into Caribbean affairs."
+      },
+      {
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "source_name": "Cruise Ship Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Real-Time Data",
+        "language": "English",
+        "notes": "Real-time tracker of cruise ship movements in the Caribbean, with historical data."
+      }
+    ],
+    "Bonaire": [
+      {
+        "country": "Bonaire",
+        "source_name": "Government of Bonaire",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "Dutch",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "National Radio Bonaire",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Stream",
+        "language": "Dutch",
+        "notes": "Live radio stream, provides local news and music"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Karang News",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Local news outlet covering community and cultural stories"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Bonaire Island Guide",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "English",
+        "notes": "Community platform with tourist information and local insights"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Tech Bonaire",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "Forum",
+        "language": "English",
+        "notes": "Local tech community forum, discusses tech trends and island-specific tech news"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Bonaire Cyber Group",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "Facebook",
+        "language": "Dutch",
+        "notes": "Facebook group focused on cybersecurity discussions and local hacking scenes"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Bonaire Statistics Bureau",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official statistics bureau, provides access to demographic and economic data"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Regional Intelligence Bureau",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "Registration",
+        "language": "English",
+        "notes": "Requires registration, focuses on regional security and crime intelligence"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Tourism Tracker",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "Tracks tourist trends, provides insights into visitor numbers and preferences"
+      },
+      {
+        "country": "Bonaire",
+        "source_name": "Environmental Monitor",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Non-profit initiative, real-time environmental data and updates"
+      }
+    ],
+    "Sint Eustatius and Saba": [
+      {
+        "country": "Sint Eustatius and Saba",
+        "source_name": "Government of Sint Eustatius",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website for Sint Eustatius, provides valuable insights and information on the island."
+      },
+      {
+        "country": "Sint Eustatius",
+        "source_name": "Saba News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Local news outlet covering various topics related to Saba and Sint Eustatius, offering an island-centric perspective."
+      },
+      {
+        "country": "Caribbean",
+        "source_name": "Caribbean Journal",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "A popular digital media platform focusing on Caribbean news, featuring articles on Sint Eustatius and Saba."
+      },
+      {
+        "country": "Sint Eustatius and Saba",
+        "source_name": "UNESCO World Heritage",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "Information on the UNESCO World Heritage sites in Sint Eustatius and Saba, highlighting their cultural and natural significance."
+      },
+      {
+        "country": "Sint Eustatius",
+        "source_name": "Statia Online",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "English",
+        "notes": "A local community website offering a range of information, news, and events related to Statia."
+      },
+      {
+        "country": "Saba",
+        "source_name": "Saba Island Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "English",
+        "notes": "Official government website for Saba, providing reliable and current information."
+      },
+      {
+        "country": "Saba",
+        "source_name": "Saba News Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "English",
+        "notes": "A dedicated news portal for Saba, covering local events, community stories, and press releases."
+      },
+      {
+        "country": "Caribbean",
+        "source_name": "Loop News Caribbean",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Digital news platform covering the Caribbean region, including stories from Sint Eustatius and Saba."
+      },
+      {
+        "country": "Sint Eustatius and Saba",
+        "source_name": "Environmental Defense Fund",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "An environmental NGO focusing on conservation initiatives in the region, offering insights into sustainable practices."
+      },
+      {
+        "country": "Sint Eustatius",
+        "source_name": "Statia Tourism Development Foundation",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "English",
+        "notes": "A tourism-focused organization promoting Statia, with useful information on attractions and events."
+      }
+    ],
+    "British Virgin Islands": [
+      {
+        "country": "British Virgin Islands",
+        "source_name": "BVI Government Portal",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official government website, provides latest news and updates"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "Virgin Islands Official Gazette",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "PDF",
+        "language": "EN",
+        "notes": "Official government gazette, provides legislative updates"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "BVI News Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Local news outlet, covers latest BVI news"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "The Island Sun",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Local newspaper, BVI focused news and analysis"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "Foxes Online",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Regional news outlet, covers Caribbean news including BVI"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "Caribbean News Now",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "General Caribbean news aggregator, covers BVI news too"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "BVI Chamber of Commerce",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Business and community portal, events and updates"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "BVI Tourism Board",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official tourism portal, lots of multimedia content"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "Open Data BVI",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official open data portal for the BVI, various datasets"
+      },
+      {
+        "country": "British Virgin Islands",
+        "source_name": "BVI Cyber Crime Unit",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official cyber crime unit, provides updates and awareness"
+      }
+    ],
+    "Saint Pierre and Miquelon": [
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "Government of Saint Pierre and Miquelon",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official governmental sources"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "Le Telegramme",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "National News Outlets"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "RCI - Radio Canada Info",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "French",
+        "notes": "French language public broadcaster"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "Saint-Pierre et Miquelon 1re",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Radio France's public broadcasting branch"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "L'Obs de Saint Pierre et Miquelon",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French",
+        "notes": "Local community news and opinions"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "SPM News",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "English",
+        "notes": "Community-based English language news"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "Saint Pierre and Miquelon Tourism",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Multiple",
+        "notes": "Official Tourism Board"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "SPM Weather",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "English",
+        "notes": "Official meteorological data"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "Saint Pierre and Miquelon Maritime Board",
+        "bucket": "Maritime",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official maritime authority"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "source_name": "University of Saint Pierre and Miquelon",
+        "bucket": "Education",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "French",
+        "notes": "Local university, research & publications"
+      }
+    ],
+    "Saint Barthelemy": [
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Government of St. Barth",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "French",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "St. Barth Tourism Office",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "Multiple languages",
+        "notes": "Information portal for tourists"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Radio St Barth",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Stream/API",
+        "language": "French",
+        "notes": "Local radio station"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Le Journal de Saint-Barth",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "French",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "St. Barth Net",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "French",
+        "notes": "Community forum and blog"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "OpenStreetMap",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "Geospatial",
+        "notes": "User-generated map data"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Twitter - #StBarth",
+        "bucket": "Cyber",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "English",
+        "notes": "Real-time tweets"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Instagram - #StBarth",
+        "bucket": "Social Media",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "Visual",
+        "notes": "Photographic insights"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "Wikipedia",
+        "bucket": "Knowledge Base",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "English",
+        "notes": "Encyclopedic resources"
+      },
+      {
+        "country": "Saint Barthelemy",
+        "source_name": "St. Barth Chamber of Commerce",
+        "bucket": "Business",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "French",
+        "notes": "Local business directory"
+      }
+    ],
+    "Curacao": [
+      {
+        "country": "Curacao",
+        "source_name": "Government of Curacao",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "NL, EN",
+        "notes": "Official government website"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Curacao Chronicle",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "General news and lifestyle"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Antilliaans Dagblad",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "PAP, NL",
+        "notes": "Daily newspaper"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Curacao Insider",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Local news and events"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Radio Direct 993",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "PAP",
+        "notes": "Live radio stream and podcasts"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "NGO Directory Curacao",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Listings and contacts of NGOs"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Tech Forum Curacao",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "IT news and community forum"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "CyberNews24",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Cybersecurity news platform"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Community Blogs",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Local community blogs and reviews"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official open data platform"
+      },
+      {
+        "country": "Curacao",
+        "source_name": "Tourism Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Tourism analytics and insights"
+      }
+    ],
+    "Virgin Islands, U.S.": [
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "Government of the Virgin Islands",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "website",
+        "language": "en",
+        "notes": "Official government website for the Virgin Islands"
+      },
+      {
+        "country": "Virgin Islands",
+        "source_name": "Virgin Islands Daily News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news publication"
+      },
+      {
+        "country": "US",
+        "source_name": "USA Today",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "National news outlet covering the Virgin Islands as part of the US"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "Island Time",
+        "bucket": "Regional Media",
+        "trust_tier": 3,
+        "access": "website",
+        "language": "en",
+        "notes": "Local online magazine"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "VI Consortium",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "News organization covering Virgin Islands"
+      },
+      {
+        "country": "US",
+        "source_name": "CNN",
+        "bucket": "National Media",
+        "trust_tier": 1,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Mainstream media with coverage of the US Virgin Islands"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "Virgin Islands Community Foundation",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Nonprofit organization supporting local initiatives"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "University of the Virgin Islands",
+        "bucket": "Education",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Official website of the university"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "VI Tourism Department",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "website",
+        "language": "en",
+        "notes": "Official tourism portal"
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "source_name": "Open Data Portal VI",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Government open data initiative"
+      }
+    ],
+    "Virgin Islands, British": [
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "Government of the Virgin Islands",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official government website for the British Virgin Islands, provides latest news and updates."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "BVI News Online",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "en",
+        "notes": "Local news outlet covering the British Virgin Islands, offers latest news and articles via RSS feed."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "Virgin Islands Platinum",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Online magazine focusing on lifestyle, culture, and news in the British Virgin Islands."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "284 Media",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Digital news platform covering the Caribbean region, including the British Virgin Islands."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "NGO Directory BVI",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "en",
+        "notes": "A comprehensive directory of non-governmental organizations operating in the British Virgin Islands."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "BVI Tourism Board",
+        "bucket": "Tourism",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Official tourism website, offering OSINT on travel and local attractions."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "BVI Beacon",
+        "bucket": "Community",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Community platform for opinions, discussions, and local news in the British Virgin Islands."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "BVI Weather",
+        "bucket": "Data Portals",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "en",
+        "notes": "Real-time weather data and forecasts for the British Virgin Islands, accessible via API."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "BVI Intelligence",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "Subscription",
+        "language": "en",
+        "notes": "A subscription-based service providing comprehensive business intelligence and market research."
+      },
+      {
+        "country": "Virgin Islands, British",
+        "source_name": "Ship Aisle",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "en",
+        "notes": "Real-time ship tracking data, includes port calls and vessel positions for British Virgin Islands waters."
+      }
+    ]
+  }
+}

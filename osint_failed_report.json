@@ -1,0 +1,8 @@
+[
+  {
+    "continent": "North America",
+    "country": "Mexico",
+    "reason": "Expecting ',' delimiter: line 132 column 24 (char 3499) (batch 2)",
+    "raw_response": "[\n    {\n        \"country\": \"Mexico\",\n        \"source_name\": \"Presidencia de la Rep\u00fablica\",\n        \"bucket\": \"Government\",\n        \"trust_tier\": 1,\n        \"access\": \"RSS\",\n        \"language\": \"Spanish\",\n        \"notes\": \"Official government communications\"\n    },\n    {\n        \"country\": \"Mexico\",\n        \"source_name\": \"Secretar\u00eda de Relaciones Exteriores\",\n        \"bucket\": \"Government\",\n        \"trust_tier\": 1,\n        \"access\": \"RSS\",\n        \"language\": \"Spanish\",\n        \"notes\": \"Foreign"
+  }
+]

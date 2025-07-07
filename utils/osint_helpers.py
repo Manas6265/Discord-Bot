@@ -3,7 +3,15 @@ import asyncio
 import aiohttp
 import json
 import os
+import ipaddress
+import hashlib
 from urllib.parse import quote
+from datetime import datetime
+from sklearn.ensemble import IsolationForest
+from sklearn.neighbors import LocalOutlierFactor
+from utils.error_logging_helper import log_error
+from utils.disk_cache import cache_get, cache_set, make_cache_key
+from config import ABUSEIPDB_KEY, APILAYER_WHOIS_KEY, SHODAN_API_KEY, GREYNOISE_API_KEY
 
 logger = logging.getLogger("osint_helpers")
 
@@ -105,7 +113,7 @@ async def check_whatsmyname(username):
                 continue
             tasks.append((site["name"], url))
 
-        batch = tasks[:30]  # Limit to 30 for rate control
+        batch = tasks[:30]
 
         async def check_site(name, url):
             try:
@@ -121,11 +129,109 @@ async def check_whatsmyname(username):
 
     return {"found": bool(found), "platforms": found}
 
-# === Confidence Scoring ===
+async def check_abuseipdb_report(ip: str) -> dict | None:
+    try:
+        ipaddress.ip_address(ip)
+        if not ABUSEIPDB_KEY:
+            return None
 
-def confidence_score(results: dict) -> int:
-    score = 0
-    for res in results.values():
-        if isinstance(res, dict) and res.get("found"):
-            score += 10
-    return min(score, 100)
+        cache_key = make_cache_key("abuseipdb", ip)
+        if cache_get(cache_key):
+            return cache_get(cache_key)
+
+        url = f"https://api.abuseipdb.com/api/v2/check?ipAddress={ip}&maxAgeInDays=90"
+        headers = {"Key": ABUSEIPDB_KEY, "Accept": "application/json"}
+
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, headers=headers) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    abuse_score = data["data"].get("abuseConfidenceScore", 0)
+                    country = data["data"].get("countryCode")
+                    text = f"Abuse Score: {abuse_score}, Country: {country}"
+                    result = {"text": text, "raw": data}
+                    cache_set(cache_key, result)
+                    return result
+    except Exception as e:
+        log_error("check_abuseipdb_report", e)
+    return None
+
+async def check_apilayer_whois(domain: str) -> dict | None:
+    try:
+        if not APILAYER_WHOIS_KEY:
+            return None
+
+        cache_key = make_cache_key("whois", domain)
+        if cache_get(cache_key):
+            return cache_get(cache_key)
+
+        url = f"https://api.apilayer.com/whois/query?domain={domain}"
+        headers = {"apikey": APILAYER_WHOIS_KEY}
+
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, headers=headers) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    registrar = data.get("registrar_name", "N/A")
+                    created = data.get("created_date", "N/A")
+                    updated = data.get("updated_date", "N/A")
+                    text = f"Registrar: {registrar}, Created: {created}, Updated: {updated}"
+                    result = {"text": text, "raw": data}
+                    cache_set(cache_key, result)
+                    return result
+    except Exception as e:
+        log_error("check_apilayer_whois", e)
+    return None
+
+async def check_shodan_info(ip: str) -> dict | None:
+    try:
+        ipaddress.ip_address(ip)
+        if not SHODAN_API_KEY:
+            return None
+
+        cache_key = make_cache_key("shodan", ip)
+        if cache_get(cache_key):
+            return cache_get(cache_key)
+
+        url = f"https://api.shodan.io/shodan/host/{ip}?key={SHODAN_API_KEY}"
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    org = data.get("org", "N/A")
+                    isp = data.get("isp", "N/A")
+                    ports = data.get("ports", [])
+                    text = f"Org: {org}, ISP: {isp}, Ports: {ports}"
+                    result = {"text": text, "raw": data}
+                    cache_set(cache_key, result)
+                    return result
+    except Exception as e:
+        log_error("check_shodan_info", e)
+    return None
+
+async def check_greynoise_info(ip: str) -> dict | None:
+    try:
+        ipaddress.ip_address(ip)
+        if not GREYNOISE_API_KEY:
+            return None
+
+        cache_key = make_cache_key("greynoise", ip)
+        if cache_get(cache_key):
+            return cache_get(cache_key)
+
+        url = f"https://api.greynoise.io/v3/community/{ip}"
+        headers = {"key": GREYNOISE_API_KEY}
+
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, headers=headers) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    category = data.get("classification", "N/A")
+                    name = data.get("name", "N/A")
+                    text = f"Noise Class: {category}, Actor: {name}"
+                    result = {"text": text, "raw": data}
+                    cache_set(cache_key, result)
+                    return result
+    except Exception as e:
+        log_error("check_greynoise_info", e)
+    return None

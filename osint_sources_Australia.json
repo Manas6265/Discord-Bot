@@ -1,0 +1,258 @@
+{
+  "Australia": {
+    "Australia": [
+      {
+        "country": "Australia",
+        "source_name": "Australian Government",
+        "bucket": "Government",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official government resources"
+      },
+      {
+        "country": "Australia",
+        "source_name": "ABC News",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Public broadcaster, diverse content"
+      },
+      {
+        "country": "Australia",
+        "source_name": "The Sydney Morning Herald",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "National daily newspaper"
+      },
+      {
+        "country": "Australia",
+        "source_name": "The Age",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "National newspaper, focus on news and politics"
+      },
+      {
+        "country": "Australia",
+        "source_name": "The Guardian Australia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Australian edition of The Guardian"
+      },
+      {
+        "country": "Australia",
+        "source_name": "News Corp Australia",
+        "bucket": "National Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Media organization, various publications"
+      },
+      {
+        "country": "Australia",
+        "source_name": "ABC Regional",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Regional news, stories from across Australia"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Herald Sun",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Victoria-based newspaper, news and opinions"
+      },
+      {
+        "country": "Australia",
+        "source_name": "The Australian Financial Review",
+        "bucket": "NGO",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Financial and business news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australian Institute of Criminology",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Research-based, crime and justice news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "TechAU",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Australian tech news and reviews"
+      },
+      {
+        "country": "Australia",
+        "source_name": "ZDNet Australia",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Tech industry news, analysis"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Cyber.gov.au",
+        "bucket": "Cyber",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Official government cyber security news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "ACSC Threat Report",
+        "bucket": "Intelligence",
+        "trust_tier": 1,
+        "access": "PDF",
+        "language": "EN",
+        "notes": "Official threat intelligence reports"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australian Security Magazine",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Security industry news, interviews"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australia's Open Data Portal",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Official government open data"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Data.gov.au",
+        "bucket": "Data Portals",
+        "trust_tier": 1,
+        "access": "API",
+        "language": "EN",
+        "notes": "Government data, statistics"
+      },
+      {
+        "country": "Australia",
+        "source_name": "TrackCOVID",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "API",
+        "language": "EN",
+        "notes": "COVID-19 tracker for Australia"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Ausvote",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Scrape",
+        "language": "EN",
+        "notes": "Election results, polling data"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Sunrise Weather",
+        "bucket": "Trackers",
+        "trust_tier": 3,
+        "access": "API",
+        "language": "EN",
+        "notes": "Weather information and forecasts"
+      },
+      {
+        "country": "Australia",
+        "source_name": "The Australian Community Media",
+        "bucket": "Regional Media",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Community-focused, local news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "NGO News Australia",
+        "bucket": "NGO",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Curated NGO news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "TechCrunch Australia",
+        "bucket": "Tech",
+        "trust_tier": 2,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Tech industry news, startups, and innovation"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australian Community Network",
+        "bucket": "Community",
+        "trust_tier": 3,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Community notices, events, and news"
+      },
+      {
+        "country": "Australia",
+        "source_name": "MyHealth Record",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "App",
+        "language": "EN",
+        "notes": "Personal health tracking"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Crime Stoppers Australia",
+        "bucket": "Trackers",
+        "trust_tier": 2,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Community crime reporting"
+      },
+      {
+        "country": "Australia",
+        "source_name": "Australian Electoral Commission",
+        "bucket": "Trackers",
+        "trust_tier": 1,
+        "access": "Website",
+        "language": "EN",
+        "notes": "Election results and data"
+      },
+      {
+        "country": "Australia",
+        "source_name": "IT News Australia",
+        "bucket": "Tech",
+        "trust_tier": 3,
+        "access": "RSS",
+        "language": "EN",
+        "notes": "Tech industry news"
+      }
+    ]
+  }
+}
