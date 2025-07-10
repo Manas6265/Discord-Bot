@@ -1,3 +1,5 @@
+
+#Purpose: To confirm that our code and the Cohere API both enforce the documented rate limits, and that our  system recovers gracefully after waiting.
 import unittest
 import asyncio
 import time
