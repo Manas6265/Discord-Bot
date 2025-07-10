@@ -1,5 +1,6 @@
 I was getting bored so tried somethung. It has several "minor" issues but can be resolved easily.
-
+Their are several things which i don't understand/know yet, so I used AI particularly for those works or to add comments.
+this is just a pre-alpha stage model, which I as a solo developer,"will" develop after studing more about programing langs and tools.
 Visual Flow (Textual)
 
 User
